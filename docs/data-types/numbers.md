@@ -7,4 +7,5 @@ permalink: /data-types/numbers
 ---
 
 ## Numbers
-integers and floats
+integers and floats.
+Testing 123
