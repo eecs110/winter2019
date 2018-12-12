@@ -25,22 +25,9 @@ github_username:  vanwars
 markdown: kramdown
 theme: "just-the-docs"
 remote_theme: "pmarsceill/just-the-docs"
-plugins:
-  - jekyll-feed
 search_enabled: true
 
 aux_links:
-    "Course Description":
-      - "//www.mccormick.northwestern.edu/eecs/courses/descriptions/110.html"
+    "Piazza":
+      - "//piazza.com/northwestern/winter2019/eecs110/home"
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
