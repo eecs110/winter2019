@@ -1,15 +1,119 @@
-table {
-    width: auto;
-    border: solid 1px #DDD;
-    border-radius: 4px;
-    box-shadow: none;
+// variables: https://github.com/pmarsceill/just-the-docs/blob/master/_sass/support/_variables.scss
+$light-gray: #F6F6F6;
+$border-gray: #DDD;
+$sidebar-color: $light-gray;
+$purple-100: #4e2486;
+$purple-200: #5f3992;
+$purple-300: #714f9e;
+$purple-400: #8365aa;
+$purple-500: #947bb6;
+$purple-600: #a691c2;
+$purple-700: #b8a7ce;
+$purple-800: #c9bdda;
+$purple-900: #dbd3e6;
+$purple-1000: #ede9f2;
+
+
+$link-color: $purple-200;
+
+a {
+    color: $link-color;
+}
+::selection {
+    color: $white;
+    background: $link-color;
+}  
+.btn, .btn:hover {
+    margin-top: 6px;
+    color: $link-color;
+}
+.btn-purple {
+    background-color: $link-color;
+    color: white;
+}
+.btn-purple:hover {
+    color: white;
 }
 
-// p, li {
-//     font-family: Georgia,Cambria,"Times New Roman",Times,serif;
-// }
+.side-bar, .site-title {
+    background-color: $sidebar-color;
+}
 
-// p {
-//     line-height: 1.6em;
-//     font-size: 1.2em;
-// }
+.page-content {
+    ul, ol {
+        padding-left: 4em;
+    }
+
+    td, th {
+        font-size: 0.95em !important;
+        strong {
+            font-weight: 600;
+        }
+    }
+    h1 {
+        text-transform: uppercase;
+    }
+
+    h2 {
+        font-size: 1.6em !important;
+        font-weight: 500;
+    }
+
+    h3 {
+        margin-bottom: 0px;
+        font-size: 1.4em !important;
+        font-weight: 400;
+    }
+    
+    table {
+        //width: auto;
+        border: solid 1px #DDD;
+        border-radius: 4px;
+        box-shadow: none;
+    }
+    
+    blockquote {
+        p, li {
+            font-family: $body-font-family;
+            font-size: 1em;
+            line-height: 1.4em;
+        }
+        border-left: solid 5px $purple-400;
+        border-top: solid 1px $border-gray;
+        border-right: solid 1px $border-gray;
+        border-bottom: solid 1px $border-gray;
+        padding: 5px 5px 5px 10px;
+        margin: 0px 0px 20px 0px;
+        background-color: $light-gray;
+    }
+    
+    p, li {
+        font-family: Georgia,Cambria,"Times New Roman",Times,serif;
+    }
+    
+    p, li{
+        font-size: 1.15em;
+        line-height: 1.7em;
+    }
+
+}
+
+#markdown-toc, .navigation-list {
+    li {
+        font-family: $body-font-family;
+        line-height: 1.3em;
+        font-size: 1.0em;
+    }
+    padding-left: 1.5em;
+    ol {
+        padding-left: 2.5em; 
+    }
+}
+
+.breadcrumb-nav-list-item, .search-input, .navigation-list-item {
+    font-size: 1.0em !important;
+}
+
+.d-inline-block {
+    font-size: 1.2em !important;
+}
