@@ -17,7 +17,7 @@ permalink: /
 |--|--|--|--|
 | **Week 1** | **Tu Jan 8**<br>Introduction to programming with Python <br>[Code](#), [Slides](#) |||
 | | **Th Jan 10**<br>Variables, expressions, and statements ||
-| | **Lab**<br>Configuring Python on your laptop | [Lab 1](#) | Lab 1 |
+| | **Lab**<br>Configuring Python on your laptop | [Lab 1](https://docs.google.com/document/d/1D2Y6u2hZm2zdyLB9IRjrS-IKhDR1v65ZfgxYIVYc0Hk/edit?usp=sharing){: .btn .btn-outline } | Lab 1 |
 | **Week 2** | **Tu Jan 15**<br>Expressions, and statements continued | [Homework 1](#) ||
 || **Th Jan 17**<br>Functions |||
 || **Lab**<br>Practice with functions and control | [Lab 2](#) | Lab 2 |
