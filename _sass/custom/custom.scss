@@ -27,6 +27,13 @@ a {
     margin-top: 6px;
     color: $link-color;
 }
+.label-purple {
+    background-color: $link-color; 
+}
+.label-default {
+    color: #222;
+    background-color: $border-gray; 
+}
 .btn-purple {
     background-color: $link-color;
     color: white;
@@ -70,6 +77,9 @@ a {
         border: solid 1px #DDD;
         border-radius: 4px;
         box-shadow: none;
+        td, th {
+            min-width: 80px;
+        }
     }
     
     blockquote {
