@@ -28,6 +28,6 @@ remote_theme: "pmarsceill/just-the-docs"
 search_enabled: true
 
 aux_links:
-    "Piazza":
+    "Piazza <i class='fas fa-external-link-alt'></i>":
       - "//piazza.com/northwestern/winter2019/eecs110/home"
 

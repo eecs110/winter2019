@@ -1,4 +1,7 @@
 // variables: https://github.com/pmarsceill/just-the-docs/blob/master/_sass/support/_variables.scss
+
+@import 'https://use.fontawesome.com/releases/v5.6.1/css/all.css';
+
 $light-gray: #F6F6F6;
 $border-gray: #DDD;
 $sidebar-color: $light-gray;
@@ -21,26 +24,29 @@ a {
 }
 ::selection {
     color: $white;
-    background: $link-color;
+    background: $purple-400;
 }  
 .btn, .btn:hover {
     margin-top: 6px;
     color: $link-color;
+    &.btn-purple {
+        background-color: $link-color;
+        color: white;
+    }
+    &.btn-purple:hover {
+        color: white;
+    }
 }
-.label-purple {
-    background-color: $link-color; 
+.label {
+    &.label-purple {
+        background-color: $link-color; 
+    }
+    &.label-default {
+        color: #222;
+        background-color: $border-gray; 
+    }
 }
-.label-default {
-    color: #222;
-    background-color: $border-gray; 
-}
-.btn-purple {
-    background-color: $link-color;
-    color: white;
-}
-.btn-purple:hover {
-    color: white;
-}
+
 
 .side-bar, .site-title {
     background-color: $sidebar-color;
@@ -79,6 +85,14 @@ a {
         box-shadow: none;
         td, th {
             min-width: 80px;
+        }
+
+        &.schedule {
+            td:first-child {
+                text-align: center;
+                font-weight: 600;
+                width: 90px;
+            }
         }
     }
     
@@ -122,6 +136,13 @@ a {
 
 .breadcrumb-nav-list-item, .search-input, .navigation-list-item {
     font-size: 1.0em !important;
+    i {
+        font-size: 0.8em;
+    }
+}
+
+.fa-external-link-alt {
+    color: #BBB;
 }
 
 .d-inline-block {

@@ -12,10 +12,10 @@ permalink: /
 > * Homeworks and projects are always due on Tuesday at 11:59PM
 > * Tutorials are always due on Friday at 11:59PM
 
-<table>
+<table class="schedule">
     <thead>
         <tr>
-            <th style="width: 40px !important;">Week</th>
+            <th>Week</th>
             <th>Topic</th>
             <th style="width: 100px;">Assigned</th>
             <th style="width: 130px !important;">Due</th>
@@ -24,12 +24,12 @@ permalink: /
     <tbody>
         <!-- WEEK #1 -->
         <tr>
-            <td><strong>Week 1</strong></td>
+            <td>Week 1</td>
             <td>
                 <strong>Tu Jan 8</strong><br>
                 Introduction to programming with Python<br>
                 <a href="#">Code</a>, 
-                <a href="#">Slides</a>
+                <a  class="btn btn-outline" href="https://docs.google.com/presentation/d/1lFtVbEGrP8PoTZlK-q6SpYLN_B8MDNcN0pBJ_lc7Yd8/edit#slide=id.p" target="_blank">Slides</a>
             </td>
             <td></td>
             <td></td>
@@ -50,14 +50,14 @@ permalink: /
                 Configuring Python on your laptop
             </td>
             <td>
-                <a class="btn btn-outline" href="https://docs.google.com/document/d/1D2Y6u2hZm2zdyLB9IRjrS-IKhDR1v65ZfgxYIVYc0Hk/edit?usp=sharing">Tutorial 1</a>
-                <a class="btn btn-outline" href="https://docs.google.com/document/d/1FKPwPzM-d_R1mLhN4jUQ6hnzpeH3dXfjncjzMpxM-Fg/edit#">EC 1</a>
+                <a class="btn btn-outline" href="https://docs.google.com/document/d/1D2Y6u2hZm2zdyLB9IRjrS-IKhDR1v65ZfgxYIVYc0Hk/edit?usp=sharing" target="_blank">Tutorial 1</a>
+                <a class="btn btn-outline" href="https://docs.google.com/document/d/1FKPwPzM-d_R1mLhN4jUQ6hnzpeH3dXfjncjzMpxM-Fg/edit#" target="_blank">EC 1</a>
             </td>
             <td><span class="label label-default">Tutorial 1</span></td>
         </tr>
         <!-- WEEK #2 -->
         <tr>
-            <td><strong>Week 2</strong></td>
+            <td>Week 2</td>
             <td>
                 <strong>Tu Jan 15</strong><br>
                 Expressions, and statements continued<br>
@@ -88,7 +88,7 @@ permalink: /
         </tr>
         <!-- WEEK #3 -->
         <tr>
-            <td><strong>Week 3</strong></td>
+            <td>Week 3</td>
             <td>
                 <strong>Tu Jan 22</strong><br>
                 Conditional execution<br>
@@ -119,7 +119,7 @@ permalink: /
         </tr>
         <!-- WEEK #4 -->
         <tr>
-            <td><strong>Week 4</strong></td>
+            <td>Week 4</td>
             <td>
                 <strong>Tu Jan 29</strong><br>
                 Lists and strings<br>
@@ -147,7 +147,7 @@ permalink: /
         </tr>
         <!-- WEEK #5 -->
         <tr>
-            <td><strong>Week 5</strong></td>
+            <td>Week 5</td>
             <td>
                 <strong>Tu Feb 5</strong><br>
                 Dictionaries<br>
@@ -178,7 +178,7 @@ permalink: /
         </tr>
         <!-- WEEK #6 -->
         <tr>
-            <td><strong>Week 6</strong></td>
+            <td>Week 6</td>
             <td>
                 <strong>Tu Feb 12</strong><br>
                 Files<br>
@@ -211,7 +211,7 @@ permalink: /
         </tr>
         <!-- WEEK #7 -->
         <tr>
-            <td><strong>Week 7</strong></td>
+            <td>Week 7</td>
             <td>
                 <strong>Tu Feb 19</strong><br>
                 Regular Expressions<br>
@@ -243,7 +243,7 @@ permalink: /
         </tr>
         <!-- WEEK #8 -->
         <tr>
-            <td><strong>Week 8</strong></td>
+            <td>Week 8</td>
             <td>
                 <strong>Tu Feb 26</strong><br>
                 Using Web Services and APIs<br>
@@ -274,7 +274,7 @@ permalink: /
         </tr>
         <!-- WEEK #9 -->
         <tr>
-            <td><strong>Week 9</strong></td>
+            <td>Week 9</td>
             <td>
                 <strong>Tu Mar 5</strong><br>
                 Object Oriented Programming I<br>
@@ -307,7 +307,7 @@ permalink: /
         </tr>
         <!-- WEEK #10 -->
         <tr>
-            <td><strong>Week 10</strong></td>
+            <td>Week 10</td>
             <td>
                 <strong>Tu Mar 12</strong><br>
                 Exam Review<br>
@@ -336,7 +336,7 @@ permalink: /
         </tr>
         <!-- FINALS WEEK -->
         <tr>
-            <td><strong>FINALS</strong></td>
+            <td>Finals Week</td>
             <td>
                 <strong>Tu Mar 19</strong><br>
             </td>
