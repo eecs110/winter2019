@@ -1,7 +1,44 @@
-// variables: https://github.com/pmarsceill/just-the-docs/blob/master/_sass/support/_variables.scss
-
 @import 'https://use.fontawesome.com/releases/v5.6.1/css/all.css';
 
+// variables: https://github.com/pmarsceill/just-the-docs/blob/master/_sass/support/_variables.scss
+
+////////////
+// Layout //
+////////////
+$nav-width: 232px;
+$content-width: 900px;
+$media-queries: (
+  xs: 320px,
+  sm: 500px,
+  md: 740px,
+  lg: $content-width,
+  xl: 1316px
+) !default;
+.side-bar {
+    
+    @include mq(md) {
+      width: $nav-width + 16px;
+    }
+  
+    @include mq(lg) {
+      width: calc((100% - #{$nav-width + $content-width}) / 2 + #{$nav-width});
+      min-width: $nav-width;
+    }
+}
+.main-content {
+    @include mq(md) {
+      margin-left: $nav-width;
+      max-width: $content-width;
+    }
+  
+    @include mq(lg) {
+      margin-left: calc((100% - #{$nav-width + $content-width}) / 2 + #{$nav-width});
+    }
+}
+
+////////////
+// Colors //
+////////////
 $light-gray: #F6F6F6;
 $border-gray: #DDD;
 $sidebar-color: $light-gray;
@@ -38,6 +75,8 @@ a {
     }
 }
 .label {
+    margin: 0px;
+    margin-bottom: 8px;
     &.label-purple {
         background-color: $link-color; 
     }
@@ -47,11 +86,13 @@ a {
     }
 }
 
-
 .side-bar, .site-title {
     background-color: $sidebar-color;
 }
 
+//////////////////////////
+// Other Customizations //
+//////////////////////////
 .page-content {
     ul, ol {
         padding-left: 4em;
@@ -88,10 +129,19 @@ a {
         }
 
         &.schedule {
+            td, th {
+                vertical-align: top;
+            }
             td:first-child {
-                text-align: center;
+                text-align: left;
                 font-weight: 600;
-                width: 90px;
+                max-width: 120px;
+            }
+            td:last-child {
+                max-width: 130px;
+            }
+            th {
+                text-align: left;
             }
         }
     }
