@@ -40,6 +40,9 @@ $media-queries: (
 // Colors //
 ////////////
 $light-gray: #F6F6F6;
+$light-gray-1: #e7e7e7;
+$grey-lt-000: $light-gray;
+$code-background-color: $light-gray;
 $border-gray: #DDD;
 $sidebar-color: $light-gray;
 $purple-100: #4e2486;
@@ -90,6 +93,10 @@ a {
     background-color: $sidebar-color;
 }
 
+code, pre.highlight {
+    background-color: $code-background-color;
+}
+
 //////////////////////////
 // Other Customizations //
 //////////////////////////
@@ -118,16 +125,20 @@ a {
         font-size: 1.4em !important;
         font-weight: 400;
     }
-    
+    iframe {
+        border: solid 20px $light-gray-1 !important;
+    }
     table {
         //width: auto;
         border: solid 1px #DDD;
         border-radius: 4px;
         box-shadow: none;
         td, th {
-            min-width: 80px;
+            min-width: 30px;
         }
-
+        td:last-child {
+            min-width: 170px;
+        }
         &.schedule {
             td, th {
                 vertical-align: top;
@@ -168,6 +179,16 @@ a {
     p, li{
         font-size: 1.15em;
         line-height: 1.7em;
+    }
+    .text-delta {
+        font-size: 1.0em !important;
+        +ul {
+            li {
+                font-family: $body-font-family;
+                line-height: 1.3em;
+                font-size: 1.0em;
+            }
+        }
     }
 
 }
