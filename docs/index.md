@@ -5,6 +5,7 @@
 layout: default
 nav_order: 1
 title: Schedule
+has_children: true
 permalink: /
 ---
 # Schedule
@@ -28,8 +29,9 @@ permalink: /
             <td>
                 <strong>Tu Jan 8</strong><br>
                 Introduction to programming with Python<br>
-                <a href="#">Code</a>, 
-                <a  class="btn btn-outline" href="https://docs.google.com/presentation/d/1lFtVbEGrP8PoTZlK-q6SpYLN_B8MDNcN0pBJ_lc7Yd8/edit#slide=id.p" target="_blank">Slides</a>
+                <a class="btn btn-outline" href="https://github.com/eecs110/winter2019-course-files/blob/master/notebooks/01.%20Introduction.ipynb" target="_blank">Notebook</a> 
+                <a class="btn btn-outline" href="https://raw.githubusercontent.com/eecs110/winter2019-course-files/master/notebooks/scripts/01_introduction.py" target="_blank">Script</a>
+                <a class="btn btn-outline" href="https://docs.google.com/presentation/d/1lFtVbEGrP8PoTZlK-q6SpYLN_B8MDNcN0pBJ_lc7Yd8/edit#slide=id.p" target="_blank">Slides</a>
             </td>
             <!-- <td></td> -->
             <td></td>

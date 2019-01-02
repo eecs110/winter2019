@@ -70,6 +70,25 @@ Assignment operators are a way of saying: "put the results of the expression sto
 Here is an example of some of the assignment operators in action (using numeric values):
 <iframe width="100%" height="350" frameborder="0" src="http://pythontutor.com/iframe-embed.html#code=a%20%3D%2020%0Ab%20%3D%2040%0Ac%20%3D%20a%0Ac%20%2B%3D%20b%0Ac%20-%3D%20b%0Ac%20*%3D%20b%0Ac%20/%3D%20b&codeDivHeight=400&codeDivWidth=350&cumulative=false&curInstr=0&heapPrimitives=nevernest&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false"> </iframe>
 
+### Logical Operators
+Logical operators allow a program to make a decision based on multiple conditions. For example, consider a game controller with 2 buttons. If both buttons are pressed (both are True) then the Ninja does a jump kick. If only the left button is pressed, then the Ninja does a forward kick. If only the right button is pressed, the Ninja does a punch. Checking whether one or more things is True or False is a fundamental part of computer programming.
+
+| Operator | Description |
+|--|--|
+| and | if both operands are True then the expression evaluates to True. Otherwise, the expression evaluates to False |
+| or | If either or both operands are True then the expression evaluates to True. Otherwise, the expression evaluates to False |
+| not| If the operand is False than the expression evaluates to True (and vice versa) |
+
+### Truth Table
+The table below, which is called a *Truth Table*, shows what happens in a variety of different scenarios for `v1` and `v2`.
+
+| row num. | v1 | v2 | v1 and v2 | v1 or v2 | not v1 | not v2 | not (v1 and v2) |
+|--|--|--|--|--|--|--|--|
+| 1. | True | True | True | True | False| False | False |
+| 2. | True | False | False | True | False | True | True |
+| 3. | False | True | False | True | True | False | True |
+| 4. | False | False | False | False | True|  True | True |
+
 
 ## Built-In Functions
 Python has a number of built-in functions. A few of them are listed below. For the complete list, please check out the [Python reference](https://docs.python.org/3/library/functions.html).

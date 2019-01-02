@@ -7,6 +7,7 @@
 ////////////
 $nav-width: 232px;
 $content-width: 900px;
+$serif-font-family: Georgia,Cambria,"Times New Roman",Times,serif;
 $media-queries: (
   xs: 320px,
   sm: 500px,
@@ -173,12 +174,16 @@ code, pre.highlight {
     }
     
     p, li {
-        font-family: Georgia,Cambria,"Times New Roman",Times,serif;
+        font-family: $body-font-family;
     }
     
-    p, li{
+    p, li {
         font-size: 1.15em;
         line-height: 1.7em;
+        li {
+            font-size: 1em; 
+            line-height: 1.3em;  
+        }
     }
     .text-delta {
         font-size: 1.0em !important;
