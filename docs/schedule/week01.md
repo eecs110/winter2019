@@ -11,11 +11,11 @@ permalink: /week-01
 ## Tuesday, January 8
 Introduction to programming with Python.
 ### Slides
-1. <a href="https://docs.google.com/presentation/d/e/2PACX-1vQfIS4tu6uvp3ISksMSK2vvYlV10E6WH42SKiI3hMWmx0PHRZj_gaMcUHjK4G1Ej2ZXpGYp36K4fTIs/pub?start=false&loop=false&delayms=3000" target="_blank">Intro to the course</a>
-2. <a href="https://docs.google.com/presentation/d/e/2PACX-1vQfIS4tu6uvp3ISksMSK2vvYlV10E6WH42SKiI3hMWmx0PHRZj_gaMcUHjK4G1Ej2ZXpGYp36K4fTIs/pub?start=false&loop=false&delayms=3000" target="_blank">Software and hardware</a>
+1. <a href="https://docs.google.com/presentation/d/e/2PACX-1vQTV_YXYGm7Lzi5FIyJOaabWly6EEbvhiuHLkX097vuJwxAjoDzP0lv6VFhzpcjtTLIBjFdxYkrU3AQ/pub?start=false&loop=false&delayms=3000" target="_blank">Intro to the course</a>
+2. <a href="https://docs.google.com/presentation/d/e/2PACX-1vTRibbLZqCUZpVYHM7cv19Gw-OYMFxzPPo8u-26n8qSHX8RnkpUQCtg7R2RodgDXkyhnxJL-RA3umWy/pub?start=false&loop=false&delayms=3000" target="_blank">Software and hardware</a>
 
 ### Code Samples
-* Shakespeare Example [notebook](course-files/notebooks/01.%20Introduction.ipynb){: .btn .btn-outline .btn-small} [script](course-files/notebooks/scripts/01_introduction.py){: .btn .btn-outline .btn-small}
+* Shakespeare Example [notebook]({{ site.baseurl }}/course-files/notebooks/01.%20Introduction.ipynb){: .btn .btn-outline .btn-small} [script]({{ site.baseurl }}/course-files/notebooks/scripts/01_introduction.py){: .btn .btn-outline .btn-small}
 * Animation
 * Image Manipulation
 * Drawing
