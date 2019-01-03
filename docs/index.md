@@ -26,7 +26,7 @@ permalink: /
         <!-- WEEK #1 -->
         <tr>
             <td>
-                <a class="btn btn-outline" href="schedule/week-01">Week 1</a>
+                <a class="btn btn-outline" href="week-01">Week 1</a>
             </td>
             <td>
                 <strong>Tu Jan 8</strong><br>

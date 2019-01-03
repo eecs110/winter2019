@@ -3,7 +3,7 @@ layout: default
 title: Week 1
 parent: Schedule
 nav_order: 1
-permalink: /schedule/week-01
+permalink: /week-01
 ---
 
 # WEEK 1
@@ -15,7 +15,7 @@ Introduction to programming with Python.
 2. <a href="https://docs.google.com/presentation/d/e/2PACX-1vQfIS4tu6uvp3ISksMSK2vvYlV10E6WH42SKiI3hMWmx0PHRZj_gaMcUHjK4G1Ej2ZXpGYp36K4fTIs/pub?start=false&loop=false&delayms=3000" target="_blank">Software and hardware</a>
 
 ### Code Samples
-* Shakespeare Example [notebook](https://raw.githubusercontent.com/eecs110/winter2019-course-files/master/notebooks/01.%20Introduction.ipynb){: .btn .btn-outline .btn-small} [script](https://raw.githubusercontent.com/eecs110/winter2019-course-files/master/notebooks/scripts/01_introduction.py){: .btn .btn-outline .btn-small}
+* Shakespeare Example [notebook](course-files/notebooks/01.%20Introduction.ipynb){: .btn .btn-outline .btn-small} [script](course-files/notebooks/scripts/01_introduction.py){: .btn .btn-outline .btn-small}
 * Animation
 * Image Manipulation
 * Drawing
