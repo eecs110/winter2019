@@ -39,6 +39,9 @@ Note: Windows users need to use the Anaconda prompt rather than the traditional 
 3. Built-in functions and modules
 {: .linkify}
 
+### Readings and Resources
+1. [Compilers versus interpreters](https://tomassetti.me/difference-between-compiler-interpreter/)
+{: .linkify}
 
 ## Tutorial
 1. [Tutorial 1](https://docs.google.com/document/d/1D2Y6u2hZm2zdyLB9IRjrS-IKhDR1v65ZfgxYIVYc0Hk/edit?usp=sharing) (due Friday, Jan 11)
