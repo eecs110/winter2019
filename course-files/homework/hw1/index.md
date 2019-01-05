@@ -4,7 +4,7 @@ nav_order: 4
 title: Hw1
 nav_exclude: True
 ---
-<h1>WEEEEE!!! Hw1</h1>
+<h1>Hw1</h1>
 <a href=".">course-files/homework/hw1/</a>
 <style>
     .tbl-files {

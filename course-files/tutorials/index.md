@@ -4,7 +4,7 @@ nav_order: 4
 title: Tutorials
 nav_exclude: True
 ---
-<h1>WEEEEE!!! Tutorials</h1>
+<h1>Tutorials</h1>
 <a href=".">course-files/tutorials/</a>
 <style>
     .tbl-files {

@@ -4,7 +4,7 @@ nav_order: 4
 title: Notebooks
 nav_exclude: True
 ---
-<h1>WEEEEE!!! Notebooks</h1>
+<h1>Notebooks</h1>
 <a href=".">course-files/notebooks/</a>
 <style>
     .tbl-files {
