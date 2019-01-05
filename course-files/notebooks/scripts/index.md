@@ -5,9 +5,9 @@ title: Scripts
 nav_exclude: True
 ---
 
-<h1>Scripts</h1>
+# Scripts
 
-<a href=".">course-files/notebooks/scripts/</a>
+[course-files/notebooks/scripts/](.)
 
 <table class="tbl-files">
     <tbody>

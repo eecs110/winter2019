@@ -5,9 +5,9 @@ title: Homework
 nav_exclude: True
 ---
 
-<h1>Homework</h1>
+# Homework
 
-<a href=".">course-files/homework/</a>
+[course-files/homework/](.)
 
 <table class="tbl-files">
     <tbody>

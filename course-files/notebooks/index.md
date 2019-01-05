@@ -5,9 +5,9 @@ title: Notebooks
 nav_exclude: True
 ---
 
-<h1>Notebooks</h1>
+# Notebooks
 
-<a href=".">course-files/notebooks/</a>
+[course-files/notebooks/](.)
 
 <table class="tbl-files">
     <tbody>

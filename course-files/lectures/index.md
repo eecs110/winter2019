@@ -5,9 +5,9 @@ title: Lectures
 nav_exclude: True
 ---
 
-<h1>Lectures</h1>
+# Lectures
 
-<a href=".">course-files/lectures/</a>
+[course-files/lectures/](.)
 
 <table class="tbl-files">
     <tbody>

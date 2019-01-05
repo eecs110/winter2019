@@ -5,9 +5,9 @@ title: Hw1
 nav_exclude: True
 ---
 
-<h1>Hw1</h1>
+# Hw1
 
-<a href=".">course-files/homework/hw1/</a>
+[course-files/homework/hw1/](.)
 
 <table class="tbl-files">
     <tbody>

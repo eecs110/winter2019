@@ -12,9 +12,9 @@ title: ${title}
 nav_exclude: ${exclude}
 ---
 
-<h1>${title}</h1>
+# ${title}
 
-<a href=".">${header}</a>
+[${header}](.)
 
 <table class="tbl-files">
     <tbody>
