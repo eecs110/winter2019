@@ -57,6 +57,11 @@ $purple-700: #b8a7ce;
 $purple-800: #c9bdda;
 $purple-900: #dbd3e6;
 $purple-1000: #ede9f2;
+$python: #22b8cf;
+
+.fa-python {
+    color: $python;
+}
 
 
 $link-color: $purple-200;
@@ -129,6 +134,9 @@ code, pre.highlight {
     }
     iframe {
         border: solid 20px $light-gray-1 !important;
+    }
+    .tbl-files {
+        width: auto !important;
     }
     table {
         //width: auto;
