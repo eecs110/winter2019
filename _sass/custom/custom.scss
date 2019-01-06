@@ -67,17 +67,17 @@ $python: #22b8cf;
     margin-left: -4px;
 }
 
-// .click-to-download {
-//     &:hover {
-//         text-decoration: underline;
-//         i {
-//             display: inline;
-//         }
-//     }
-//     i {
-//         display: none;
-//     }
-// }
+.click-to-preview {
+    &:hover {
+        a {
+            visibility: visible;
+        }
+    }
+    a {
+        visibility: hidden;
+        text-decoration: none;
+    }
+}
 
 
 $link-color: $purple-200;

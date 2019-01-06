@@ -1,13 +1,13 @@
 ---
 layout: default
 nav_order: 4
-title: Hw1
+title: Hw01
 nav_exclude: True
 ---
 
-# Hw1
+# Hw01
 
-[course-files/homework/hw1/](.)
+[course-files/homework/hw01/](.)
 
 <table class="tbl-files">
     <tbody>
@@ -16,7 +16,6 @@ nav_exclude: True
             <th>Name</th>
             <th>Last modified</th>
             <th>Size</th>
-            <th>Preview</th>
             <th>Download</th>
         </tr>
         <tr>
@@ -26,107 +25,81 @@ nav_exclude: True
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
-            <td>&nbsp;</td>
         </tr>
 
-        <tr>
+        <tr class="click-to-preview">
             <td>
                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAABHUlEQVR42o2RMW7DIBiF3498iHRJD5JKHurL+CRVBp+i2T16tTynF2gO0KSb5ZrBBl4HHDBuK/WXACH4eO9/CAAAbdvijzLGNE1TVZXfZuHg6XCAQESAZXbOKaXO57eiKG6ft9PrKQIkCQqFoIiQFBGlFIB5nvM8t9aOX2Nd18oDzjnPgCDpn/BH4zh2XZdlWVmWiUK4IgCBoFMUz9eP6zRN75cLgEQhcmTQIbl72O0f9865qLAAsURAAgKBJKEtgLXWvyjLuFsThCSstb8rBCaAQhDYWgIZ7myM+TUBjDHrHlZcbMYYk34cN0YSLcgS+wL0fe9TXDMbY33fR2AYBvyQ8L0Gk8MwREBrTfKe4TpTzwhArXWi8HI84h/1DfwI5mhxJamFAAAAAElFTkSuQmCC " alt="[DIR]">
             </td>
-            <td>
-                README.md
+            <td nowrap>
+                README.md<br>
             </td>
             <td align="right">1/6/2019 6:24 PM</td>
             <td>161.0B</td>
             <td>
-                <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw1/README.md" target="_blank">
-                    <i class="fab fa-github"></i> preview
-                </a>
-            </td>
-            <td>
-                <a href="README.md">
-                    <i class="fas fa-download"></i> download
-                </a>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw01/README.md" 
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
+                    <a href="README.md"><i class="fas fa-download"></i></a>
             </td>
         </tr>
-        <tr>
+        <tr class="click-to-preview">
             <td>
                 <i class="fab fa-lg fa-python"></i>
             </td>
-            <td>
-                creature.py
+            <td nowrap>
+                creature.py<br>
             </td>
             <td align="right">1/4/2019 6:36 PM</td>
             <td>556.0B</td>
             <td>
-                <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw1/creature.py" target="_blank">
-                    <i class="fab fa-github"></i> preview
-                </a>
-            </td>
-            <td>
-                <a href="creature.py">
-                    <i class="fas fa-download"></i> download
-                </a>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw01/creature.py" 
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
+                    <a href="creature.py"><i class="fas fa-download"></i></a>
             </td>
         </tr>
-        <tr>
+        <tr class="click-to-preview">
             <td>
                 <i class="fab fa-lg fa-python"></i>
             </td>
-            <td>
-                helpers.py
+            <td nowrap>
+                helpers.py<br>
             </td>
             <td align="right">1/4/2019 7:17 PM</td>
             <td>3.9KB</td>
             <td>
-                <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw1/helpers.py" target="_blank">
-                    <i class="fab fa-github"></i> preview
-                </a>
-            </td>
-            <td>
-                <a href="helpers.py">
-                    <i class="fas fa-download"></i> download
-                </a>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw01/helpers.py" 
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
+                    <a href="helpers.py"><i class="fas fa-download"></i></a>
             </td>
         </tr>
-        <tr>
+        <tr class="click-to-preview">
             <td>
                 <i class="fab fa-lg fa-python"></i>
             </td>
-            <td>
-                main.py
+            <td nowrap>
+                main.py<br>
             </td>
             <td align="right">1/4/2019 5:30 PM</td>
             <td>1.2KB</td>
             <td>
-                <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw1/main.py" target="_blank">
-                    <i class="fab fa-github"></i> preview
-                </a>
-            </td>
-            <td>
-                <a href="main.py">
-                    <i class="fas fa-download"></i> download
-                </a>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw01/main.py" 
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
+                    <a href="main.py"><i class="fas fa-download"></i></a>
             </td>
         </tr>
-        <tr>
+        <tr class="click-to-preview">
             <td>
                 <i class="fab fa-lg fa-python"></i>
             </td>
-            <td>
-                warm_up.py
+            <td nowrap>
+                warm_up.py<br>
             </td>
             <td align="right">1/4/2019 5:21 PM</td>
             <td>1.2KB</td>
             <td>
-                <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw1/warm_up.py" target="_blank">
-                    <i class="fab fa-github"></i> preview
-                </a>
-            </td>
-            <td>
-                <a href="warm_up.py">
-                    <i class="fas fa-download"></i> download
-                </a>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw01/warm_up.py" 
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
+                    <a href="warm_up.py"><i class="fas fa-download"></i></a>
             </td>
         </tr>
     </tbody>

@@ -16,7 +16,6 @@ nav_exclude: True
             <th>Name</th>
             <th>Last modified</th>
             <th>Size</th>
-            <th>Preview</th>
             <th>Download</th>
         </tr>
         <tr>
@@ -26,87 +25,66 @@ nav_exclude: True
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
-            <td>&nbsp;</td>
         </tr>
 
-        <tr>
+        <tr class="click-to-preview">
             <td>
                 <i class="fab fa-lg fa-python"></i>
             </td>
-            <td>
-                01_introduction.py
+            <td nowrap>
+                01_introduction.py<br>
             </td>
             <td align="right">1/2/2019 8:20 PM</td>
             <td>22.1KB</td>
             <td>
-                <a href="https://github.com/eecs110/winter2019/blob/master/course-files/notebooks/scripts/01_introduction.py" target="_blank">
-                    <i class="fab fa-github"></i> preview
-                </a>
-            </td>
-            <td>
-                <a href="01_introduction.py">
-                    <i class="fas fa-download"></i> download
-                </a>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/notebooks/scripts/01_introduction.py" 
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
+                    <a href="01_introduction.py"><i class="fas fa-download"></i></a>
             </td>
         </tr>
-        <tr>
+        <tr class="click-to-preview">
             <td>
                 <i class="fab fa-lg fa-python"></i>
             </td>
-            <td>
-                02_primitives_data_types.py
+            <td nowrap>
+                02_primitives_data_types.py<br>
             </td>
             <td align="right">1/2/2019 8:20 PM</td>
             <td>4.4KB</td>
             <td>
-                <a href="https://github.com/eecs110/winter2019/blob/master/course-files/notebooks/scripts/02_primitives_data_types.py" target="_blank">
-                    <i class="fab fa-github"></i> preview
-                </a>
-            </td>
-            <td>
-                <a href="02_primitives_data_types.py">
-                    <i class="fas fa-download"></i> download
-                </a>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/notebooks/scripts/02_primitives_data_types.py" 
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
+                    <a href="02_primitives_data_types.py"><i class="fas fa-download"></i></a>
             </td>
         </tr>
-        <tr>
+        <tr class="click-to-preview">
             <td>
                 <i class="fab fa-lg fa-python"></i>
             </td>
-            <td>
-                03_operators.py
+            <td nowrap>
+                03_operators.py<br>
             </td>
             <td align="right">1/2/2019 8:20 PM</td>
             <td>11.3KB</td>
             <td>
-                <a href="https://github.com/eecs110/winter2019/blob/master/course-files/notebooks/scripts/03_operators.py" target="_blank">
-                    <i class="fab fa-github"></i> preview
-                </a>
-            </td>
-            <td>
-                <a href="03_operators.py">
-                    <i class="fas fa-download"></i> download
-                </a>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/notebooks/scripts/03_operators.py" 
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
+                    <a href="03_operators.py"><i class="fas fa-download"></i></a>
             </td>
         </tr>
-        <tr>
+        <tr class="click-to-preview">
             <td>
                 <i class="fab fa-lg fa-python"></i>
             </td>
-            <td>
-                04_functions.py
+            <td nowrap>
+                04_functions.py<br>
             </td>
             <td align="right">1/2/2019 8:20 PM</td>
             <td>8.6KB</td>
             <td>
-                <a href="https://github.com/eecs110/winter2019/blob/master/course-files/notebooks/scripts/04_functions.py" target="_blank">
-                    <i class="fab fa-github"></i> preview
-                </a>
-            </td>
-            <td>
-                <a href="04_functions.py">
-                    <i class="fas fa-download"></i> download
-                </a>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/notebooks/scripts/04_functions.py" 
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
+                    <a href="04_functions.py"><i class="fas fa-download"></i></a>
             </td>
         </tr>
     </tbody>
