@@ -11,8 +11,9 @@ permalink: /week-01
 ## Tuesday, January 8
 Introduction to programming with Python.
 ### Slides
-1. <a href="https://docs.google.com/presentation/d/e/2PACX-1vQTV_YXYGm7Lzi5FIyJOaabWly6EEbvhiuHLkX097vuJwxAjoDzP0lv6VFhzpcjtTLIBjFdxYkrU3AQ/pub?start=false&loop=false&delayms=3000" target="_blank">Intro to the course</a>
-2. <a href="https://docs.google.com/presentation/d/e/2PACX-1vTRibbLZqCUZpVYHM7cv19Gw-OYMFxzPPo8u-26n8qSHX8RnkpUQCtg7R2RodgDXkyhnxJL-RA3umWy/pub?start=false&loop=false&delayms=3000" target="_blank" >Software and hardware</a>
+Forthcoming
+<!-- 1. <a href="https://docs.google.com/presentation/d/e/2PACX-1vQTV_YXYGm7Lzi5FIyJOaabWly6EEbvhiuHLkX097vuJwxAjoDzP0lv6VFhzpcjtTLIBjFdxYkrU3AQ/pub?start=false&loop=false&delayms=3000" target="_blank">Intro to the course</a>
+2. <a href="https://docs.google.com/presentation/d/e/2PACX-1vTRibbLZqCUZpVYHM7cv19Gw-OYMFxzPPo8u-26n8qSHX8RnkpUQCtg7R2RodgDXkyhnxJL-RA3umWy/pub?start=false&loop=false&delayms=3000" target="_blank" >Software and hardware</a> -->
 
 ### Code Samples
 1. Shakespeare Example [notebook]({{ site.baseurl }}/course-files/notebooks/01.%20Introduction.ipynb) [script]({{ site.baseurl }}/course-files/notebooks/scripts/01_introduction.py)
