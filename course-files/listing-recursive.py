@@ -56,12 +56,18 @@ nav_exclude: ${exclude}
                 % endif
             </td>
             <td nowrap>
-                ${f['name']}<br>
+                % if f['name'].endswith('md'):
+                    <a href="${f['name'].replace('.md', '')}">
+                        ${f['name'].replace('.md', '').title()}
+                    </a>
+                % else:
+                    ${f['name']}
+                % endif
             </td>
             <td align="right">${f['time']}</td>
             <td>${f['size']}</td>
             <td>
-                % if f['name'].endswith(('md', 'py', 'ipynb', 'txt', 'html')):
+                % if f['name'].endswith(('py', 'ipynb', 'txt', 'html')):
                     <a href="${github_path}/${header}${f['name']}" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
                     <a href="${f['name']}"><i class="fas fa-download"></i></a>

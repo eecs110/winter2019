@@ -32,7 +32,7 @@ nav_exclude: True
                     <img class="icon-jupyter" src="{{ site.baseurl }}/assets/images/jupyter-icon.png" />
             </td>
             <td nowrap>
-                02. Primitives Data Types.ipynb<br>
+                    02. Primitives Data Types.ipynb
             </td>
             <td align="right">12/30/2018 3:11 AM</td>
             <td>23.5KB</td>
@@ -47,7 +47,7 @@ nav_exclude: True
                     <img class="icon-jupyter" src="{{ site.baseurl }}/assets/images/jupyter-icon.png" />
             </td>
             <td nowrap>
-                03. Operators.ipynb<br>
+                    03. Operators.ipynb
             </td>
             <td align="right">12/29/2018 8:35 PM</td>
             <td>21.7KB</td>

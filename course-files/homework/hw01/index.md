@@ -32,14 +32,13 @@ nav_exclude: True
                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAABHUlEQVR42o2RMW7DIBiF3498iHRJD5JKHurL+CRVBp+i2T16tTynF2gO0KSb5ZrBBl4HHDBuK/WXACH4eO9/CAAAbdvijzLGNE1TVZXfZuHg6XCAQESAZXbOKaXO57eiKG6ft9PrKQIkCQqFoIiQFBGlFIB5nvM8t9aOX2Nd18oDzjnPgCDpn/BH4zh2XZdlWVmWiUK4IgCBoFMUz9eP6zRN75cLgEQhcmTQIbl72O0f9865qLAAsURAAgKBJKEtgLXWvyjLuFsThCSstb8rBCaAQhDYWgIZ7myM+TUBjDHrHlZcbMYYk34cN0YSLcgS+wL0fe9TXDMbY33fR2AYBvyQ8L0Gk8MwREBrTfKe4TpTzwhArXWi8HI84h/1DfwI5mhxJamFAAAAAElFTkSuQmCC " alt="[DIR]">
             </td>
             <td nowrap>
-                README.md<br>
+                    <a href="README">
+                        Readme
+                    </a>
             </td>
-            <td align="right">1/6/2019 6:24 PM</td>
-            <td>161.0B</td>
+            <td align="right">1/6/2019 11:03 PM</td>
+            <td>311.0B</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw01/README.md" 
-                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
-                    <a href="README.md"><i class="fas fa-download"></i></a>
             </td>
         </tr>
         <tr class="click-to-preview">
@@ -47,7 +46,7 @@ nav_exclude: True
                 <i class="fab fa-lg fa-python"></i>
             </td>
             <td nowrap>
-                creature.py<br>
+                    creature.py
             </td>
             <td align="right">1/4/2019 6:36 PM</td>
             <td>556.0B</td>
@@ -62,7 +61,7 @@ nav_exclude: True
                 <i class="fab fa-lg fa-python"></i>
             </td>
             <td nowrap>
-                helpers.py<br>
+                    helpers.py
             </td>
             <td align="right">1/4/2019 7:17 PM</td>
             <td>3.9KB</td>
@@ -77,7 +76,7 @@ nav_exclude: True
                 <i class="fab fa-lg fa-python"></i>
             </td>
             <td nowrap>
-                main.py<br>
+                    main.py
             </td>
             <td align="right">1/4/2019 5:30 PM</td>
             <td>1.2KB</td>
@@ -92,7 +91,7 @@ nav_exclude: True
                 <i class="fab fa-lg fa-python"></i>
             </td>
             <td nowrap>
-                warm_up.py<br>
+                    warm_up.py
             </td>
             <td align="right">1/4/2019 5:21 PM</td>
             <td>1.2KB</td>

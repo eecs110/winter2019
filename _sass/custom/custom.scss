@@ -71,10 +71,11 @@ $python: #22b8cf;
     &:hover {
         a {
             visibility: visible;
+            text-decoration: none;
         }
     }
     a {
-        visibility: hidden;
+        //visibility: hidden;
         text-decoration: none;
     }
 }
@@ -84,6 +85,9 @@ $link-color: $purple-200;
 
 a {
     color: $link-color;
+    &:hover {
+        color: $purple-600;
+    }
 }
 ::selection {
     color: $white;
@@ -155,6 +159,7 @@ code, pre.highlight {
         width: auto !important;
         td:last-child {
             min-width: 30px;
+            text-align: center;
         }
     }
     table {

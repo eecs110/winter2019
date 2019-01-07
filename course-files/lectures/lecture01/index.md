@@ -32,7 +32,7 @@ nav_exclude: True
                     <img class="icon-jupyter" src="{{ site.baseurl }}/assets/images/jupyter-icon.png" />
             </td>
             <td nowrap>
-                01. Introduction.ipynb<br>
+                    01. Introduction.ipynb
             </td>
             <td align="right">1/3/2019 6:47 PM</td>
             <td>55.9KB</td>
@@ -47,14 +47,13 @@ nav_exclude: True
                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAABHUlEQVR42o2RMW7DIBiF3498iHRJD5JKHurL+CRVBp+i2T16tTynF2gO0KSb5ZrBBl4HHDBuK/WXACH4eO9/CAAAbdvijzLGNE1TVZXfZuHg6XCAQESAZXbOKaXO57eiKG6ft9PrKQIkCQqFoIiQFBGlFIB5nvM8t9aOX2Nd18oDzjnPgCDpn/BH4zh2XZdlWVmWiUK4IgCBoFMUz9eP6zRN75cLgEQhcmTQIbl72O0f9865qLAAsURAAgKBJKEtgLXWvyjLuFsThCSstb8rBCaAQhDYWgIZ7myM+TUBjDHrHlZcbMYYk34cN0YSLcgS+wL0fe9TXDMbY33fR2AYBvyQ8L0Gk8MwREBrTfKe4TpTzwhArXWi8HI84h/1DfwI5mhxJamFAAAAAElFTkSuQmCC " alt="[DIR]">
             </td>
             <td nowrap>
-                slides.md<br>
+                    <a href="slides">
+                        Slides
+                    </a>
             </td>
-            <td align="right">1/6/2019 10:41 PM</td>
-            <td>8.0B</td>
+            <td align="right">1/7/2019 12:12 AM</td>
+            <td>631.0B</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture01/slides.md" 
-                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
-                    <a href="slides.md"><i class="fas fa-download"></i></a>
             </td>
         </tr>
     </tbody>
