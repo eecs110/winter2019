@@ -17,10 +17,7 @@ Forthcoming
 2. <a href="https://docs.google.com/presentation/d/e/2PACX-1vTRibbLZqCUZpVYHM7cv19Gw-OYMFxzPPo8u-26n8qSHX8RnkpUQCtg7R2RodgDXkyhnxJL-RA3umWy/pub?start=false&loop=false&delayms=3000" target="_blank" >Software and hardware</a> -->
 
 ### Code Samples
-1. Shakespeare Example [notebook]({{ site.baseurl }}/course-files/notebooks/01.%20Introduction.ipynb) [script]({{ site.baseurl }}/course-files/notebooks/scripts/01_introduction.py)
-2. Animation
-3. Image Manipulation
-4. Drawing
+[see course files](/winter2019//course-files/lectures/)
 
 ### Assigned 
 1. <a href="https://goo.gl/forms/315BPme8lNKYGval1" target="_blank">Questionnaire</a> (due end of class)
