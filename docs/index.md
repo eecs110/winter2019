@@ -11,14 +11,13 @@ permalink: /
 # Schedule
 > This schedule is subject to change (as needed). In addition, unless otherwise indicated:
 > * Homeworks and projects are always due on Tuesday at 11:59PM
-> * Tutorials are always due on Friday at 11:59PM
+> * Tutorials are always due on Friday at 6:00PM
 
 <table class="schedule">
     <thead>
         <tr>
             <th>Week</th>
             <th>Topic</th>
-            <!-- <th style="width: 100px;">Assigned</th> -->
             <th>Due</th>
         </tr>
     </thead>
@@ -26,13 +25,12 @@ permalink: /
         <!-- WEEK #1 -->
         <tr>
             <td>
-                <a class="btn btn-outline" href="week-01">Week 1</a>
+                <a href="week-01">Week 1</a>
             </td>
             <td>
                 <strong>Tu Jan 8</strong><br>
                 Introduction to programming with Python<br>
             </td>
-            <!-- <td></td> -->
             <td></td>
         </tr>
         <tr>
@@ -41,7 +39,6 @@ permalink: /
                 <strong>Th Jan 10</strong><br>
                 Variables, expressions, and statements
             </td>
-            <!-- <td></td> -->
             <td></td>
         </tr>
         <tr>
@@ -50,29 +47,23 @@ permalink: /
                 <strong>Tutorial</strong><br>
                 Configuring Python on your laptop
             </td>
-            <!-- <td>
-                <a class="btn btn-outline" href="https://docs.google.com/document/d/1D2Y6u2hZm2zdyLB9IRjrS-IKhDR1v65ZfgxYIVYc0Hk/edit?usp=sharing" target="_blank">Tutorial 1</a>
-                <a class="btn btn-outline" href="https://docs.google.com/document/d/1FKPwPzM-d_R1mLhN4jUQ6hnzpeH3dXfjncjzMpxM-Fg/edit#" target="_blank">EC 1</a>
-            </td> -->
-            <td><span class="label label-default">Tutorial 1</span></td>
+            <td><a class="label label-default" href="https://docs.google.com/document/d/1D2Y6u2hZm2zdyLB9IRjrS-IKhDR1v65ZfgxYIVYc0Hk/edit?usp=sharing">Tutorial 1 <i class="fas fa-link"></i></a></td>
         </tr>
         <!-- WEEK #2 -->
         <tr>
             <td>Week 2</td>
             <td>
                 <strong>Tu Jan 15</strong><br>
-                Expressions and statements continued<br>
+                Built-in functions and modules<br>
             </td>
-            <!-- <td><a href="#">Homework 1</a></td> -->
             <td></td>
         </tr>
         <tr>
             <td></td>
             <td>
                 <strong>Th Jan 17</strong><br>
-                Functions
+                    Making your own functions
             </td>
-            <!-- <td></td> -->
             <td></td>
         </tr>
         <tr>
@@ -81,10 +72,8 @@ permalink: /
                 <strong>Tutorial</strong><br>
                 Practice with functions and control
             </td>
-            <!-- <td><a href="#">Tutorial 2</a></td> -->
             <td>   
                 <span class="label label-default">Tutorial 2</span>
-                <span class="label label-green">EC 1</span>
             </td>
         </tr>
         <!-- WEEK #3 -->
@@ -92,13 +81,9 @@ permalink: /
             <td>Week 3</td>
             <td>
                 <strong>Tu Jan 22</strong><br>
-                Conditional execution<br>
+                Conditional execution and while loops<br>
             </td>
-            <!-- <td>
-                <a href="#">Homework 2</a><br>
-                <a href="#">Project 1</a>
-            </td> -->
-            <td><span class="label label-default">Homework 1</span></td>
+            <td><a class="label label-default" href="https://docs.google.com/document/d/1gg-lejsKe8fihtUsaEYC1I6zjBeWtKJRoCpKdLj8TJY/edit?usp=sharing">Homework 1 <i class="fas fa-link"></i></a></td>
         </tr>
         <tr>
             <td></td>
@@ -106,16 +91,14 @@ permalink: /
                 <strong>Th Jan 24</strong><br>
                 Loops and iteration
             </td>
-            <!-- <td></td> -->
             <td></td>
         </tr>
         <tr>
             <td></td>
             <td>
                 <strong>Tutorial</strong><br>
-                Practice with loops and conditionals
+                Practice with loops and sequences
             </td>
-            <!-- <td><a href="#">Tutorial 3</a></td> -->
             <td><span class="label label-default">Tutorial 3</span></td>
         </tr>
         <!-- WEEK #4 -->
@@ -123,27 +106,24 @@ permalink: /
             <td>Week 4</td>
             <td>
                 <strong>Tu Jan 29</strong><br>
-                Lists and strings<br>
+                Object-Oriented Programming Part I<br>
             </td>
-            <!-- <td><a href="#">Homework 3</a></td> -->
             <td><span class="label label-default">Homework 2</span></td>
         </tr>
         <tr>
             <td></td>
             <td>
                 <strong>Th Jan 31</strong><br>
-                Input/output (I/O) and events
+                Object-Oriented Programming Part II
             </td>
-            <!-- <td></td> -->
             <td></td>
         </tr>
         <tr>
             <td></td>
             <td>
                 <strong>Tutorial</strong><br>
-                Practice with loops and lists, I/O, and events
+                Practice creating classes and objects
             </td>
-            <!-- <td><a href="#">Tutorial 4</a></td> -->
             <td><span class="label label-default">Tutorial 4</span></td>
         </tr>
         <!-- WEEK #5 -->
@@ -151,12 +131,10 @@ permalink: /
             <td>Week 5</td>
             <td>
                 <strong>Tu Feb 5</strong><br>
-                Dictionaries<br>
+                Input/output (I/O) and events
             </td>
-            <!-- <td><a href="#">Homework 4</a></td> -->
             <td>
                 <span class="label label-default">Homework 3</span>
-                <span class="label label-purple">Project 1</span>
             </td>
         </tr>
         <tr>
@@ -165,16 +143,14 @@ permalink: /
                 <strong>Th Feb 7</strong><br>
                 <span class="label label-blue">Exam 1</span>
             </td>
-            <!-- <td></td> -->
             <td></td>
         </tr>
         <tr>
             <td></td>
             <td>
                 <strong>Tutorial</strong><br>
-                Practice analyzing files
+                Practice working with events
             </td>
-            <!-- <td><a href="#">Tutorial 5</a></td> -->
             <td><span class="label label-default">Tutorial 5</span></td>
         </tr>
         <!-- WEEK #6 -->
@@ -182,32 +158,27 @@ permalink: /
             <td>Week 6</td>
             <td>
                 <strong>Tu Feb 12</strong><br>
-                Files<br>
+                Files and data formats<br>
             </td>
-            <!-- <td>
-                <a href="#">Homework 5</a>
-                <a href="#">Project 2</a>
-            </td> -->
             <td>
                 <span class="label label-default">Homework 4</span>
+                <span class="label label-purple">Project 1</span>
             </td>
         </tr>
         <tr>
             <td></td>
             <td>
                 <strong>Th Feb 14</strong><br>
-                Sequences
+                Using Web Services
             </td>
-            <!-- <td></td> -->
             <td></td>
         </tr>
         <tr>
             <td></td>
             <td>
                 <strong>Tutorial</strong><br>
-                Practice with sequences
+                Practice working with structured data
             </td>
-            <!-- <td><a href="#">Tutorial 6</a></td> -->
             <td><span class="label label-default">Tutorial 6</span></td>
         </tr>
         <!-- WEEK #7 -->
@@ -217,9 +188,6 @@ permalink: /
                 <strong>Tu Feb 19</strong><br>
                 Regular Expressions<br>
             </td>
-            <!-- <td>
-                <a href="#">Homework 6</a>
-            </td> -->
             <td>
                 <span class="label label-default">Homework 5</span>
             </td>
@@ -228,18 +196,16 @@ permalink: /
             <td></td>
             <td>
                 <strong>Th Feb 21</strong><br>
-                Networked Programming
+                Programming patterns: traversing ("crawling") networked data
             </td>
-            <!-- <td></td> -->
             <td></td>
         </tr>
         <tr>
             <td></td>
             <td>
                 <strong>Tutorial</strong><br>
-                Find the links 
+                Practice: Parsing links, traversing them, and tracking visited sites
             </td>
-            <!-- <td><a href="#">Tutorial 7</a></td> -->
             <td><span class="label label-default">Tutorial 7</span></td>
         </tr>
         <!-- WEEK #8 -->
@@ -247,11 +213,8 @@ permalink: /
             <td>Week 8</td>
             <td>
                 <strong>Tu Feb 26</strong><br>
-                Using Web Services and APIs<br>
+                 Data Visualization: Part I
             </td>
-            <!-- <td>
-                <a href="#">Homework 7</a>
-            </td> -->
             <td>
                 <span class="label label-default">Homework 6</span>
             </td>
@@ -260,17 +223,16 @@ permalink: /
             <td></td>
             <td>
                 <strong>Th Feb 28</strong><br>
-                Data Visualization
+                Data Visualization: Part II
             </td>
-            <!-- <td></td> -->
             <td></td>
         </tr>
         <tr>
             <td></td>
             <td>
                 <strong>Tutorial</strong><br>
+                Practice fitting data to MatPlotLib API
             </td>
-            <!-- <td><a href="#">Tutorial 8</a></td> -->
             <td><span class="label label-default">Tutorial 8</span></td>
         </tr>
         <!-- WEEK #9 -->
@@ -278,12 +240,8 @@ permalink: /
             <td>Week 9</td>
             <td>
                 <strong>Tu Mar 5</strong><br>
-                Object Oriented Programming I<br>
+                TBD: Special Topics<br>
             </td>
-            <!-- <td>
-                <a href="#">Homework 8</a><br>
-                <a href="#">Project 3</a>
-            </td> -->
             <td>
                 <span class="label label-default">Homework 7</span>
                 <span class="label label-purple">Project 2</span>
@@ -293,9 +251,8 @@ permalink: /
             <td></td>
             <td>
                 <strong>Th Mar 7</strong><br>
-                Object Oriented Programming II
+                TBD: Special Topics
             </td>
-            <!-- <td></td> -->
             <td></td>
         </tr>
         <tr>
@@ -303,7 +260,6 @@ permalink: /
             <td>
                 <strong>Tutorial</strong><br>
             </td>
-            <!-- <td><a href="#">Tutorial 9</a></td> -->
             <td><span class="label label-default">Tutorial 9</span></td>
         </tr>
         <!-- WEEK #10 -->
@@ -313,7 +269,6 @@ permalink: /
                 <strong>Tu Mar 12</strong><br>
                 Exam Review<br>
             </td>
-            <!-- <td></td> -->
             <td>
                 <span class="label label-default">Homework 8</span>
             </td>
@@ -324,7 +279,6 @@ permalink: /
                 <strong>Th Mar 14</strong><br>
                 <span class="label label-blue">Exam 2</span>
             </td>
-            <!-- <td></td> -->
             <td></td>
         </tr>
         <tr>
@@ -332,7 +286,6 @@ permalink: /
             <td>
                 <strong>Tutorial</strong><br>
             </td>
-            <!-- <td><a href="#">Tutorial 10</a></td> -->
             <td><span class="label label-default">Tutorial 10</span></td>
         </tr>
         <!-- FINALS WEEK -->
@@ -341,7 +294,6 @@ permalink: /
             <td>
                 <strong>Tu Mar 19</strong><br>
             </td>
-            <!-- <td></td> -->
             <td>
                 <span class="label label-purple">Project 3</span>
             </td>
