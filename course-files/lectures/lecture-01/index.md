@@ -34,8 +34,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="01. Introduction.ipynb">01. Introduction.ipynb</a>
             </td>
-            <td align="right">1/8/2019 4:29 PM</td>
-            <td>59.1KB</td>
+            <td align="right">1/8/2019 9:23 PM</td>
+            <td>26.6KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture-01/01. Introduction.ipynb" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
@@ -85,6 +85,36 @@ nav_exclude: True
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture-01/drawing.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
                 <!-- a href="drawing.py"><i class="fas fa-download"></i></a -->
+            </td>
+        </tr>
+        <tr class="click-to-preview">
+            <td>
+                <i class="fab fa-lg fa-python"></i>
+            </td>
+            <td nowrap>
+                    <a href="notebook_01_introduction.py">notebook_01_introduction.py</a>
+            </td>
+            <td align="right">1/8/2019 9:30 PM</td>
+            <td>23.9KB</td>
+            <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture-01/notebook_01_introduction.py" 
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
+                <!-- a href="notebook_01_introduction.py"><i class="fas fa-download"></i></a -->
+            </td>
+        </tr>
+        <tr class="click-to-preview">
+            <td>
+                <i class="fab fa-lg fa-python"></i>
+            </td>
+            <td nowrap>
+                    <a href="notebook_data_visualization.py">notebook_data_visualization.py</a>
+            </td>
+            <td align="right">1/8/2019 9:30 PM</td>
+            <td>4.7KB</td>
+            <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture-01/notebook_data_visualization.py" 
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
+                <!-- a href="notebook_data_visualization.py"><i class="fas fa-download"></i></a -->
             </td>
         </tr>
         <tr class="click-to-preview">

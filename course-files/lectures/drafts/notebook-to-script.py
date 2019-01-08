@@ -25,7 +25,7 @@ def generate_python_path(notebook):
     escaped_chars = '\-\.\'\[\]\?\*'
     regex_exp = '[' + chars + escaped_chars + ']'
     file_name = re.sub(regex_exp,'', file_name)
-    return 'scripts/' + file_name + '.py'
+    return 'notebook_' + file_name + '.py'
 
 
 def add_comments_message(fout, notebook):
