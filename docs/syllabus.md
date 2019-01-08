@@ -113,7 +113,7 @@ In the past, there have been a few unfortunate instances in which students have 
 {: .prose}
 
 1. Do not exchange programs or program fragments in any form – on paper, via e-mail, or by other means.
-2. Do not copy solutions from any source, including the web or previous EECS 211 students.
+2. Do not copy solutions from any source, including the web or previous EECS 110 students.
 3. While working with other students, it is perfectly acceptable to ‘look’ at each other’s code (perhaps while helping someone to debug), but you should NEVER be scribing (typing or writing) your own work while looking at someone else’s (on a computer screen, paper, whiteboard, etc.).
 4. Uploading materials from this course to websites that sell such content to students is prohibited by Northwestern’s academic integrity policies, and may also put you at risk for violating copyright policies in Northwestern’s Student Conduct Code. 
 {: .prose}
