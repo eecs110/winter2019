@@ -34,8 +34,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="01. Introduction.ipynb">01. Introduction.ipynb</a>
             </td>
-            <td align="right">1/3/2019 6:47 PM</td>
-            <td>55.9KB</td>
+            <td align="right">1/8/2019 4:29 PM</td>
+            <td>59.1KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture-01/01. Introduction.ipynb" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
@@ -96,8 +96,8 @@ nav_exclude: True
                         Slides
                     </a>
             </td>
-            <td align="right">1/7/2019 10:26 PM</td>
-            <td>646.0B</td>
+            <td align="right">1/8/2019 8:35 PM</td>
+            <td>644.0B</td>
             <td>
                 <!-- a href="slides.md"><i class="fas fa-download"></i></a -->
             </td>

@@ -8,13 +8,11 @@ permalink: /week-01
 
 # WEEK 1
 
-## Tuesday, January 8
+## I. Tuesday, January 8
 Introduction to programming with Python.
 ### Slides
-Forthcoming
-
-<!-- 1. <a href="https://docs.google.com/presentation/d/e/2PACX-1vQTV_YXYGm7Lzi5FIyJOaabWly6EEbvhiuHLkX097vuJwxAjoDzP0lv6VFhzpcjtTLIBjFdxYkrU3AQ/pub?start=false&loop=false&delayms=3000" target="_blank">Intro to the course</a>
-2. <a href="https://docs.google.com/presentation/d/e/2PACX-1vTRibbLZqCUZpVYHM7cv19Gw-OYMFxzPPo8u-26n8qSHX8RnkpUQCtg7R2RodgDXkyhnxJL-RA3umWy/pub?start=false&loop=false&delayms=3000" target="_blank" >Software and hardware</a> -->
+<a href="https://docs.google.com/presentation/d/e/2PACX-1vQTV_YXYGm7Lzi5FIyJOaabWly6EEbvhiuHLkX097vuJwxAjoDzP0lv6VFhzpcjtTLIBjFdxYkrU3AQ/pub?start=false&loop=false&delayms=3000" target="_blank">Intro to the course</a>
+<!-- 2. <a href="https://docs.google.com/presentation/d/e/2PACX-1vTRibbLZqCUZpVYHM7cv19Gw-OYMFxzPPo8u-26n8qSHX8RnkpUQCtg7R2RodgDXkyhnxJL-RA3umWy/pub?start=false&loop=false&delayms=3000" target="_blank" >Software and hardware</a> -->
 
 ### Code Samples
 [see course files](/winter2019/course-files/lectures/)
@@ -26,20 +24,21 @@ Forthcoming
 ### Readings and Resources
 1. Python for Everyone: Why program?<br>
 [videos](https://www.py4e.com/lessons/intro) | [textbook](https://www.py4e.com/html3/01-intro)
-2. [Command Line Tutorial](https://tutorial.djangogirls.org/en/intro_to_command_line/) (for Windows and Mac)<br>
+2. [Way of the program](http://openbookproject.net/thinkcs/python/english3e/way_of_the_program.html)
+3. [Command Line Tutorial](https://tutorial.djangogirls.org/en/intro_to_command_line/) (for Windows and Mac)<br>
 Note: Windows users need to use the Anaconda prompt rather than the traditional DOS prompt.
-3. [Compilers versus interpreters](https://tomassetti.me/difference-between-compiler-interpreter/)
 
-## Thursday, January 10
+## II. Thursday, January 10
 ### Slides
 ### Code Samples
-1. Data Types
-2. Operators
-3. Built-in functions and modules
-
-### Readings and Resources
 [see course files](/winter2019/course-files/lectures/)
 
-## Tutorial
+### Readings and Resources
+1. [What is Python?](http://interactivepython.org/courselib/static/thinkcspy/GeneralIntro/ThePythonProgrammingLanguage.html)
+2. Variables, Expressions, and Statements
+  * [How to think like a Computer Scientist](https://www.py4e.com/lessons/memory)
+  * Python for Everybody<br>
+  [videos](http://openbookproject.net/thinkcs/python/english3e/variables_expressions_statements.html) | [textbook](https://www.py4e.com/html3/02-variables)
+
+## III. Tutorial
 1. [Tutorial 1](https://docs.google.com/document/d/1D2Y6u2hZm2zdyLB9IRjrS-IKhDR1v65ZfgxYIVYc0Hk/edit?usp=sharing) (due Friday, Jan 11)
-2. Tutorial signups
