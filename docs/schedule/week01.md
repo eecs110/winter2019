@@ -17,15 +17,18 @@ Forthcoming
 2. <a href="https://docs.google.com/presentation/d/e/2PACX-1vTRibbLZqCUZpVYHM7cv19Gw-OYMFxzPPo8u-26n8qSHX8RnkpUQCtg7R2RodgDXkyhnxJL-RA3umWy/pub?start=false&loop=false&delayms=3000" target="_blank" >Software and hardware</a> -->
 
 ### Code Samples
-[see course files](/winter2019//course-files/lectures/)
+[see course files](/winter2019/course-files/lectures/)
 
 ### Assigned 
 1. <a href="https://goo.gl/forms/315BPme8lNKYGval1" target="_blank">Questionnaire</a> (due end of class)
 2. [Homework 1](https://docs.google.com/document/d/1gg-lejsKe8fihtUsaEYC1I6zjBeWtKJRoCpKdLj8TJY/edit?usp=sharing) (due Tu, Jan 22)
 
 ### Readings and Resources
-1. [Command Line Tutorial](https://tutorial.djangogirls.org/en/intro_to_command_line/) (for Windows and Mac)<br>
+1. Python for Everyone: Why program?<br>
+[videos](https://www.py4e.com/lessons/intro) | [textbook](https://www.py4e.com/html3/01-intro)
+2. [Command Line Tutorial](https://tutorial.djangogirls.org/en/intro_to_command_line/) (for Windows and Mac)<br>
 Note: Windows users need to use the Anaconda prompt rather than the traditional DOS prompt.
+3. [Compilers versus interpreters](https://tomassetti.me/difference-between-compiler-interpreter/)
 
 ## Thursday, January 10
 ### Slides
@@ -35,7 +38,7 @@ Note: Windows users need to use the Anaconda prompt rather than the traditional 
 3. Built-in functions and modules
 
 ### Readings and Resources
-1. [Compilers versus interpreters](https://tomassetti.me/difference-between-compiler-interpreter/)
+[see course files](/winter2019/course-files/lectures/)
 
 ## Tutorial
 1. [Tutorial 1](https://docs.google.com/document/d/1D2Y6u2hZm2zdyLB9IRjrS-IKhDR1v65ZfgxYIVYc0Hk/edit?usp=sharing) (due Friday, Jan 11)

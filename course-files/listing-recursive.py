@@ -23,7 +23,7 @@ nav_exclude: ${exclude}
             <th>Name</th>
             <th>Last modified</th>
             <th>Size</th>
-            <th>Download</th>
+            <th>Preview</th>
         </tr>
         <tr>
             <td valign="top"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAmlJREFUeNpsU0toU0EUPfPysx/tTxuDH9SCWhUDooIbd7oRUUTMouqi2iIoCO6lceHWhegy4EJFinWjrlQUpVm0IIoFpVDEIthm0dpikpf3ZuZ6Z94nrXhhMjM3c8895977BBHB2PznK8WPtDgyWH5q77cPH8PpdXuhpQT4ifR9u5sfJb1bmw6VivahATDrxcRZ2njfoaMv+2j7mLDn93MPiNRMvGbL18L9IpF8h9/TN+EYkMffSiOXJ5+hkD+PdqcLpICWHOHc2CC+LEyA/K+cKQMnlQHJX8wqYG3MAJy88Wa4OLDvEqAEOpJd0LxHIMdHBziowSwVlF8D6QaicK01krw/JynwcKoEwZczewroTvZirlKJs5CqQ5CG8pb57FnJUA0LYCXMX5fibd+p8LWDDemcPZbzQyjvH+Ki1TlIciElA7ghwLKV4kRZstt2sANWRjYTAGzuP2hXZFpJ/GsxgGJ0ox1aoFWsDXyyxqCs26+ydmagFN/rRjymJ1898bzGzmQE0HCZpmk5A0RFIv8Pn0WYPsiu6t/Rsj6PauVTwffTSzGAGZhUG2F06hEc9ibS7OPMNp6ErYFlKavo7MkhmTqCxZ/jwzGA9Hx82H2BZSw1NTN9Gx8ycHkajU/7M+jInsDC7DiaEmo1bNl1AMr9ASFgqVu9MCTIzoGUimXVAnnaN0PdBBDCCYbEtMk6wkpQwIG0sn0PQIUF4GsTwLSIFKNqF6DVrQq+IWVrQDxAYQC/1SsYOI4pOxKZrfifiUSbDUisif7XlpGIPufXd/uvdvZm760M0no1FZcnrzUdjw7au3vu/BVgAFLXeuTxhTXVAAAAAElFTkSuQmCC "
@@ -61,7 +61,7 @@ nav_exclude: ${exclude}
                         ${f['name'].replace('.md', '').title()}
                     </a>
                 % else:
-                    ${f['name']}
+                    <a href="${f['name']}">${f['name']}</a>
                 % endif
             </td>
             <td align="right">${f['time']}</td>
@@ -70,8 +70,8 @@ nav_exclude: ${exclude}
                 % if f['name'].endswith(('py', 'ipynb', 'txt', 'html')):
                     <a href="${github_path}/${header}${f['name']}" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
-                    <a href="${f['name']}"><i class="fas fa-download"></i></a>
                 % endif
+                <!-- a href="${f['name']}"><i class="fas fa-download"></i></a -->
             </td>
         </tr>
         % endfor
@@ -106,41 +106,28 @@ def sizeof_fmt(num, suffix='B'):
 def get_metadata(dir, filenames):
     metadata = []
     for fname in filenames:
-        #print(dir + fname)
         size = sizeof_fmt(os.path.getsize(dir + fname))
-        #print(size)
         timestamp = time.strftime('%-m/%-d/%Y %-I:%M %p', time.gmtime(os.path.getmtime(dir + fname)))
-        print(time)
-        entry = { 
+        metadata.append({ 
             'name': fname,
             'time': timestamp,
             'size': size
-        }
-        # print('entry:', entry)
-        metadata.append(entry)
+        })
     return metadata
 
 def fun(dir,rootdir, counter):
-    print('Processing: ', dir, counter)
-    print('*' * 50)
+    print('Processing: ', dir)
+
     filenames = [fname for fname in sorted(os.listdir(dir))
               if fname not in EXCLUDED and os.path.isfile(dir+fname)]
     dirnames = [fname for fname in sorted(os.listdir(dir))
             if fname not in EXCLUDED]
     dirnames = [fname for fname in dirnames if fname not in filenames]
 
-    
-    print('filenames:', filenames)
     file_metadata = get_metadata(dir, filenames)
-    
-    print('file_metadata:', file_metadata)
-
-
-    print('directory names:', dirnames)
-
     dir_metadata = get_metadata(dir, dirnames)
     relative_path = dir.split('course-files')
-    print(relative_path[0])
+
     f = open(dir+'/index.md','w')
     header = dir
     header = header.replace('./', 'course-files/')
@@ -157,7 +144,6 @@ def fun(dir,rootdir, counter):
         'title': title,
         'exclude': (not header == 'course-files/')
     }
-    print('args:', kwargs)
     print(Template(INDEX_TEMPLATE).render(**kwargs), file=f)
     f.close()
     for subdir in dirnames:

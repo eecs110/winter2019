@@ -83,7 +83,7 @@ permalink: /
                 <strong>Tu Jan 22</strong><br>
                 Conditional execution and while loops<br>
             </td>
-            <td><a class="label label-default" href="https://docs.google.com/document/d/1gg-lejsKe8fihtUsaEYC1I6zjBeWtKJRoCpKdLj8TJY/edit?usp=sharing">Homework 1 <i class="fas fa-link"></i></a></td>
+            <td><a class="label label-green" href="https://docs.google.com/document/d/1gg-lejsKe8fihtUsaEYC1I6zjBeWtKJRoCpKdLj8TJY/edit?usp=sharing">Homework 1 <i class="fas fa-link"></i></a></td>
         </tr>
         <tr>
             <td></td>

@@ -85,8 +85,10 @@ $link-color: $purple-200;
 
 a {
     color: $link-color;
-    &:hover {
-        color: $purple-600;
+    &:not(.label) {
+        &:hover {
+            color: $purple-600;
+        }
     }
 }
 ::selection {
