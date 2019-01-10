@@ -1,13 +1,13 @@
 ---
 layout: default
 nav_order: 4
-title: Lecture 01
+title: Lecture 02
 nav_exclude: True
 ---
 
-# Lecture 01
+# Lecture 02
 
-[course-files/lectures/lecture-01/](.)
+[course-files/lectures/lecture-02/](.)
 
 <table class="tbl-files">
     <tbody>
@@ -32,14 +32,14 @@ nav_exclude: True
                     <img class="icon-jupyter" src="{{ site.baseurl }}/assets/images/jupyter-icon.png" />
             </td>
             <td nowrap>
-                    <a href="01. Introduction.ipynb">01. Introduction.ipynb</a>
+                    <a href="02. Primitives Data Types.ipynb">02. Primitives Data Types.ipynb</a>
             </td>
-            <td align="right">1/8/2019 9:23 PM</td>
-            <td>26.6KB</td>
+            <td align="right">12/30/2018 3:11 AM</td>
+            <td>23.5KB</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture-01/01. Introduction.ipynb" 
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture-02/02. Primitives Data Types.ipynb" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
-                <!-- a href="01. Introduction.ipynb"><i class="fas fa-download"></i></a -->
+                <!-- a href="02. Primitives Data Types.ipynb"><i class="fas fa-download"></i></a -->
             </td>
         </tr>
         <tr class="click-to-preview">
@@ -47,14 +47,14 @@ nav_exclude: True
                     <img class="icon-jupyter" src="{{ site.baseurl }}/assets/images/jupyter-icon.png" />
             </td>
             <td nowrap>
-                    <a href="Data Visualization.ipynb">Data Visualization.ipynb</a>
+                    <a href="03. Operators.ipynb">03. Operators.ipynb</a>
             </td>
-            <td align="right">1/7/2019 11:00 PM</td>
-            <td>164.3KB</td>
+            <td align="right">12/29/2018 8:35 PM</td>
+            <td>21.7KB</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture-01/Data Visualization.ipynb" 
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture-02/03. Operators.ipynb" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
-                <!-- a href="Data Visualization.ipynb"><i class="fas fa-download"></i></a -->
+                <!-- a href="03. Operators.ipynb"><i class="fas fa-download"></i></a -->
             </td>
         </tr>
         <tr class="click-to-preview">
@@ -62,14 +62,14 @@ nav_exclude: True
                 <i class="fab fa-lg fa-python"></i>
             </td>
             <td nowrap>
-                    <a href="animation.py">animation.py</a>
+                    <a href="notebook_02_primitives_data_types.py">notebook_02_primitives_data_types.py</a>
             </td>
-            <td align="right">1/7/2019 10:59 PM</td>
-            <td>666.0B</td>
+            <td align="right">1/10/2019 9:32 PM</td>
+            <td>4.4KB</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture-01/animation.py" 
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture-02/notebook_02_primitives_data_types.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
-                <!-- a href="animation.py"><i class="fas fa-download"></i></a -->
+                <!-- a href="notebook_02_primitives_data_types.py"><i class="fas fa-download"></i></a -->
             </td>
         </tr>
         <tr class="click-to-preview">
@@ -77,44 +77,14 @@ nav_exclude: True
                 <i class="fab fa-lg fa-python"></i>
             </td>
             <td nowrap>
-                    <a href="drawing.py">drawing.py</a>
+                    <a href="notebook_03_operators.py">notebook_03_operators.py</a>
             </td>
-            <td align="right">1/7/2019 10:53 PM</td>
-            <td>357.0B</td>
+            <td align="right">1/10/2019 9:32 PM</td>
+            <td>11.3KB</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture-01/drawing.py" 
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture-02/notebook_03_operators.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
-                <!-- a href="drawing.py"><i class="fas fa-download"></i></a -->
-            </td>
-        </tr>
-        <tr class="click-to-preview">
-            <td>
-                <i class="fab fa-lg fa-python"></i>
-            </td>
-            <td nowrap>
-                    <a href="notebook_01_introduction.py">notebook_01_introduction.py</a>
-            </td>
-            <td align="right">1/8/2019 9:30 PM</td>
-            <td>23.9KB</td>
-            <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture-01/notebook_01_introduction.py" 
-                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
-                <!-- a href="notebook_01_introduction.py"><i class="fas fa-download"></i></a -->
-            </td>
-        </tr>
-        <tr class="click-to-preview">
-            <td>
-                <i class="fab fa-lg fa-python"></i>
-            </td>
-            <td nowrap>
-                    <a href="notebook_data_visualization.py">notebook_data_visualization.py</a>
-            </td>
-            <td align="right">1/8/2019 9:30 PM</td>
-            <td>4.7KB</td>
-            <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture-01/notebook_data_visualization.py" 
-                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
-                <!-- a href="notebook_data_visualization.py"><i class="fas fa-download"></i></a -->
+                <!-- a href="notebook_03_operators.py"><i class="fas fa-download"></i></a -->
             </td>
         </tr>
         <tr class="click-to-preview">
@@ -127,7 +97,7 @@ nav_exclude: True
                     </a>
             </td>
             <td align="right">1/10/2019 9:41 PM</td>
-            <td>541.0B</td>
+            <td>1.1KB</td>
             <td>
                 <!-- a href="slides.md"><i class="fas fa-download"></i></a -->
             </td>

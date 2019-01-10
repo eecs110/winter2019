@@ -84,7 +84,9 @@ For any other issues that you think are not appropriate for the peer mentors or 
 
 ## Tutorial Sessions
 This course involves weekly small-group tutorial sessions where you will work with a member of the teaching staff, beginning in the second week of the class.  For logistical reasons, we couldn't allow people to sign up for them as a normal part of the CAESAR registration process, so you will sign up for tutorials at the end of the first week of class.
-Attending these tutorial sessions is required for your grade, as they are where a lot of the actual learning will happen. You may miss one without it affecting your grade, but subsequent absences will affect your grade.  Attending and working in the tutorials is worth 10% of your grade.  But you have to actually work; if you let your teammates do all the work while you read Facebook, we will not give you credit.
+{: .prose}
+
+Attending these tutorial sessions is **strongly recommended**. However, if you need to miss your tutorial session for whatever reason, you can do the tutorial on your own, and turn it in **by 6PM Friday** and still receive full credit.
 {: .prose}
 
 ## Grading
