@@ -36,10 +36,7 @@ Titobioluwa Williams, Matthew Nicholson, Josh Kennedy, Emily Blackman, Suzy Lee,
 {: .prose}
 
 ### Office Hours
-* Sarah Van Wart: TBD, Mudd 3213
-* Begum Egilmez: TBD
-* Victor Bursztyn: TBD
-* Peer Mentors: See calendar
+Office hours and tutorial location and times are posted on the course's [Google Calendar].(https://calendar.google.com/calendar?cid=dDhpZjBqNG4zcDZrcTk3a29rM2ozbHJiaWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 {: .prose}
 
 ## Course Materials and Resources
@@ -86,7 +83,8 @@ For any other issues that you think are not appropriate for the peer mentors or 
 This course involves weekly small-group tutorial sessions where you will work with a member of the teaching staff, beginning in the second week of the class.  For logistical reasons, we couldn't allow people to sign up for them as a normal part of the CAESAR registration process, so you will sign up for tutorials at the end of the first week of class.
 {: .prose}
 
-Attending these tutorial sessions is **strongly recommended**. However, if you need to miss your tutorial session for whatever reason, you can do the tutorial on your own, and turn it in **by 6PM Friday** and still receive full credit.
+Attending these tutorial sessions is **strongly recommended**. However, if you need to miss your tutorial session for whatever reason, you can do the tutorial on your own, and turn it in **by 6PM Friday** and still receive full credit (harder, but useful if you have a time conflict).
+
 {: .prose}
 
 ## Grading
@@ -104,7 +102,11 @@ Final grades are assigned on a fixed scale: 93-100 is an A, 90-92.99 is an A-, 8
 We will not be using the final exam time for this class. Exam 2 will be on the last day of class (March 14). If you plan to leave town during or before finals week, it is your responsibility to make sure that you can submit your third project assignment on time to Canvas (that is, be sure that you will have a stable internet connection). 
 {: .prose}
 
-Assignments will be approximately weekly. They are due at 11:59pm on the date specified. We will still accept late assignments up to 48 hours after the original due date, but with a 30% penalty. In EXTREME circumstances (e.g, if you leave town for a funeral), you must contact your dean of students (like Joe Holtgreive) and have them contact me if they deem it necessary to give you an extension or make other accommodations. Please understand that we do this to make things fair for all students – I don’t want to be in charge of vetting individual students’ situations, and I don’t want students to have to tell me their personal troubles if they don't want to. 
+Homework will be approximately weekly. They are due at 11:59pm on the date specified. 
+We will still accept late homework up to 48 hours after the original due date, but with a 30% penalty. Homework is graded pass / fail (either 0 points or 10 points). If you fail your first homework submission, you have **one week** to revise and resubmit to receive full credit. If you turn your homework late (within 48 hours of the deadline) you will be penalized 30%. If you resubmit after first turning in a late homework assignment, you can only receive a maximum of 7 points.
+{: .prose}
+
+In EXTREME circumstances (e.g, if you leave town for a funeral), you must contact your dean of students (like Joe Holtgreive) and have them contact me if they deem it necessary to give you an extension or make other accommodations. Please understand that we do this to make things fair for all students – I don’t want to be in charge of vetting individual students’ situations, and I don’t want students to have to tell me their personal troubles if they don't want to. 
 {: .prose}
 
 In your programming assignments, it is critical that you name your functions/classes/files EXACTLY as specified. More generally, failure to follow the specification given in the assignment will result in a significant score penalty. Because of the nature and size of the class, we will find it necessary to do some automated testing of your programming assignments. On occasion, this testing/grading may make an error. You will receive your assignment grades on Canvas. If you have any grading questions/concerns, please send a private message on Piazza within 1 week to the graduate TAs (Begum Egilmez and Victor Bursztyn) to resolve the issue. We will NOT drop any scores in this class, but ***may*** offer up to 15 points of extra credit. Finally, it is your responsibility to keep up-to-date on class material and announcements. This includes material presented and announcements made in class, via email, or on Piazza. 
