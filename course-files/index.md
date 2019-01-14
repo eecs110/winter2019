@@ -2,12 +2,12 @@
 layout: default
 nav_order: 4
 title: Course Files
-nav_exclude: True
+nav_exclude: False
 ---
 
 # Course Files
 
-[.course-files/course-files/](.)
+[course-files/](.)
 
 <table class="tbl-files">
     <tbody>

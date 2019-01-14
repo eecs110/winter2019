@@ -7,7 +7,7 @@ nav_exclude: True
 
 # Hw01
 
-[.course-files/course-files/homework/hw01/](.)
+[course-files/homework/hw01/](.)
 
 <table class="tbl-files">
     <tbody>
@@ -37,7 +37,7 @@ nav_exclude: True
             <td align="right">1/4/2019 6:36 PM</td>
             <td>556.0B</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/.course-files/course-files/homework/hw01/creature.py" 
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw01/creature.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
                 <!-- a href="creature.py"><i class="fas fa-download"></i></a -->
             </td>
@@ -52,7 +52,7 @@ nav_exclude: True
             <td align="right">1/4/2019 7:17 PM</td>
             <td>3.9KB</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/.course-files/course-files/homework/hw01/helpers.py" 
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw01/helpers.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
                 <!-- a href="helpers.py"><i class="fas fa-download"></i></a -->
             </td>
@@ -67,7 +67,7 @@ nav_exclude: True
             <td align="right">1/4/2019 5:30 PM</td>
             <td>1.2KB</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/.course-files/course-files/homework/hw01/main.py" 
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw01/main.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
                 <!-- a href="main.py"><i class="fas fa-download"></i></a -->
             </td>
@@ -82,7 +82,7 @@ nav_exclude: True
             <td align="right">1/14/2019 9:20 PM</td>
             <td>151.0B</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/.course-files/course-files/homework/hw01/readme.txt" 
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw01/readme.txt" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
                 <!-- a href="readme.txt"><i class="fas fa-download"></i></a -->
             </td>
@@ -97,7 +97,7 @@ nav_exclude: True
             <td align="right">1/4/2019 5:21 PM</td>
             <td>1.2KB</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/.course-files/course-files/homework/hw01/warm_up.py" 
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw01/warm_up.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
                 <!-- a href="warm_up.py"><i class="fas fa-download"></i></a -->
             </td>

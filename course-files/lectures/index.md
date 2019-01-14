@@ -7,7 +7,7 @@ nav_exclude: True
 
 # Lectures
 
-[.course-files/course-files/lectures/](.)
+[course-files/lectures/](.)
 
 <table class="tbl-files">
     <tbody>
@@ -58,7 +58,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="lecture_01.zip">lecture_01.zip</a>
             </td>
-            <td align="right">1/14/2019 10:58 PM</td>
+            <td align="right">1/14/2019 11:03 PM</td>
             <td>139.8KB</td>
             <td>
                 <!-- a href="lecture_01.zip"><i class="fas fa-download"></i></a -->
@@ -71,7 +71,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="lecture_02.zip">lecture_02.zip</a>
             </td>
-            <td align="right">1/14/2019 10:58 PM</td>
+            <td align="right">1/14/2019 11:03 PM</td>
             <td>15.0KB</td>
             <td>
                 <!-- a href="lecture_02.zip"><i class="fas fa-download"></i></a -->
@@ -84,7 +84,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="lecture_03.zip">lecture_03.zip</a>
             </td>
-            <td align="right">1/14/2019 10:58 PM</td>
+            <td align="right">1/14/2019 11:03 PM</td>
             <td>276.0B</td>
             <td>
                 <!-- a href="lecture_03.zip"><i class="fas fa-download"></i></a -->

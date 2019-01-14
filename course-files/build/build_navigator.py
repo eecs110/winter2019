@@ -120,7 +120,8 @@ def fun(dir,rootdir, counter):
 
     f = open(dir+'/index.md','w')
     header = dir
-    header = header.replace('./', 'course-files/')
+    header = header.replace('.././', 'course-files/')
+    print(header)
     title = header.split('/')[-2]
     title = title.replace('-', ' ')
     title = title.replace('_', ' ')

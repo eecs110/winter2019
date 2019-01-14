@@ -7,7 +7,7 @@ nav_exclude: True
 
 # Tutorial01
 
-[.course-files/course-files/tutorials/tutorial01/](.)
+[course-files/tutorials/tutorial01/](.)
 
 <table class="tbl-files">
     <tbody>
@@ -37,7 +37,7 @@ nav_exclude: True
             <td align="right">1/14/2019 9:25 PM</td>
             <td>153.0B</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/.course-files/course-files/tutorials/tutorial01/readme.txt" 
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/tutorials/tutorial01/readme.txt" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
                 <!-- a href="readme.txt"><i class="fas fa-download"></i></a -->
             </td>

@@ -7,7 +7,7 @@ nav_exclude: True
 
 # Homework
 
-[.course-files/course-files/homework/](.)
+[course-files/homework/](.)
 
 <table class="tbl-files">
     <tbody>
@@ -42,7 +42,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="hw01.zip">hw01.zip</a>
             </td>
-            <td align="right">1/14/2019 10:58 PM</td>
+            <td align="right">1/14/2019 11:03 PM</td>
             <td>3.0KB</td>
             <td>
                 <!-- a href="hw01.zip"><i class="fas fa-download"></i></a -->

@@ -7,7 +7,7 @@ nav_exclude: True
 
 # Tutorials
 
-[.course-files/course-files/tutorials/](.)
+[course-files/tutorials/](.)
 
 <table class="tbl-files">
     <tbody>
