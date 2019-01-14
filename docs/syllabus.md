@@ -36,7 +36,7 @@ Titobioluwa Williams, Matthew Nicholson, Josh Kennedy, Emily Blackman, Suzy Lee,
 {: .prose}
 
 ### Office Hours
-Office hours and tutorial location and times are posted on the course's [Google Calendar].(https://calendar.google.com/calendar?cid=dDhpZjBqNG4zcDZrcTk3a29rM2ozbHJiaWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+Office hours and tutorial location and times are posted on the course's [Google Calendar](https://calendar.google.com/calendar?cid=dDhpZjBqNG4zcDZrcTk3a29rM2ozbHJiaWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 {: .prose}
 
 ## Course Materials and Resources
@@ -84,7 +84,6 @@ This course involves weekly small-group tutorial sessions where you will work wi
 {: .prose}
 
 Attending these tutorial sessions is **strongly recommended**. However, if you need to miss your tutorial session for whatever reason, you can do the tutorial on your own, and turn it in **by 6PM Friday** and still receive full credit (harder, but useful if you have a time conflict).
-
 {: .prose}
 
 ## Grading
