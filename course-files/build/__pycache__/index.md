@@ -1,13 +1,13 @@
 ---
 layout: default
 nav_order: 4
-title: Tutorial01
+title:   Pycache  
 nav_exclude: True
 ---
 
-# Tutorial01
+#   Pycache  
 
-[.course-files/course-files/tutorials/tutorial01/](.)
+[.course-files/course-files/build/__pycache__/](.)
 
 <table class="tbl-files">
     <tbody>
@@ -29,17 +29,15 @@ nav_exclude: True
 
         <tr class="click-to-preview">
             <td>
-                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAABHUlEQVR42o2RMW7DIBiF3498iHRJD5JKHurL+CRVBp+i2T16tTynF2gO0KSb5ZrBBl4HHDBuK/WXACH4eO9/CAAAbdvijzLGNE1TVZXfZuHg6XCAQESAZXbOKaXO57eiKG6ft9PrKQIkCQqFoIiQFBGlFIB5nvM8t9aOX2Nd18oDzjnPgCDpn/BH4zh2XZdlWVmWiUK4IgCBoFMUz9eP6zRN75cLgEQhcmTQIbl72O0f9865qLAAsURAAgKBJKEtgLXWvyjLuFsThCSstb8rBCaAQhDYWgIZ7myM+TUBjDHrHlZcbMYYk34cN0YSLcgS+wL0fe9TXDMbY33fR2AYBvyQ8L0Gk8MwREBrTfKe4TpTzwhArXWi8HI84h/1DfwI5mhxJamFAAAAAElFTkSuQmCC " alt="[DIR]">
+                <i class="fab fa-lg fa-python"></i>
             </td>
             <td nowrap>
-                    <a href="readme.txt">readme.txt</a>
+                    <a href="excluded.cpython-37.pyc">excluded.cpython-37.pyc</a>
             </td>
-            <td align="right">1/14/2019 9:25 PM</td>
-            <td>153.0B</td>
+            <td align="right">1/14/2019 9:37 PM</td>
+            <td>359.0B</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/.course-files/course-files/tutorials/tutorial01/readme.txt" 
-                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
-                <!-- a href="readme.txt"><i class="fas fa-download"></i></a -->
+                <!-- a href="excluded.cpython-37.pyc"><i class="fas fa-download"></i></a -->
             </td>
         </tr>
     </tbody>

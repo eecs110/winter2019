@@ -4,6 +4,7 @@ make_index.py </path/to/directory> [--header <header text>]
 """
 from __future__ import print_function
 import os.path, time
+from excluded import EXCLUDED
 
 INDEX_TEMPLATE = r"""---
 layout: default
@@ -79,17 +80,6 @@ nav_exclude: ${exclude}
 </table>
 """
 
-EXCLUDED = [
-    'listing-recursive.py', 
-    'notebook-to-script.py',
-    'index.html', 
-    'index.md', 
-    'drafts', 
-    '.ipynb_checkpoints', 
-    '.DS_Store', 
-    'images'
-]
-
 import os
 import argparse
 
@@ -133,6 +123,7 @@ def fun(dir,rootdir, counter):
     header = header.replace('./', 'course-files/')
     title = header.split('/')[-2]
     title = title.replace('-', ' ')
+    title = title.replace('_', ' ')
     title = title.title()
     kwargs = {
         'dirnames': dir_metadata,
