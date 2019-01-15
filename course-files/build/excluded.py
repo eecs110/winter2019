@@ -7,7 +7,7 @@ EXCLUDED = [
     'index.md', 
     'drafts', 
     'build',
-    '__pycache__',
+    'pycache',
     '.ipynb_checkpoints', 
     '.DS_Store', 
     'images'

@@ -18,7 +18,9 @@ Introduction to programming with Python.
 
 ### Assigned 
 1. <a href="https://goo.gl/forms/315BPme8lNKYGval1" target="_blank">Questionnaire</a> (due end of class)
-2. [Homework 1](https://docs.google.com/document/d/1gg-lejsKe8fihtUsaEYC1I6zjBeWtKJRoCpKdLj8TJY/edit?usp=sharing) (due Tu, Jan 22)
+2. Homework 1 (due Tu, Jan 22)
+    1. [Option 1: Graphics](https://docs.google.com/document/d/1gg-lejsKe8fihtUsaEYC1I6zjBeWtKJRoCpKdLj8TJY/edit?usp=sharing)
+    2. [Option 2: Audio](https://docs.google.com/document/d/1CJQSR8RVhv82PAg2b24oelNUZdmbQkuKuj58N9VeKP4/edit)
 
 ### Readings and Resources
 1. Python for Everyone: Why program?<br>
