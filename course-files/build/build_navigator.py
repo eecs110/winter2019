@@ -3,7 +3,7 @@
 make_index.py </path/to/directory> [--header <header text>]
 """
 from __future__ import print_function
-import os.path, time
+import os.path, datetime, time
 from excluded import EXCLUDED
 
 INDEX_TEMPLATE = r"""---
@@ -93,11 +93,16 @@ def sizeof_fmt(num, suffix='B'):
         num /= 1024.0
     return "%.1f%s%s" % (num, 'Yi', suffix)
 
+def get_timestamp(f):
+    timestamp = time.ctime(os.path.getmtime(f))
+    timestamp_datetime = datetime.datetime.strptime(timestamp, "%a %b %d %H:%M:%S %Y")
+    return timestamp_datetime.strftime('%-m/%-d/%Y %-I:%M %p')
+
 def get_metadata(dir, filenames):
     metadata = []
     for fname in filenames:
         size = sizeof_fmt(os.path.getsize(dir + fname))
-        timestamp = time.strftime('%-m/%-d/%Y %-I:%M %p', time.gmtime(os.path.getmtime(dir + fname)))
+        timestamp = get_timestamp(dir + fname)
         metadata.append({ 
             'name': fname,
             'time': timestamp,
@@ -121,7 +126,7 @@ def fun(dir,rootdir, counter):
     f = open(dir+'/index.md','w')
     header = dir
     header = header.replace('.././', 'course-files/')
-    print(header)
+    # print(header)
     title = header.split('/')[-2]
     title = title.replace('-', ' ')
     title = title.replace('_', ' ')

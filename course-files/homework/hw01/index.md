@@ -34,7 +34,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="creature.py">creature.py</a>
             </td>
-            <td align="right">1/4/2019 6:36 PM</td>
+            <td align="right">1/4/2019 12:36 PM</td>
             <td>556.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw01/creature.py" 
@@ -49,7 +49,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="helpers.py">helpers.py</a>
             </td>
-            <td align="right">1/4/2019 7:17 PM</td>
+            <td align="right">1/4/2019 1:17 PM</td>
             <td>3.9KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw01/helpers.py" 
@@ -64,7 +64,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="main.py">main.py</a>
             </td>
-            <td align="right">1/4/2019 5:30 PM</td>
+            <td align="right">1/4/2019 11:30 AM</td>
             <td>1.2KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw01/main.py" 
@@ -79,7 +79,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="readme.txt">readme.txt</a>
             </td>
-            <td align="right">1/14/2019 9:20 PM</td>
+            <td align="right">1/14/2019 3:20 PM</td>
             <td>151.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw01/readme.txt" 
@@ -94,7 +94,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="warm_up.py">warm_up.py</a>
             </td>
-            <td align="right">1/4/2019 5:21 PM</td>
+            <td align="right">1/4/2019 11:21 AM</td>
             <td>1.2KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw01/warm_up.py" 

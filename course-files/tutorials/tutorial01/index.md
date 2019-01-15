@@ -34,7 +34,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="readme.txt">readme.txt</a>
             </td>
-            <td align="right">1/14/2019 9:25 PM</td>
+            <td align="right">1/14/2019 3:25 PM</td>
             <td>153.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/tutorials/tutorial01/readme.txt" 

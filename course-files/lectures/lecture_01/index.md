@@ -34,7 +34,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="01. Introduction.ipynb">01. Introduction.ipynb</a>
             </td>
-            <td align="right">1/11/2019 9:14 PM</td>
+            <td align="right">1/11/2019 3:14 PM</td>
             <td>26.6KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_01/01. Introduction.ipynb" 
@@ -49,7 +49,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="Data Visualization.ipynb">Data Visualization.ipynb</a>
             </td>
-            <td align="right">1/11/2019 9:14 PM</td>
+            <td align="right">1/11/2019 3:14 PM</td>
             <td>164.3KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_01/Data Visualization.ipynb" 
@@ -64,7 +64,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="animation.py">animation.py</a>
             </td>
-            <td align="right">1/7/2019 10:59 PM</td>
+            <td align="right">1/7/2019 4:59 PM</td>
             <td>666.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_01/animation.py" 
@@ -79,7 +79,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="drawing.py">drawing.py</a>
             </td>
-            <td align="right">1/7/2019 10:53 PM</td>
+            <td align="right">1/7/2019 4:53 PM</td>
             <td>357.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_01/drawing.py" 
@@ -94,7 +94,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="notebook_01_introduction.py">notebook_01_introduction.py</a>
             </td>
-            <td align="right">1/14/2019 11:03 PM</td>
+            <td align="right">1/14/2019 6:28 PM</td>
             <td>24.0KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_01/notebook_01_introduction.py" 
@@ -109,7 +109,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="notebook_data_visualization.py">notebook_data_visualization.py</a>
             </td>
-            <td align="right">1/14/2019 11:03 PM</td>
+            <td align="right">1/14/2019 6:28 PM</td>
             <td>4.8KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_01/notebook_data_visualization.py" 
@@ -126,7 +126,7 @@ nav_exclude: True
                         Slides
                     </a>
             </td>
-            <td align="right">1/10/2019 9:41 PM</td>
+            <td align="right">1/10/2019 3:41 PM</td>
             <td>541.0B</td>
             <td>
                 <!-- a href="slides.md"><i class="fas fa-download"></i></a -->

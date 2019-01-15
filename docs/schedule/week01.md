@@ -11,8 +11,7 @@ permalink: /week-01
 ## I. Tuesday, January 8
 Introduction to programming with Python.
 ### Slides
-<a href="https://docs.google.com/presentation/d/e/2PACX-1vQTV_YXYGm7Lzi5FIyJOaabWly6EEbvhiuHLkX097vuJwxAjoDzP0lv6VFhzpcjtTLIBjFdxYkrU3AQ/pub?start=false&loop=false&delayms=3000" target="_blank">Intro to the course</a>
-<!-- 2. <a href="https://docs.google.com/presentation/d/e/2PACX-1vTRibbLZqCUZpVYHM7cv19Gw-OYMFxzPPo8u-26n8qSHX8RnkpUQCtg7R2RodgDXkyhnxJL-RA3umWy/pub?start=false&loop=false&delayms=3000" target="_blank" >Software and hardware</a> -->
+* [Slides 00: Intro to the Course](https://docs.google.com/presentation/d/1lFtVbEGrP8PoTZlK-q6SpYLN_B8MDNcN0pBJ_lc7Yd8/edit?usp=sharing)
 
 ### Code Samples
 [see course files](/winter2019/course-files/lectures/)
@@ -30,6 +29,9 @@ Note: Windows users need to use the Anaconda prompt rather than the traditional 
 
 ## II. Thursday, January 10
 ### Slides
+* [Slides 01: Hardware and software](https://docs.google.com/presentation/d/1EGelaCVvS-LME3W5p5KAGBmKWkYaCeWVdEVbUm7G1B0/edit?usp=sharing)
+* [Slides 02: Expressions, variables, and statements](https://docs.google.com/presentation/d/1UJKMJ0hVKI1kEm3392xC3R9DvFPtPo3znLjbIhpHEpk/edit?usp=sharing)
+
 ### Code Samples
 [see course files](/winter2019/course-files/lectures/)
 
