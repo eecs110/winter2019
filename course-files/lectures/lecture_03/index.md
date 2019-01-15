@@ -1,13 +1,13 @@
 ---
 layout: default
 nav_order: 4
-title: Lecture 02
+title: Lecture 03
 nav_exclude: True
 ---
 
-# Lecture 02
+# Lecture 03
 
-[course-files/lectures/lecture_02/](.)
+[course-files/lectures/lecture_03/](.)
 
 <table class="tbl-files">
     <tbody>
@@ -32,29 +32,14 @@ nav_exclude: True
                     <img class="icon-jupyter" src="{{ site.baseurl }}/assets/images/jupyter-icon.png" />
             </td>
             <td nowrap>
-                    <a href="02. Primitives Data Types.ipynb">02. Primitives Data Types.ipynb</a>
+                    <a href="04. Built-In Functions.ipynb">04. Built-In Functions.ipynb</a>
             </td>
-            <td align="right">1/11/2019 3:14 PM</td>
-            <td>23.5KB</td>
+            <td align="right">1/15/2019 3:38 PM</td>
+            <td>12.8KB</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_02/02. Primitives Data Types.ipynb" 
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_03/04. Built-In Functions.ipynb" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
-                <!-- a href="02. Primitives Data Types.ipynb"><i class="fas fa-download"></i></a -->
-            </td>
-        </tr>
-        <tr class="click-to-preview">
-            <td>
-                    <img class="icon-jupyter" src="{{ site.baseurl }}/assets/images/jupyter-icon.png" />
-            </td>
-            <td nowrap>
-                    <a href="03. Operators.ipynb">03. Operators.ipynb</a>
-            </td>
-            <td align="right">12/29/2018 2:35 PM</td>
-            <td>21.7KB</td>
-            <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_02/03. Operators.ipynb" 
-                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
-                <!-- a href="03. Operators.ipynb"><i class="fas fa-download"></i></a -->
+                <!-- a href="04. Built-In Functions.ipynb"><i class="fas fa-download"></i></a -->
             </td>
         </tr>
         <tr class="click-to-preview">
@@ -62,14 +47,14 @@ nav_exclude: True
                 <i class="fab fa-lg fa-python"></i>
             </td>
             <td nowrap>
-                    <a href="notebook_02_primitives_data_types.py">notebook_02_primitives_data_types.py</a>
+                    <a href="demo00_operators_data_types.py">demo00_operators_data_types.py</a>
             </td>
-            <td align="right">1/15/2019 3:47 PM</td>
-            <td>4.4KB</td>
+            <td align="right">1/13/2019 9:50 AM</td>
+            <td>327.0B</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_02/notebook_02_primitives_data_types.py" 
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_03/demo00_operators_data_types.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
-                <!-- a href="notebook_02_primitives_data_types.py"><i class="fas fa-download"></i></a -->
+                <!-- a href="demo00_operators_data_types.py"><i class="fas fa-download"></i></a -->
             </td>
         </tr>
         <tr class="click-to-preview">
@@ -77,14 +62,29 @@ nav_exclude: True
                 <i class="fab fa-lg fa-python"></i>
             </td>
             <td nowrap>
-                    <a href="notebook_03_operators.py">notebook_03_operators.py</a>
+                    <a href="demo01_lists_and_tuples.py">demo01_lists_and_tuples.py</a>
             </td>
-            <td align="right">1/15/2019 3:47 PM</td>
-            <td>11.4KB</td>
+            <td align="right">1/15/2019 1:47 PM</td>
+            <td>3.8KB</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_02/notebook_03_operators.py" 
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_03/demo01_lists_and_tuples.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
-                <!-- a href="notebook_03_operators.py"><i class="fas fa-download"></i></a -->
+                <!-- a href="demo01_lists_and_tuples.py"><i class="fas fa-download"></i></a -->
+            </td>
+        </tr>
+        <tr class="click-to-preview">
+            <td>
+                <i class="fab fa-lg fa-python"></i>
+            </td>
+            <td nowrap>
+                    <a href="demo02_build_in_functions.py">demo02_build_in_functions.py</a>
+            </td>
+            <td align="right">1/15/2019 3:33 PM</td>
+            <td>1.2KB</td>
+            <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_03/demo02_build_in_functions.py" 
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
+                <!-- a href="demo02_build_in_functions.py"><i class="fas fa-download"></i></a -->
             </td>
         </tr>
         <tr class="click-to-preview">
@@ -92,14 +92,29 @@ nav_exclude: True
                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAABHUlEQVR42o2RMW7DIBiF3498iHRJD5JKHurL+CRVBp+i2T16tTynF2gO0KSb5ZrBBl4HHDBuK/WXACH4eO9/CAAAbdvijzLGNE1TVZXfZuHg6XCAQESAZXbOKaXO57eiKG6ft9PrKQIkCQqFoIiQFBGlFIB5nvM8t9aOX2Nd18oDzjnPgCDpn/BH4zh2XZdlWVmWiUK4IgCBoFMUz9eP6zRN75cLgEQhcmTQIbl72O0f9865qLAAsURAAgKBJKEtgLXWvyjLuFsThCSstb8rBCaAQhDYWgIZ7myM+TUBjDHrHlZcbMYYk34cN0YSLcgS+wL0fe9TXDMbY33fR2AYBvyQ8L0Gk8MwREBrTfKe4TpTzwhArXWi8HI84h/1DfwI5mhxJamFAAAAAElFTkSuQmCC " alt="[DIR]">
             </td>
             <td nowrap>
-                    <a href="slides">
-                        Slides
-                    </a>
+                    <a href="demofile.txt">demofile.txt</a>
             </td>
-            <td align="right">1/10/2019 3:41 PM</td>
-            <td>1.1KB</td>
+            <td align="right">1/15/2019 3:22 PM</td>
+            <td>52.0B</td>
             <td>
-                <!-- a href="slides.md"><i class="fas fa-download"></i></a -->
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_03/demofile.txt" 
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
+                <!-- a href="demofile.txt"><i class="fas fa-download"></i></a -->
+            </td>
+        </tr>
+        <tr class="click-to-preview">
+            <td>
+                <i class="fab fa-lg fa-python"></i>
+            </td>
+            <td nowrap>
+                    <a href="notebook_04_builtin_functions.py">notebook_04_builtin_functions.py</a>
+            </td>
+            <td align="right">1/15/2019 3:47 PM</td>
+            <td>7.0KB</td>
+            <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_03/notebook_04_builtin_functions.py" 
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
+                <!-- a href="notebook_04_builtin_functions.py"><i class="fas fa-download"></i></a -->
             </td>
         </tr>
     </tbody>

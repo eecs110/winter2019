@@ -51,7 +51,7 @@ permalink: /
         </tr>
         <!-- WEEK #2 -->
         <tr>
-            <td>Week 2</td>
+            <td><a href="week-02">Week 2</a></td>
             <td>
                 <strong>Tu Jan 15</strong><br>
                 Built-in functions and modules<br>

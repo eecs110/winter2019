@@ -11,8 +11,10 @@ permalink: /week-02
 ## I. Tuesday, January 15
 Working with built-in functions and modules
 ### Slides
+* [Slides 03: Working with Functions and Modules](https://docs.google.com/presentation/d/1pQs_tCuLFnVwm7efloWsNMFFeh8_ElkvnYQirDwBObE/edit?usp=sharing)
 
 ### Code Samples
+[see course files](/winter2019/course-files/lectures/)
 
 ### Assigned 
 Continue working on Homework 1 (due Tu, Jan 22)
@@ -20,7 +22,13 @@ Continue working on Homework 1 (due Tu, Jan 22)
 2. [Option 2: Audio](https://docs.google.com/document/d/1CJQSR8RVhv82PAg2b24oelNUZdmbQkuKuj58N9VeKP4/edit)
 
 ### Readings and Resources
-TBD
+1. Python for Everyone: Lists<br>
+Note: we will be covering loops in week 3 (alluded to in Chuck's reference materials) -- as loops and lists go hand in hand -- but for now, just focus on what a list is and how it can store and organize data.<br>
+[videos]() | [textbook](https://www.py4e.com/html3/08-lists)
+2. Python for Everyone: Tuples<br>
+[videos](https://www.py4e.com/lessons/tuples) | [textbook](https://www.py4e.com/html3/10-tuples)
+3. Python for Everyone: Functions<br>
+[videos](https://www.py4e.com/lessons/functions) | [textbook](https://www.py4e.com/html3/04-functions)
 
 ## II. Thursday, January 17
 ### Slides
