@@ -27,50 +27,21 @@ nav_exclude: True
             <td>&nbsp;</td>
         </tr>
 
-        <tr class="click-to-preview">
-            <td>
-                <i class="fab fa-lg fa-python"></i>
-            </td>
-            <td nowrap>
-                    <a href="creature.py">creature.py</a>
-            </td>
-            <td align="right">1/4/2019 12:36 PM</td>
-            <td>556.0B</td>
-            <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw01/creature.py" 
-                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
-                <!-- a href="creature.py"><i class="fas fa-download"></i></a -->
-            </td>
+        <tr>
+            <td valign="top"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAd5JREFUeNqMU79rFUEQ/vbuodFEEkzAImBpkUabFP4ldpaJhZXYm/RiZWsv/hkWFglBUyTIgyAIIfgIRjHv3r39MePM7N3LcbxAFvZ2b2bn22/mm3XMjF+HL3YW7q28YSIw8mBKoBihhhgCsoORot9d3/ywg3YowMXwNde/PzGnk2vn6PitrT+/PGeNaecg4+qNY3D43vy16A5wDDd4Aqg/ngmrjl/GoN0U5V1QquHQG3q+TPDVhVwyBffcmQGJmSVfyZk7R3SngI4JKfwDJ2+05zIg8gbiereTZRHhJ5KCMOwDFLjhoBTn2g0ghagfKeIYJDPFyibJVBtTREwq60SpYvh5++PpwatHsxSm9QRLSQpEVSd7/TYJUb49TX7gztpjjEffnoVw66+Ytovs14Yp7HaKmUXeX9rKUoMoLNW3srqI5fWn8JejrVkK0QcrkFLOgS39yoKUQe292WJ1guUHG8K2o8K00oO1BTvXoW4yasclUTgZYJY9aFNfAThX5CZRmczAV52oAPoupHhWRIUUAOoyUIlYVaAa/VbLbyiZUiyFbjQFNwiZQSGl4IDy9sO5Wrty0QLKhdZPxmgGcDo8ejn+c/6eiK9poz15Kw7Dr/vN/z6W7q++091/AQYA5mZ8GYJ9K0AAAAAASUVORK5CYII= "
+                alt="[DIR]"></td>
+            <td><a href="option1_graphics">option1_graphics</a></td>
+            <td align="right">1/14/2019 9:40 PM</td>
+            <td>224.0B</td>
+            <td>&nbsp;</td>
         </tr>
-        <tr class="click-to-preview">
-            <td>
-                <i class="fab fa-lg fa-python"></i>
-            </td>
-            <td nowrap>
-                    <a href="helpers.py">helpers.py</a>
-            </td>
-            <td align="right">1/4/2019 1:17 PM</td>
-            <td>3.9KB</td>
-            <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw01/helpers.py" 
-                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
-                <!-- a href="helpers.py"><i class="fas fa-download"></i></a -->
-            </td>
-        </tr>
-        <tr class="click-to-preview">
-            <td>
-                <i class="fab fa-lg fa-python"></i>
-            </td>
-            <td nowrap>
-                    <a href="main.py">main.py</a>
-            </td>
-            <td align="right">1/4/2019 11:30 AM</td>
-            <td>1.2KB</td>
-            <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw01/main.py" 
-                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
-                <!-- a href="main.py"><i class="fas fa-download"></i></a -->
-            </td>
+        <tr>
+            <td valign="top"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAd5JREFUeNqMU79rFUEQ/vbuodFEEkzAImBpkUabFP4ldpaJhZXYm/RiZWsv/hkWFglBUyTIgyAIIfgIRjHv3r39MePM7N3LcbxAFvZ2b2bn22/mm3XMjF+HL3YW7q28YSIw8mBKoBihhhgCsoORot9d3/ywg3YowMXwNde/PzGnk2vn6PitrT+/PGeNaecg4+qNY3D43vy16A5wDDd4Aqg/ngmrjl/GoN0U5V1QquHQG3q+TPDVhVwyBffcmQGJmSVfyZk7R3SngI4JKfwDJ2+05zIg8gbiereTZRHhJ5KCMOwDFLjhoBTn2g0ghagfKeIYJDPFyibJVBtTREwq60SpYvh5++PpwatHsxSm9QRLSQpEVSd7/TYJUb49TX7gztpjjEffnoVw66+Ytovs14Yp7HaKmUXeX9rKUoMoLNW3srqI5fWn8JejrVkK0QcrkFLOgS39yoKUQe292WJ1guUHG8K2o8K00oO1BTvXoW4yasclUTgZYJY9aFNfAThX5CZRmczAV52oAPoupHhWRIUUAOoyUIlYVaAa/VbLbyiZUiyFbjQFNwiZQSGl4IDy9sO5Wrty0QLKhdZPxmgGcDo8ejn+c/6eiK9poz15Kw7Dr/vN/z6W7q++091/AQYA5mZ8GYJ9K0AAAAAASUVORK5CYII= "
+                alt="[DIR]"></td>
+            <td><a href="option2_audio">option2_audio</a></td>
+            <td align="right">1/14/2019 9:40 PM</td>
+            <td>288.0B</td>
+            <td>&nbsp;</td>
         </tr>
         <tr class="click-to-preview">
             <td>
@@ -79,27 +50,12 @@ nav_exclude: True
             <td nowrap>
                     <a href="readme.txt">readme.txt</a>
             </td>
-            <td align="right">1/14/2019 3:20 PM</td>
-            <td>151.0B</td>
+            <td align="right">1/14/2019 9:44 PM</td>
+            <td>615.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw01/readme.txt" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
                 <!-- a href="readme.txt"><i class="fas fa-download"></i></a -->
-            </td>
-        </tr>
-        <tr class="click-to-preview">
-            <td>
-                <i class="fab fa-lg fa-python"></i>
-            </td>
-            <td nowrap>
-                    <a href="warm_up.py">warm_up.py</a>
-            </td>
-            <td align="right">1/4/2019 11:21 AM</td>
-            <td>1.2KB</td>
-            <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw01/warm_up.py" 
-                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
-                <!-- a href="warm_up.py"><i class="fas fa-download"></i></a -->
             </td>
         </tr>
     </tbody>
