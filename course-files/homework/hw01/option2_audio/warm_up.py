@@ -14,14 +14,14 @@ Note: to get oriented with this code, please do the following:
 ###################
 ## MIDI EXAMPLES ##
 ###################
-print('Reminder: Make sure that Audio Pi is open and running on your computer!')
+print('Reminder: Make sure that Sonic Pi is open and running on your computer!')
 # helpers.play_c_scale()
 # helpers.demo_play_sustain()
 # helpers.demo_play_fadein()
 # helpers.demo_play_fadeout()
 # helpers.play_c_scale_builtin()
 # helpers.play_happy_birthday()
-# helpers.play_super_mario()
+helpers.play_super_mario()
 # helpers.get_play_function_signature()
 
 #######################

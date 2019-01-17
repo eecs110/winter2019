@@ -49,7 +49,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="demo00_operators_data_types.py">demo00_operators_data_types.py</a>
             </td>
-            <td align="right">1/13/2019 9:50 AM</td>
+            <td align="right">1/17/2019 1:11 PM</td>
             <td>327.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_03/demo00_operators_data_types.py" 
@@ -77,14 +77,14 @@ nav_exclude: True
                 <i class="fab fa-lg fa-python"></i>
             </td>
             <td nowrap>
-                    <a href="demo02_build_in_functions.py">demo02_build_in_functions.py</a>
+                    <a href="demo02_built_in_functions.py">demo02_built_in_functions.py</a>
             </td>
-            <td align="right">1/15/2019 3:33 PM</td>
+            <td align="right">1/17/2019 2:04 PM</td>
             <td>1.2KB</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_03/demo02_build_in_functions.py" 
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_03/demo02_built_in_functions.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
-                <!-- a href="demo02_build_in_functions.py"><i class="fas fa-download"></i></a -->
+                <!-- a href="demo02_built_in_functions.py"><i class="fas fa-download"></i></a -->
             </td>
         </tr>
         <tr class="click-to-preview">
@@ -94,7 +94,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="demofile.txt">demofile.txt</a>
             </td>
-            <td align="right">1/15/2019 3:22 PM</td>
+            <td align="right">1/17/2019 1:45 PM</td>
             <td>52.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_03/demofile.txt" 
@@ -109,7 +109,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="notebook_04_builtin_functions.py">notebook_04_builtin_functions.py</a>
             </td>
-            <td align="right">1/15/2019 3:47 PM</td>
+            <td align="right">1/17/2019 2:50 PM</td>
             <td>7.0KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_03/notebook_04_builtin_functions.py" 

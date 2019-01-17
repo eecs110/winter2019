@@ -6,7 +6,7 @@ nav_order: 2
 permalink: /week-02
 ---
 
-# WEEK 2
+# WEEK 2: FUNCTIONS
 
 ## I. Tuesday, January 15
 Working with built-in functions and modules
@@ -27,13 +27,16 @@ Note: we will be covering loops in week 3 (alluded to in Chuck's reference mater
 [videos]() | [textbook](https://www.py4e.com/html3/08-lists)
 2. Python for Everyone: Tuples<br>
 [videos](https://www.py4e.com/lessons/tuples) | [textbook](https://www.py4e.com/html3/10-tuples)
-3. Python for Everyone: Functions<br>
-[videos](https://www.py4e.com/lessons/functions) | [textbook](https://www.py4e.com/html3/04-functions)
 
 ## II. Thursday, January 17
 ### Slides
 ### Code Samples
 TBD
+
+### Readings and Resources
+1. Python for Everyone: Functions<br>
+[videos](https://www.py4e.com/lessons/functions) | [textbook](https://www.py4e.com/html3/04-functions)<br>
+2. [How to Think Like a Computer Scientist: Functions](http://openbookproject.net/thinkcs/python/english3e/functions.html)
 
 
 ## III. Tutorial

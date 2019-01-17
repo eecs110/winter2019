@@ -6,7 +6,7 @@ nav_order: 1
 permalink: /week-01
 ---
 
-# WEEK 1
+# WEEK 1: INTRODUCTION
 
 ## I. Tuesday, January 8
 Introduction to programming with Python.
@@ -40,8 +40,8 @@ Note: Windows users need to use the Anaconda prompt rather than the traditional 
 ### Readings and Resources
 1. [What is Python?](http://interactivepython.org/courselib/static/thinkcspy/GeneralIntro/ThePythonProgrammingLanguage.html)
 2. Variables, Expressions, and Statements
-  * [How to think like a Computer Scientist](https://www.py4e.com/lessons/memory)
-  * Python for Everybody<br>
+    1. [How to think like a Computer Scientist](https://www.py4e.com/lessons/memory)
+    2. Python for Everybody<br>
   [videos](http://openbookproject.net/thinkcs/python/english3e/variables_expressions_statements.html) | [textbook](https://www.py4e.com/html3/02-variables)
 
 ## III. Tutorial
