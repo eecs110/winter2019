@@ -14,8 +14,10 @@ $ pip install pyfiglet
 from pyfiglet import figlet_format
 import os
 
+
 def print_fancy_greeting(name, file_destination):
     # available fonts: http://www.figlet.org/examples.html
+    # here are some other font options:
     # starwars, contessa, cosmic, cyberlarge
     greeting = 'Hello, ' + name + '!'
     ascii_representation = figlet_format(greeting, font='contessa')

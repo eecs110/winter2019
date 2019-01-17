@@ -33,8 +33,12 @@ twice (with different names) in order to print the full greeting (using argument
 3. If you did that, add a keyword parameter to your print_greeting() function that 
 specifies which character you can use for your banner. Asterik can be the default, but
 any character should be possible.
+
+************************************************************************************
 '''
 
+
+# Begin code:
 print('*' * 20)
 print('Hello Varun!')
 print('*' * 20)

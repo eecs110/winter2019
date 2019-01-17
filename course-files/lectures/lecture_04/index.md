@@ -34,8 +34,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="activity_01.py">activity_01.py</a>
             </td>
-            <td align="right">1/17/2019 2:49 PM</td>
-            <td>1.5KB</td>
+            <td align="right">1/17/2019 3:01 PM</td>
+            <td>1.6KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_04/activity_01.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
@@ -79,7 +79,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="demo03_ascii_art.py">demo03_ascii_art.py</a>
             </td>
-            <td align="right">1/17/2019 2:17 PM</td>
+            <td align="right">1/17/2019 3:42 PM</td>
             <td>1.2KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_04/demo03_ascii_art.py" 
