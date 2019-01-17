@@ -1,2 +1,0 @@
-I'm printing to a file
-Here are my results: | 9 | 8

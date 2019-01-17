@@ -1,3 +1,5 @@
+import os
+
 # ## Example 1: Required (positional) parameters:
 
 # pow()     # this will throw an error
@@ -28,7 +30,9 @@ print(sorted(seasons, reverse=True))
 print()  # doesn't throw an error, but doesn't do anything
 print(result1, result2)
 
-demofile = open("demofile.txt", "w")
+dir_path = os.path.dirname(os.path.realpath(__file__))
+file_name = os.path.join(dir_path, "demofile.txt")
+demofile = open(file_name, "a")
 print('I\'m printing to a file', file=demofile)
 # use a pipe separator (|) instead of a space
 

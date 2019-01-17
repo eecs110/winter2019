@@ -79,27 +79,12 @@ nav_exclude: True
             <td nowrap>
                     <a href="demo02_built_in_functions.py">demo02_built_in_functions.py</a>
             </td>
-            <td align="right">1/17/2019 2:04 PM</td>
-            <td>1.2KB</td>
+            <td align="right">1/17/2019 2:59 PM</td>
+            <td>1.4KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_03/demo02_built_in_functions.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
                 <!-- a href="demo02_built_in_functions.py"><i class="fas fa-download"></i></a -->
-            </td>
-        </tr>
-        <tr class="click-to-preview">
-            <td>
-                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAABHUlEQVR42o2RMW7DIBiF3498iHRJD5JKHurL+CRVBp+i2T16tTynF2gO0KSb5ZrBBl4HHDBuK/WXACH4eO9/CAAAbdvijzLGNE1TVZXfZuHg6XCAQESAZXbOKaXO57eiKG6ft9PrKQIkCQqFoIiQFBGlFIB5nvM8t9aOX2Nd18oDzjnPgCDpn/BH4zh2XZdlWVmWiUK4IgCBoFMUz9eP6zRN75cLgEQhcmTQIbl72O0f9865qLAAsURAAgKBJKEtgLXWvyjLuFsThCSstb8rBCaAQhDYWgIZ7myM+TUBjDHrHlZcbMYYk34cN0YSLcgS+wL0fe9TXDMbY33fR2AYBvyQ8L0Gk8MwREBrTfKe4TpTzwhArXWi8HI84h/1DfwI5mhxJamFAAAAAElFTkSuQmCC " alt="[DIR]">
-            </td>
-            <td nowrap>
-                    <a href="demofile.txt">demofile.txt</a>
-            </td>
-            <td align="right">1/17/2019 1:45 PM</td>
-            <td>52.0B</td>
-            <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_03/demofile.txt" 
-                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
-                <!-- a href="demofile.txt"><i class="fas fa-download"></i></a -->
             </td>
         </tr>
         <tr class="click-to-preview">
@@ -109,7 +94,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="notebook_04_builtin_functions.py">notebook_04_builtin_functions.py</a>
             </td>
-            <td align="right">1/17/2019 2:50 PM</td>
+            <td align="right">1/17/2019 3:00 PM</td>
             <td>7.0KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_03/notebook_04_builtin_functions.py" 
