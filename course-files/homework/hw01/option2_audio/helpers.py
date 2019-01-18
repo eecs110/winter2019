@@ -349,7 +349,8 @@ def custom_sound():
     # you can download them from the internet (e.g. https://freewavesamples.com/)
     # or make your own:
     import os
-    sound_file = 'sounds/harley_davidson.wav'
+    dir_path = os.path.dirname(os.path.realpath(__file__))
+    sound_file = os.path.join(dir_path,'sounds/harley_davidson.wav')
     start = 0.0  # float between 0 and 1
     finish = 1.0  # float between 0 and 1
     file_path = os.path.abspath(sound_file)

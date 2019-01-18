@@ -42,7 +42,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="hw01.zip">hw01.zip</a>
             </td>
-            <td align="right">1/18/2019 10:03 AM</td>
+            <td align="right">1/18/2019 1:41 PM</td>
             <td>23.8MB</td>
             <td>
                 <!-- a href="hw01.zip"><i class="fas fa-download"></i></a -->

@@ -42,8 +42,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="helpers.py">helpers.py</a>
             </td>
-            <td align="right">1/14/2019 9:40 PM</td>
-            <td>9.4KB</td>
+            <td align="right">1/18/2019 1:37 PM</td>
+            <td>9.5KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw01/option2_audio/helpers.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
@@ -87,7 +87,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="warm_up.py">warm_up.py</a>
             </td>
-            <td align="right">1/17/2019 2:05 PM</td>
+            <td align="right">1/18/2019 1:38 PM</td>
             <td>1.1KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw01/option2_audio/warm_up.py" 
