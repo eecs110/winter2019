@@ -84,8 +84,8 @@ permalink: /
                 Conditional execution and while loops<br>
             </td>
             <td>
-                <a class="label label-green" href="https://docs.google.com/document/d/1gg-lejsKe8fihtUsaEYC1I6zjBeWtKJRoCpKdLj8TJY/edit?usp=sharing">Hw1 - Graphics <i class="fas fa-link"></i></a><br>
-                <a class="label label-green" href="https://docs.google.com/document/d/1CJQSR8RVhv82PAg2b24oelNUZdmbQkuKuj58N9VeKP4/edit?usp=sharing">Hw1 - Audio <i class="fas fa-link"></i></a>
+                <a class="label label-green" href="https://docs.google.com/document/d/1gg-lejsKe8fihtUsaEYC1I6zjBeWtKJRoCpKdLj8TJY/edit?usp=sharing">Hw1 [1] - Graphics <i class="fas fa-link"></i></a><br>
+                <a class="label label-green" href="https://docs.google.com/document/d/1CJQSR8RVhv82PAg2b24oelNUZdmbQkuKuj58N9VeKP4/edit?usp=sharing">Hw1 [1] - Audio <i class="fas fa-link"></i></a>
             </td>
         </tr>
         <tr>
@@ -111,7 +111,10 @@ permalink: /
                 <strong>Tu Jan 29</strong><br>
                 Object-Oriented Programming Part I<br>
             </td>
-            <td><span class="label label-default">Homework 2</span></td>
+            <td>
+                <a class="label label-green" href="https://docs.google.com/document/d/1gg-lejsKe8fihtUsaEYC1I6zjBeWtKJRoCpKdLj8TJY/edit?usp=sharing">Hw1 [2] - Graphics <i class="fas fa-link"></i></a><br>
+                <a class="label label-green" href="https://docs.google.com/document/d/1CJQSR8RVhv82PAg2b24oelNUZdmbQkuKuj58N9VeKP4/edit?usp=sharing">Hw1 [2] - Audio <i class="fas fa-link"></i></a>
+            </td>
         </tr>
         <tr>
             <td></td>
@@ -137,7 +140,7 @@ permalink: /
                 Input/output (I/O) and events
             </td>
             <td>
-                <span class="label label-default">Homework 3</span>
+                <span class="label label-default">Homework 2</span>
             </td>
         </tr>
         <tr>
@@ -164,7 +167,7 @@ permalink: /
                 Files and data formats<br>
             </td>
             <td>
-                <span class="label label-default">Homework 4</span>
+                <span class="label label-default">Homework 3</span>
                 <span class="label label-purple">Project 1</span>
             </td>
         </tr>
@@ -192,7 +195,7 @@ permalink: /
                 Regular Expressions<br>
             </td>
             <td>
-                <span class="label label-default">Homework 5</span>
+                <span class="label label-default">Homework 4</span>
             </td>
         </tr>
         <tr>
@@ -219,7 +222,7 @@ permalink: /
                  Data Visualization: Part I
             </td>
             <td>
-                <span class="label label-default">Homework 6</span>
+                <span class="label label-default">Homework 5</span>
             </td>
         </tr>
         <tr>
@@ -246,7 +249,7 @@ permalink: /
                 TBD: Special Topics<br>
             </td>
             <td>
-                <span class="label label-default">Homework 7</span>
+                <span class="label label-default">Homework 6</span>
                 <span class="label label-purple">Project 2</span>
             </td>
         </tr>
@@ -273,7 +276,7 @@ permalink: /
                 Exam Review<br>
             </td>
             <td>
-                <span class="label label-default">Homework 8</span>
+                <span class="label label-default">Homework 7</span>
             </td>
         </tr>
         <tr>
