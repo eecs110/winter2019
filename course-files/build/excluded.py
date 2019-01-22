@@ -6,6 +6,7 @@ EXCLUDED = [
     'index.html', 
     'index.md', 
     'drafts', 
+    'solutions', 
     'build',
     '__pycache__',
     '.ipynb_checkpoints', 
