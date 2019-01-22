@@ -104,43 +104,17 @@ nav_exclude: True
         </tr>
         <tr class="click-to-preview">
             <td>
-                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAABHUlEQVR42o2RMW7DIBiF3498iHRJD5JKHurL+CRVBp+i2T16tTynF2gO0KSb5ZrBBl4HHDBuK/WXACH4eO9/CAAAbdvijzLGNE1TVZXfZuHg6XCAQESAZXbOKaXO57eiKG6ft9PrKQIkCQqFoIiQFBGlFIB5nvM8t9aOX2Nd18oDzjnPgCDpn/BH4zh2XZdlWVmWiUK4IgCBoFMUz9eP6zRN75cLgEQhcmTQIbl72O0f9865qLAAsURAAgKBJKEtgLXWvyjLuFsThCSstb8rBCaAQhDYWgIZ7myM+TUBjDHrHlZcbMYYk34cN0YSLcgS+wL0fe9TXDMbY33fR2AYBvyQ8L0Gk8MwREBrTfKe4TpTzwhArXWi8HI84h/1DfwI5mhxJamFAAAAAElFTkSuQmCC " alt="[DIR]">
-            </td>
-            <td nowrap>
-                    <a href="dimensions.csv">dimensions.csv</a>
-            </td>
-            <td align="right">1/22/2019 12:52 PM</td>
-            <td>264.0B</td>
-            <td>
-                <!-- a href="dimensions.csv"><i class="fas fa-download"></i></a -->
-            </td>
-        </tr>
-        <tr class="click-to-preview">
-            <td>
                 <i class="fab fa-lg fa-python"></i>
             </td>
             <td nowrap>
                     <a href="notebook_logic_and_comparison_operators.py">notebook_logic_and_comparison_operators.py</a>
             </td>
-            <td align="right">1/22/2019 3:31 PM</td>
+            <td align="right">1/22/2019 3:33 PM</td>
             <td>7.1KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_05/notebook_logic_and_comparison_operators.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
                 <!-- a href="notebook_logic_and_comparison_operators.py"><i class="fas fa-download"></i></a -->
-            </td>
-        </tr>
-        <tr class="click-to-preview">
-            <td>
-                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAABHUlEQVR42o2RMW7DIBiF3498iHRJD5JKHurL+CRVBp+i2T16tTynF2gO0KSb5ZrBBl4HHDBuK/WXACH4eO9/CAAAbdvijzLGNE1TVZXfZuHg6XCAQESAZXbOKaXO57eiKG6ft9PrKQIkCQqFoIiQFBGlFIB5nvM8t9aOX2Nd18oDzjnPgCDpn/BH4zh2XZdlWVmWiUK4IgCBoFMUz9eP6zRN75cLgEQhcmTQIbl72O0f9865qLAAsURAAgKBJKEtgLXWvyjLuFsThCSstb8rBCaAQhDYWgIZ7myM+TUBjDHrHlZcbMYYk34cN0YSLcgS+wL0fe9TXDMbY33fR2AYBvyQ8L0Gk8MwREBrTfKe4TpTzwhArXWi8HI84h/1DfwI5mhxJamFAAAAAElFTkSuQmCC " alt="[DIR]">
-            </td>
-            <td nowrap>
-                    <a href="outfile.tsv">outfile.tsv</a>
-            </td>
-            <td align="right">1/20/2019 4:20 PM</td>
-            <td>605.0B</td>
-            <td>
-                <!-- a href="outfile.tsv"><i class="fas fa-download"></i></a -->
             </td>
         </tr>
     </tbody>

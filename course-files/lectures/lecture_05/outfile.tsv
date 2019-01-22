@@ -1,7 +1,0 @@
-COURSE 	NETID	STATUS		MESSAGE
-EECS110	17694	WAITLIST	SUCCESS: You have been added to the waitlist for course #EECS110.
-EECS111	17694	ENROLLED	SUCCESS: You have been successfully enrolled in course #EECS111.
-EECS211	17694	INELIGIBLE	NOT REGISTERED: You have not fulfilled the prerequisites for course #EECS211.
-EECS110	81794	CANCELLED	NOT REGISTERED: You have NOT been added to the waitlist for course #EECS110
-EECS111	81794	ENROLLED	SUCCESS: You have been successfully enrolled in course #EECS111.
-EECS213	81794	AT CAPACITY	NOT REGISTERED: There is no room in course #EECS213 and no wait list. Start over

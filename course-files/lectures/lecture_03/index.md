@@ -94,7 +94,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="notebook_04_builtin_functions.py">notebook_04_builtin_functions.py</a>
             </td>
-            <td align="right">1/22/2019 3:31 PM</td>
+            <td align="right">1/22/2019 3:33 PM</td>
             <td>7.0KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_03/notebook_04_builtin_functions.py" 
