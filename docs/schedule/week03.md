@@ -48,5 +48,4 @@ TBD
 
 
 ## III. Tutorial
-TBD
-<!-- [Practice with conditionals and loops](https://docs.google.com/document/d/1mqHKMTGpX6XN7r2_cQmavrnJbpS_M4owyc5FWshtwQo/edit?usp=sharing) -->
+[Practice with conditionals and loops](https://docs.google.com/document/d/1mqHKMTGpX6XN7r2_cQmavrnJbpS_M4owyc5FWshtwQo/edit?usp=sharing)

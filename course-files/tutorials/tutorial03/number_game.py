@@ -11,7 +11,7 @@ def display_secret_number(secret_number):
     print('-' * 20)
 
 while True:
-    # display_secret_number(secret_number)
+    display_secret_number(secret_number)
     user_guess = input('Guess a number between 1 and 100: ')
     print('Your guess is:', user_guess)
     # Your code below:

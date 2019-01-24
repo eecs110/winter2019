@@ -47,7 +47,7 @@ permalink: /
                 <strong>Tutorial</strong><br>
                 Configuring Python on your laptop
             </td>
-            <td><a class="label label-default" href="https://docs.google.com/document/d/1D2Y6u2hZm2zdyLB9IRjrS-IKhDR1v65ZfgxYIVYc0Hk/edit?usp=sharing">Tutorial 1 <i class="fas fa-link"></i></a></td>
+            <td><a class="label label-default" target="_blank" href="https://docs.google.com/document/d/1D2Y6u2hZm2zdyLB9IRjrS-IKhDR1v65ZfgxYIVYc0Hk/edit?usp=sharing">Tutorial 1 <i class="fas fa-link"></i></a></td>
         </tr>
         <!-- WEEK #2 -->
         <tr>
@@ -84,8 +84,8 @@ permalink: /
                 Conditional execution and while loops<br>
             </td>
             <td>
-                <a class="label label-green" href="https://docs.google.com/document/d/1gg-lejsKe8fihtUsaEYC1I6zjBeWtKJRoCpKdLj8TJY/edit?usp=sharing">Hw1 [1] - Graphics <i class="fas fa-link"></i></a><br>
-                <a class="label label-green" href="https://docs.google.com/document/d/1CJQSR8RVhv82PAg2b24oelNUZdmbQkuKuj58N9VeKP4/edit?usp=sharing">Hw1 [1] - Audio <i class="fas fa-link"></i></a>
+                <a class="label label-green" target="_blank"  href="https://docs.google.com/document/d/1gg-lejsKe8fihtUsaEYC1I6zjBeWtKJRoCpKdLj8TJY/edit?usp=sharing">Hw1 [1] - Graphics <i class="fas fa-link"></i></a><br>
+                <a class="label label-green" target="_blank" href="https://docs.google.com/document/d/1CJQSR8RVhv82PAg2b24oelNUZdmbQkuKuj58N9VeKP4/edit?usp=sharing">Hw1 [1] - Audio <i class="fas fa-link"></i></a>
             </td>
         </tr>
         <tr>
@@ -100,9 +100,11 @@ permalink: /
             <td></td>
             <td>
                 <strong>Tutorial</strong><br>
-                Practice with loops and sequences
+                Practice with loops and conditionals
             </td>
-            <td><span class="label label-default">Tutorial 3</span></td>
+            <td>
+                <a class="label label-default" target="_blank" href="https://docs.google.com/document/d/1mqHKMTGpX6XN7r2_cQmavrnJbpS_M4owyc5FWshtwQo/edit?usp=sharing">Tutorial 3 <i class="fas fa-link"></i></a>
+            </td>
         </tr>
         <!-- WEEK #4 -->
         <tr>

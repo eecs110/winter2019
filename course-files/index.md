@@ -51,6 +51,21 @@ nav_exclude: False
             <td>288.0B</td>
             <td>&nbsp;</td>
         </tr>
+        <tr class="click-to-preview">
+            <td>
+                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAABHUlEQVR42o2RMW7DIBiF3498iHRJD5JKHurL+CRVBp+i2T16tTynF2gO0KSb5ZrBBl4HHDBuK/WXACH4eO9/CAAAbdvijzLGNE1TVZXfZuHg6XCAQESAZXbOKaXO57eiKG6ft9PrKQIkCQqFoIiQFBGlFIB5nvM8t9aOX2Nd18oDzjnPgCDpn/BH4zh2XZdlWVmWiUK4IgCBoFMUz9eP6zRN75cLgEQhcmTQIbl72O0f9865qLAAsURAAgKBJKEtgLXWvyjLuFsThCSstb8rBCaAQhDYWgIZ7myM+TUBjDHrHlZcbMYYk34cN0YSLcgS+wL0fe9TXDMbY33fR2AYBvyQ8L0Gk8MwREBrTfKe4TpTzwhArXWi8HI84h/1DfwI5mhxJamFAAAAAElFTkSuQmCC " alt="[DIR]">
+            </td>
+            <td nowrap>
+                    <a href="slides">
+                        Slides
+                    </a>
+            </td>
+            <td align="right">1/24/2019 1:23 PM</td>
+            <td>1.3KB</td>
+            <td>
+                <!-- a href="slides.md"><i class="fas fa-download"></i></a -->
+            </td>
+        </tr>
     </tbody>
 </table>
 
