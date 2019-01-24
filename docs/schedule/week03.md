@@ -35,7 +35,7 @@ Functions wrap-up and conditional execution
 Looping, iteration, and repeating code
 
 ### Slides
-* Slides 06: Loops and Iteration](#https://docs.google.com/presentation/d/1PKXI2ffM5oSGW-qXa-CYyvRhyeelh635cfoElx_kQgU/edit?usp=sharing)
+* <a href="https://docs.google.com/presentation/d/1PKXI2ffM5oSGW-qXa-CYyvRhyeelh635cfoElx_kQgU/edit?usp=sharing" target="blank">Slides 06: Loops and Iteration <i class="fas fa-external-link-alt"></i></a>
 
 ### Code Samples
 [see course files](/winter2019/course-files/lectures/)

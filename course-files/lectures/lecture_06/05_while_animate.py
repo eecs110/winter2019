@@ -10,11 +10,12 @@ canvas.pack()
 
 # Using a while loop, please complete the following:
 #   1. Make the circle smoothly move across the screen
-#   2. Make it move backwards
-#   3. Make it move vertically
-#   4. Make it move diagonally
-#   5. If it gets to the end, of the screen, make it reverse directions
-#   6. Make it oscillate back and forth
+#   2. Make it move backwards (on your own)
+#   3. Make it move vertically (on your own)
+#   4. Make it move diagonally (on your own)
+#   5. If it gets to the end, of the screen, 
+#      make it reverse directions  (on your own)
+#   6. Make it oscillate back and forth  (on your own)
 
 
 # make circle

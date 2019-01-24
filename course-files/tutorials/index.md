@@ -50,7 +50,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="tutorial01.zip">tutorial01.zip</a>
             </td>
-            <td align="right">1/24/2019 3:08 PM</td>
+            <td align="right">1/24/2019 3:44 PM</td>
             <td>262.0B</td>
             <td>
                 <!-- a href="tutorial01.zip"><i class="fas fa-download"></i></a -->
@@ -63,7 +63,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="tutorial03.zip">tutorial03.zip</a>
             </td>
-            <td align="right">1/24/2019 3:08 PM</td>
+            <td align="right">1/24/2019 3:44 PM</td>
             <td>588.0B</td>
             <td>
                 <!-- a href="tutorial03.zip"><i class="fas fa-download"></i></a -->

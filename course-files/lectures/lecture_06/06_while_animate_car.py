@@ -9,8 +9,15 @@ canvas.pack()
 ########################## YOUR CODE BELOW THIS LINE ##############################
 
 # Challenge:
-# Do the same thing as in 05_while_animate, but with 
-# 4 shapes instead of 1:
+# Do the same thing as in 05_while_animate, but with
+# all 4 shapes: 
+#   1. Make the car smoothly drive across the screen
+#   2. Make it drive backwards (on your own)
+#   3. Make it drive vertically (on your own)
+#   4. Make it drive diagonally (on your own)
+#   5. If it gets to the end, of the screen, 
+#      make it reverse directions (on your own)
+#   6. Make it accelerate (on your own)
 
 
 #make car:

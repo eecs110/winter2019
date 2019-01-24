@@ -50,7 +50,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="hw01.zip">hw01.zip</a>
             </td>
-            <td align="right">1/24/2019 3:08 PM</td>
+            <td align="right">1/24/2019 3:44 PM</td>
             <td>23.8MB</td>
             <td>
                 <!-- a href="hw01.zip"><i class="fas fa-download"></i></a -->
@@ -63,7 +63,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="hw02.zip">hw02.zip</a>
             </td>
-            <td align="right">1/24/2019 3:08 PM</td>
+            <td align="right">1/24/2019 3:44 PM</td>
             <td>2.0KB</td>
             <td>
                 <!-- a href="hw02.zip"><i class="fas fa-download"></i></a -->
