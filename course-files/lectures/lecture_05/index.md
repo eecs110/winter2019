@@ -109,7 +109,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="notebook_logic_and_comparison_operators.py">notebook_logic_and_comparison_operators.py</a>
             </td>
-            <td align="right">1/25/2019 9:45 AM</td>
+            <td align="right">1/25/2019 6:25 PM</td>
             <td>7.1KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_05/notebook_logic_and_comparison_operators.py" 

@@ -1,13 +1,14 @@
 ---
 layout: default
 nav_order: 4
-title: Tutorial02
-nav_exclude: True
+title: Practice Exams
+parent: Course Files
+nav_exclude: False
 ---
 
-# Tutorial02
+# Practice Exams
 
-[course-files/tutorials/tutorial02/](.)
+[course-files/practice_exams/](.)
 
 <table class="tbl-files">
     <tbody>
@@ -32,14 +33,29 @@ nav_exclude: True
                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAABHUlEQVR42o2RMW7DIBiF3498iHRJD5JKHurL+CRVBp+i2T16tTynF2gO0KSb5ZrBBl4HHDBuK/WXACH4eO9/CAAAbdvijzLGNE1TVZXfZuHg6XCAQESAZXbOKaXO57eiKG6ft9PrKQIkCQqFoIiQFBGlFIB5nvM8t9aOX2Nd18oDzjnPgCDpn/BH4zh2XZdlWVmWiUK4IgCBoFMUz9eP6zRN75cLgEQhcmTQIbl72O0f9865qLAAsURAAgKBJKEtgLXWvyjLuFsThCSstb8rBCaAQhDYWgIZ7myM+TUBjDHrHlZcbMYYk34cN0YSLcgS+wL0fe9TXDMbY33fR2AYBvyQ8L0Gk8MwREBrTfKe4TpTzwhArXWi8HI84h/1DfwI5mhxJamFAAAAAElFTkSuQmCC " alt="[DIR]">
             </td>
             <td nowrap>
-                    <a href="instructions">
-                        Instructions
+                    <a href="exams">
+                        Exams
                     </a>
             </td>
-            <td align="right">1/25/2019 9:46 AM</td>
-            <td>275.0B</td>
+            <td align="right">1/25/2019 6:24 PM</td>
+            <td>297.0B</td>
             <td>
-                <!-- a href="instructions.md"><i class="fas fa-download"></i></a -->
+                <!-- a href="exams.md"><i class="fas fa-download"></i></a -->
+            </td>
+        </tr>
+        <tr class="click-to-preview">
+            <td>
+                <i class="fab fa-lg fa-python"></i>
+            </td>
+            <td nowrap>
+                    <a href="midterm_exam1_answers.py">midterm_exam1_answers.py</a>
+            </td>
+            <td align="right">1/25/2019 6:15 PM</td>
+            <td>3.2KB</td>
+            <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/practice_exams/midterm_exam1_answers.py" 
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
+                <!-- a href="midterm_exam1_answers.py"><i class="fas fa-download"></i></a -->
             </td>
         </tr>
     </tbody>

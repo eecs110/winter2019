@@ -10,6 +10,11 @@ INDEX_TEMPLATE = r"""---
 layout: default
 nav_order: 4
 title: ${title}
+% if is_root:
+has_children: true
+% elif not exclude:
+parent: Course Files
+% endif
 nav_exclude: ${exclude}
 ---
 
@@ -121,7 +126,6 @@ def fun(dir,rootdir, counter):
 
     file_metadata = get_metadata(dir, filenames)
     dir_metadata = get_metadata(dir, dirnames)
-    relative_path = dir.split('course-files')
 
     f = open(dir+'/index.md','w')
     header = dir
@@ -131,6 +135,14 @@ def fun(dir,rootdir, counter):
     title = title.replace('-', ' ')
     title = title.replace('_', ' ')
     title = title.title()
+    do_exclude = not header in [
+        'course-files/',
+        'course-files/lectures/',
+        'course-files/homework/',
+        'course-files/tutorials/',
+        'course-files/practice_exams/'
+    ]
+    is_root = header == 'course-files/'
     kwargs = {
         'dirnames': dir_metadata,
         'filenames': file_metadata, 
@@ -139,7 +151,8 @@ def fun(dir,rootdir, counter):
         'github_path': 'https://github.com/eecs110/winter2019/blob/master',
         'num': counter,
         'title': title,
-        'exclude': (not header == 'course-files/')
+        'exclude': do_exclude,
+        'is_root': is_root
     }
     print(Template(INDEX_TEMPLATE).render(**kwargs), file=f)
     f.close()

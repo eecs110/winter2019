@@ -2,7 +2,8 @@
 layout: default
 nav_order: 4
 title: Tutorials
-nav_exclude: True
+parent: Course Files
+nav_exclude: False
 ---
 
 # Tutorials
@@ -40,7 +41,7 @@ nav_exclude: True
                 alt="[DIR]"></td>
             <td><a href="tutorial02">tutorial02</a></td>
             <td align="right">1/25/2019 9:45 AM</td>
-            <td>96.0B</td>
+            <td>128.0B</td>
             <td>&nbsp;</td>
         </tr>
         <tr>
@@ -58,7 +59,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="tutorial01.zip">tutorial01.zip</a>
             </td>
-            <td align="right">1/25/2019 9:45 AM</td>
+            <td align="right">1/25/2019 6:25 PM</td>
             <td>262.0B</td>
             <td>
                 <!-- a href="tutorial01.zip"><i class="fas fa-download"></i></a -->
@@ -71,8 +72,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="tutorial02.zip">tutorial02.zip</a>
             </td>
-            <td align="right">1/25/2019 9:45 AM</td>
-            <td>345.0B</td>
+            <td align="right">1/25/2019 6:25 PM</td>
+            <td>344.0B</td>
             <td>
                 <!-- a href="tutorial02.zip"><i class="fas fa-download"></i></a -->
             </td>
@@ -84,7 +85,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="tutorial03.zip">tutorial03.zip</a>
             </td>
-            <td align="right">1/25/2019 9:45 AM</td>
+            <td align="right">1/25/2019 6:25 PM</td>
             <td>588.0B</td>
             <td>
                 <!-- a href="tutorial03.zip"><i class="fas fa-download"></i></a -->
