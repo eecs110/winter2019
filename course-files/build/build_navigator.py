@@ -8,7 +8,7 @@ from excluded import EXCLUDED
 
 INDEX_TEMPLATE = r"""---
 layout: default
-nav_order: 4
+nav_order: ${num}
 title: ${title}
 % if is_root:
 has_children: true
@@ -123,7 +123,10 @@ def fun(dir,rootdir, counter):
     dirnames = [fname for fname in sorted(os.listdir(dir))
             if fname not in EXCLUDED]
     dirnames = [fname for fname in dirnames if fname not in filenames]
-
+    filenames.sort()
+    print(dirnames)
+    dirnames.sort()
+    print(dirnames)
     file_metadata = get_metadata(dir, filenames)
     dir_metadata = get_metadata(dir, dirnames)
 

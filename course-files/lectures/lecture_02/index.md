@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 4
+nav_order: 5
 title: Lecture 02
 nav_exclude: True
 ---
@@ -64,7 +64,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="notebook_02_primitives_data_types.py">notebook_02_primitives_data_types.py</a>
             </td>
-            <td align="right">1/25/2019 6:25 PM</td>
+            <td align="right">1/25/2019 6:36 PM</td>
             <td>4.4KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_02/notebook_02_primitives_data_types.py" 
@@ -79,7 +79,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="notebook_03_operators.py">notebook_03_operators.py</a>
             </td>
-            <td align="right">1/25/2019 6:25 PM</td>
+            <td align="right">1/25/2019 6:36 PM</td>
             <td>11.4KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_02/notebook_03_operators.py" 
