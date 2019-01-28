@@ -7,6 +7,7 @@ EXCLUDED = [
     'index.md', 
     'drafts', 
     'solutions', 
+    'projects', 
     'build',
     '__pycache__',
     '.ipynb_checkpoints', 
