@@ -3,7 +3,7 @@ layout: default
 title: Week 3
 parent: Schedule
 nav_order: 3
-# permalink: /week-03
+permalink: /week-03
 nav_exclude: True
 ---
 

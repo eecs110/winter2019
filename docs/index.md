@@ -78,14 +78,13 @@ permalink: /
         </tr>
         <!-- WEEK #3 -->
         <tr>
-            <td>Week 3</td>
+            <td><a href="week-03">Week 3</a></td>
             <td>
                 <strong>Tu Jan 22</strong><br>
                 Conditional execution and while loops<br>
             </td>
             <td>
-                <a class="label label-green" target="_blank"  href="https://docs.google.com/document/d/1gg-lejsKe8fihtUsaEYC1I6zjBeWtKJRoCpKdLj8TJY/edit?usp=sharing">Hw1 [1] - Graphics <i class="fas fa-link"></i></a><br>
-                <a class="label label-green" target="_blank" href="https://docs.google.com/document/d/1CJQSR8RVhv82PAg2b24oelNUZdmbQkuKuj58N9VeKP4/edit?usp=sharing">Hw1 [1] - Audio <i class="fas fa-link"></i></a>
+                <a class="label label-green" target="_blank"  href="course-files/homework/hw01/README">Homework 1A</a>
             </td>
         </tr>
         <tr>
@@ -108,21 +107,20 @@ permalink: /
         </tr>
         <!-- WEEK #4 -->
         <tr>
-            <td>Week 4</td>
+            <td><a href="week-04">Week 4</a></td>
             <td>
                 <strong>Tu Jan 29</strong><br>
-                Object-Oriented Programming Part I<br>
+                Iteration and Loop Algorithms<br>
             </td>
             <td>
-                <a class="label label-green" href="https://docs.google.com/document/d/1gg-lejsKe8fihtUsaEYC1I6zjBeWtKJRoCpKdLj8TJY/edit?usp=sharing">Hw1 [2] - Graphics <i class="fas fa-link"></i></a><br>
-                <a class="label label-green" href="https://docs.google.com/document/d/1CJQSR8RVhv82PAg2b24oelNUZdmbQkuKuj58N9VeKP4/edit?usp=sharing">Hw1 [2] - Audio <i class="fas fa-link"></i></a>
+                <a class="label label-green" href="course-files/homework/hw01/README">Homework 1B</a>
             </td>
         </tr>
         <tr>
             <td></td>
             <td>
                 <strong>Th Jan 31</strong><br>
-                Object-Oriented Programming Part II
+                Input / Output: Files and Events
             </td>
             <td></td>
         </tr>
@@ -130,7 +128,7 @@ permalink: /
             <td></td>
             <td>
                 <strong>Tutorial</strong><br>
-                Practice creating classes and objects
+                Practice with I/O
             </td>
             <td><span class="label label-default">Tutorial 4</span></td>
         </tr>
@@ -139,10 +137,10 @@ permalink: /
             <td>Week 5</td>
             <td>
                 <strong>Tu Feb 5</strong><br>
-                Input/output (I/O) and events
+                Exam review
             </td>
             <td>
-                <span class="label label-default">Homework 2</span>
+                <a class="label label-green"  href="course-files/homework/hw02/README">Homework 2</a>
             </td>
         </tr>
         <tr>
