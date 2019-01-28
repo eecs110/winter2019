@@ -1,8 +1,8 @@
 ---
 layout: default
-nav_order: 4
 title: Practice Exams
 parent: Course Files
+nav_order: 4
 nav_exclude: False
 ---
 

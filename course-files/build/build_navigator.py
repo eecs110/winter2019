@@ -8,12 +8,13 @@ from excluded import EXCLUDED
 
 INDEX_TEMPLATE = r"""---
 layout: default
-nav_order: ${num}
 title: ${title}
 % if is_root:
 has_children: true
+nav_order: 3
 % elif not exclude:
 parent: Course Files
+nav_order: ${num}
 % endif
 nav_exclude: ${exclude}
 ---

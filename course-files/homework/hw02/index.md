@@ -1,6 +1,5 @@
 ---
 layout: default
-nav_order: 4
 title: Hw02
 nav_exclude: True
 ---

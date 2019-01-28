@@ -1,6 +1,5 @@
 ---
 layout: default
-nav_order: 4
 title: Option1 Graphics
 nav_exclude: True
 ---

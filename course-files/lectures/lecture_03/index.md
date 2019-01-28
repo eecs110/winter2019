@@ -1,6 +1,5 @@
 ---
 layout: default
-nav_order: 6
 title: Lecture 03
 nav_exclude: True
 ---
@@ -94,7 +93,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="notebook_04_builtin_functions.py">notebook_04_builtin_functions.py</a>
             </td>
-            <td align="right">1/27/2019 6:44 PM</td>
+            <td align="right">1/27/2019 6:48 PM</td>
             <td>7.0KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_03/notebook_04_builtin_functions.py" 

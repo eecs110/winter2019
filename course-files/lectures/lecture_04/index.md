@@ -1,6 +1,5 @@
 ---
 layout: default
-nav_order: 7
 title: Lecture 04
 nav_exclude: True
 ---

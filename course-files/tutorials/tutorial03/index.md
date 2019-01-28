@@ -1,6 +1,5 @@
 ---
 layout: default
-nav_order: 8
 title: Tutorial03
 nav_exclude: True
 ---

@@ -1,6 +1,5 @@
 ---
 layout: default
-nav_order: 6
 title: Sounds
 nav_exclude: True
 ---

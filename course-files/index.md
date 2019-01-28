@@ -1,8 +1,8 @@
 ---
 layout: default
-nav_order: 1
 title: Course Files
 has_children: true
+nav_order: 3
 nav_exclude: False
 ---
 
