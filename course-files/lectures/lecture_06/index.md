@@ -71,8 +71,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="03_while_play_notes.py">03_while_play_notes.py</a>
             </td>
-            <td align="right">1/24/2019 12:19 AM</td>
-            <td>330.0B</td>
+            <td align="right">1/28/2019 9:39 PM</td>
+            <td>338.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_06/03_while_play_notes.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>

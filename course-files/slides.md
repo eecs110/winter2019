@@ -23,3 +23,4 @@ permalink: /course-files/slides/
 || Th, 01/17 | [Slides 04: Creating functions and modules](https://docs.google.com/presentation/d/1u5E_YHQH92wIOCa95BIbuLovWd41e8z-xqvuyJecDH0/edit?usp=sharing) |
 | **Week 3** | Tu, 01/22 | [Slides 05a: Functions continued](https://docs.google.com/presentation/d/1AlCZ95Lcl4dyHeurjPjTJ4Z7ZaZcAn9Htnh7ZtNWTDk/edit?usp=sharing)<br>[Slides 05b: Conditional execution](https://docs.google.com/presentation/d/11tQqIa_i5_JtPZiyiFy6FjkpK8xLb8bg2sjvs96ua6g/edit?usp=sharing) |
 || Th, 01/24 | [Slides 06: While Loops](https://docs.google.com/presentation/d/1PKXI2ffM5oSGW-qXa-CYyvRhyeelh635cfoElx_kQgU/edit?usp=sharing) |
+| **Week 3** | Tu, 01/29 | [Slides 07: Loops and Iteration Continued](https://docs.google.com/presentation/d/1ZNIYGXF8Seo6ORCNmU_Z6umb42aAcZ8hE9WxgRo9i_M/edit?usp=sharing) |

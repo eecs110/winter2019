@@ -18,8 +18,7 @@ Looping, iteration, and repeating code continued.
 3. [Practice Exam](/winter2019/course-files/practice_exams/exams) posted
 
 ### Slides
-TBD
-<!-- * <a href="#" target="blank">Slides 07: Loops and Iteration Continued <i class="fas fa-external-link-alt"></i></a> -->
+* <a href="https://docs.google.com/presentation/d/1ZNIYGXF8Seo6ORCNmU_Z6umb42aAcZ8hE9WxgRo9i_M/edit?usp=sharing" target="blank">Slides 07: Loops and Iteration Continued <i class="fas fa-external-link-alt"></i></a>
 
 ### Code Samples
 [see course files](/winter2019/course-files/lectures/)

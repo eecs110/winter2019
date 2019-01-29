@@ -5,7 +5,7 @@ MARIO_NOTES = [
     70, 69, 67, 76, 79, 81, 77, 79, 76, 72, 74, 71
 ]
 
-# Challenge 1: use a loop to PLAY all of the notes
+# Challenge 1: use a *while* loop to PLAY all of the notes
 # in the MARIO_NOTES list.
 # Challenge 2: when the song ends, play it again
 

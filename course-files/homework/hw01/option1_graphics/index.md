@@ -33,7 +33,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="creature.py">creature.py</a>
             </td>
-            <td align="right">1/14/2019 6:43 PM</td>
+            <td align="right">1/28/2019 8:45 PM</td>
             <td>556.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw01/option1_graphics/creature.py" 
@@ -48,7 +48,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="helpers.py">helpers.py</a>
             </td>
-            <td align="right">1/14/2019 6:43 PM</td>
+            <td align="right">1/28/2019 8:45 PM</td>
             <td>3.9KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw01/option1_graphics/helpers.py" 
@@ -63,7 +63,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="main.py">main.py</a>
             </td>
-            <td align="right">1/14/2019 6:43 PM</td>
+            <td align="right">1/28/2019 8:45 PM</td>
             <td>1.2KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw01/option1_graphics/main.py" 
