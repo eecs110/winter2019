@@ -120,7 +120,7 @@ permalink: /
             <td></td>
             <td>
                 <strong>Th Jan 31</strong><br>
-                Input / Output: Files and Events
+                User Input and Events
             </td>
             <td></td>
         </tr>
@@ -128,7 +128,7 @@ permalink: /
             <td></td>
             <td>
                 <strong>Tutorial</strong><br>
-                Practice with I/O
+                Practice with looping algorithms
             </td>
             <td><a class="label label-default" href="course-files/tutorials/tutorial04/README">Tutorial 4 <i class="fas fa-link"></i></a></td>
         </tr>

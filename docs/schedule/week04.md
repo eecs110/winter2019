@@ -27,10 +27,9 @@ Looping, iteration, and repeating code continued.
 Refer to last Thursday's readings
 
 ## II. Thursday, January 24
-Input / Output: Files and Events
+User Input and Events
 
 ### Slides
-TBD
 * <a href="https://docs.google.com/presentation/d/1BzO7AAL_wGEV4szcislUbWj6X-Iy82A69bETjixDF3Q/edit?usp=sharing" target="blank">Slides 08: User Input, Events, and Function Practice <i class="fas fa-external-link-alt"></i></a>
 
 ### Code Samples
