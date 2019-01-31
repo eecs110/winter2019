@@ -30,7 +30,8 @@ Refer to last Thursday's readings
 Input / Output: Files and Events
 
 ### Slides
-* <a href="https://docs.google.com/presentation/d/1BzO7AAL_wGEV4szcislUbWj6X-Iy82A69bETjixDF3Q/edit?usp=sharing" target="blank">Slides 08: User Input, Events, and Function Practice <i class="fas fa-external-link-alt"></i></a>
+TBD
+<!-- * <a href="https://docs.google.com/presentation/d/1BzO7AAL_wGEV4szcislUbWj6X-Iy82A69bETjixDF3Q/edit?usp=sharing" target="blank">Slides 08: User Input, Events, and Function Practice <i class="fas fa-external-link-alt"></i></a> -->
 
 ### Code Samples
 [see course files](/winter2019/course-files/lectures/)
