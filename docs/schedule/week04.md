@@ -30,15 +30,14 @@ Refer to last Thursday's readings
 Input / Output: Files and Events
 
 ### Slides
-TBD
-<!-- * <a href="" target="blank">Slides 08: I/O <i class="fas fa-external-link-alt"></i></a> -->
+* <a href="https://docs.google.com/presentation/d/1BzO7AAL_wGEV4szcislUbWj6X-Iy82A69bETjixDF3Q/edit?usp=sharing" target="blank">Slides 08: User Input, Events, and Function Practice <i class="fas fa-external-link-alt"></i></a>
 
 ### Code Samples
 [see course files](/winter2019/course-files/lectures/)
 
 ### Readings and Resources
-TBD
+* <a href="http://effbot.org/tkinterbook/tkinter-index.htm#class-reference" target="_blank">Tkinter Documentation <i class="fas fa-external-link-alt"></i></a> (skim)
 
 
 ## IV. Tutorial
-[Practice with I/O + Q&A](#)
+[Practice with Loops + Q&A](/winter2019/course-files/tutorials/tutorial04/README)

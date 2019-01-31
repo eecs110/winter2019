@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Lecture 03
+title: Answers
 nav_exclude: True
 ---
 
-# Lecture 03
+# Answers
 
-[course-files/lectures/lecture_03/](.)
+[course-files/lectures/lecture_08/answers/](.)
 
 <table class="tbl-files">
     <tbody>
@@ -28,17 +28,17 @@ nav_exclude: True
 
         <tr class="click-to-preview">
             <td>
-                    <img class="icon-jupyter" src="{{ site.baseurl }}/assets/images/jupyter-icon.png" />
+                <i class="fab fa-lg fa-python"></i>
             </td>
             <td nowrap>
-                    <a href="04. Built-In Functions.ipynb">04. Built-In Functions.ipynb</a>
+                    <a href="07_function_refactor.py">07_function_refactor.py</a>
             </td>
-            <td align="right">1/15/2019 3:38 PM</td>
-            <td>12.8KB</td>
+            <td align="right">1/31/2019 1:13 AM</td>
+            <td>390.0B</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_03/04. Built-In Functions.ipynb" 
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_08/answers/07_function_refactor.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
-                <!-- a href="04. Built-In Functions.ipynb"><i class="fas fa-download"></i></a -->
+                <!-- a href="07_function_refactor.py"><i class="fas fa-download"></i></a -->
             </td>
         </tr>
         <tr class="click-to-preview">
@@ -46,14 +46,14 @@ nav_exclude: True
                 <i class="fab fa-lg fa-python"></i>
             </td>
             <td nowrap>
-                    <a href="demo00_operators_data_types.py">demo00_operators_data_types.py</a>
+                    <a href="08_function_refactor.py">08_function_refactor.py</a>
             </td>
-            <td align="right">1/17/2019 1:11 PM</td>
-            <td>327.0B</td>
+            <td align="right">1/31/2019 1:42 AM</td>
+            <td>1.0KB</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_03/demo00_operators_data_types.py" 
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_08/answers/08_function_refactor.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
-                <!-- a href="demo00_operators_data_types.py"><i class="fas fa-download"></i></a -->
+                <!-- a href="08_function_refactor.py"><i class="fas fa-download"></i></a -->
             </td>
         </tr>
         <tr class="click-to-preview">
@@ -61,14 +61,14 @@ nav_exclude: True
                 <i class="fab fa-lg fa-python"></i>
             </td>
             <td nowrap>
-                    <a href="demo01_lists_and_tuples.py">demo01_lists_and_tuples.py</a>
+                    <a href="09a_function_refactor.py">09a_function_refactor.py</a>
             </td>
-            <td align="right">1/15/2019 1:47 PM</td>
-            <td>3.8KB</td>
+            <td align="right">1/31/2019 1:58 AM</td>
+            <td>628.0B</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_03/demo01_lists_and_tuples.py" 
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_08/answers/09a_function_refactor.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
-                <!-- a href="demo01_lists_and_tuples.py"><i class="fas fa-download"></i></a -->
+                <!-- a href="09a_function_refactor.py"><i class="fas fa-download"></i></a -->
             </td>
         </tr>
         <tr class="click-to-preview">
@@ -76,29 +76,14 @@ nav_exclude: True
                 <i class="fab fa-lg fa-python"></i>
             </td>
             <td nowrap>
-                    <a href="demo02_built_in_functions.py">demo02_built_in_functions.py</a>
+                    <a href="09b_function_refactor.py">09b_function_refactor.py</a>
             </td>
-            <td align="right">1/17/2019 2:59 PM</td>
-            <td>1.4KB</td>
+            <td align="right">1/31/2019 2:07 AM</td>
+            <td>1.1KB</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_03/demo02_built_in_functions.py" 
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_08/answers/09b_function_refactor.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
-                <!-- a href="demo02_built_in_functions.py"><i class="fas fa-download"></i></a -->
-            </td>
-        </tr>
-        <tr class="click-to-preview">
-            <td>
-                <i class="fab fa-lg fa-python"></i>
-            </td>
-            <td nowrap>
-                    <a href="notebook_04_builtin_functions.py">notebook_04_builtin_functions.py</a>
-            </td>
-            <td align="right">1/31/2019 2:23 AM</td>
-            <td>7.0KB</td>
-            <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_03/notebook_04_builtin_functions.py" 
-                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
-                <!-- a href="notebook_04_builtin_functions.py"><i class="fas fa-download"></i></a -->
+                <!-- a href="09b_function_refactor.py"><i class="fas fa-download"></i></a -->
             </td>
         </tr>
     </tbody>

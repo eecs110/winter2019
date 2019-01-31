@@ -130,7 +130,7 @@ permalink: /
                 <strong>Tutorial</strong><br>
                 Practice with I/O
             </td>
-            <td><span class="label label-default">Tutorial 4</span></td>
+            <td><a class="label label-default" href="course-files/tutorials/tutorial04/README">Tutorial 4 <i class="fas fa-link"></i></a></td>
         </tr>
         <!-- WEEK #5 -->
         <tr>
