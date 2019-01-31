@@ -41,7 +41,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="01_for_loop_simple.py">01_for_loop_simple.py</a>
             </td>
-            <td align="right">1/28/2019 9:40 PM</td>
+            <td align="right">1/30/2019 8:45 PM</td>
             <td>176.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_07/01_for_loop_simple.py" 
@@ -56,7 +56,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="01a_for_loop_simple.py">01a_for_loop_simple.py</a>
             </td>
-            <td align="right">1/28/2019 10:46 PM</td>
+            <td align="right">1/30/2019 8:45 PM</td>
             <td>134.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_07/01a_for_loop_simple.py" 
@@ -71,7 +71,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="02_for_loop_play_notes.py">02_for_loop_play_notes.py</a>
             </td>
-            <td align="right">1/28/2019 9:42 PM</td>
+            <td align="right">1/30/2019 8:45 PM</td>
             <td>269.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_07/02_for_loop_play_notes.py" 
@@ -116,7 +116,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="05_break.py">05_break.py</a>
             </td>
-            <td align="right">1/28/2019 10:49 PM</td>
+            <td align="right">1/30/2019 8:45 PM</td>
             <td>232.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_07/05_break.py" 
@@ -131,7 +131,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="06_continue.py">06_continue.py</a>
             </td>
-            <td align="right">1/28/2019 10:50 PM</td>
+            <td align="right">1/30/2019 8:45 PM</td>
             <td>195.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_07/06_continue.py" 
@@ -146,7 +146,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="07_continue_2.py">07_continue_2.py</a>
             </td>
-            <td align="right">1/28/2019 10:54 PM</td>
+            <td align="right">1/30/2019 8:45 PM</td>
             <td>124.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_07/07_continue_2.py" 
@@ -161,7 +161,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="08_largest_number.py">08_largest_number.py</a>
             </td>
-            <td align="right">1/29/2019 12:11 AM</td>
+            <td align="right">1/30/2019 8:56 PM</td>
             <td>124.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_07/08_largest_number.py" 
@@ -221,7 +221,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="12_random_music_1.py">12_random_music_1.py</a>
             </td>
-            <td align="right">1/29/2019 3:19 PM</td>
+            <td align="right">1/30/2019 8:45 PM</td>
             <td>322.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_07/12_random_music_1.py" 

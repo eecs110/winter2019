@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Lecture 03
+title: Tutorial04
 nav_exclude: True
 ---
 
-# Lecture 03
+# Tutorial04
 
-[course-files/lectures/lecture_03/](.)
+[course-files/tutorials/tutorial04/](.)
 
 <table class="tbl-files">
     <tbody>
@@ -28,77 +28,77 @@ nav_exclude: True
 
         <tr class="click-to-preview">
             <td>
-                    <img class="icon-jupyter" src="{{ site.baseurl }}/assets/images/jupyter-icon.png" />
+                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAABHUlEQVR42o2RMW7DIBiF3498iHRJD5JKHurL+CRVBp+i2T16tTynF2gO0KSb5ZrBBl4HHDBuK/WXACH4eO9/CAAAbdvijzLGNE1TVZXfZuHg6XCAQESAZXbOKaXO57eiKG6ft9PrKQIkCQqFoIiQFBGlFIB5nvM8t9aOX2Nd18oDzjnPgCDpn/BH4zh2XZdlWVmWiUK4IgCBoFMUz9eP6zRN75cLgEQhcmTQIbl72O0f9865qLAAsURAAgKBJKEtgLXWvyjLuFsThCSstb8rBCaAQhDYWgIZ7myM+TUBjDHrHlZcbMYYk34cN0YSLcgS+wL0fe9TXDMbY33fR2AYBvyQ8L0Gk8MwREBrTfKe4TpTzwhArXWi8HI84h/1DfwI5mhxJamFAAAAAElFTkSuQmCC " alt="[DIR]">
             </td>
             <td nowrap>
-                    <a href="04. Built-In Functions.ipynb">04. Built-In Functions.ipynb</a>
-            </td>
-            <td align="right">1/15/2019 3:38 PM</td>
-            <td>12.8KB</td>
-            <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_03/04. Built-In Functions.ipynb" 
-                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
-                <!-- a href="04. Built-In Functions.ipynb"><i class="fas fa-download"></i></a -->
-            </td>
-        </tr>
-        <tr class="click-to-preview">
-            <td>
-                <i class="fab fa-lg fa-python"></i>
-            </td>
-            <td nowrap>
-                    <a href="demo00_operators_data_types.py">demo00_operators_data_types.py</a>
-            </td>
-            <td align="right">1/17/2019 1:11 PM</td>
-            <td>327.0B</td>
-            <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_03/demo00_operators_data_types.py" 
-                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
-                <!-- a href="demo00_operators_data_types.py"><i class="fas fa-download"></i></a -->
-            </td>
-        </tr>
-        <tr class="click-to-preview">
-            <td>
-                <i class="fab fa-lg fa-python"></i>
-            </td>
-            <td nowrap>
-                    <a href="demo01_lists_and_tuples.py">demo01_lists_and_tuples.py</a>
-            </td>
-            <td align="right">1/15/2019 1:47 PM</td>
-            <td>3.8KB</td>
-            <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_03/demo01_lists_and_tuples.py" 
-                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
-                <!-- a href="demo01_lists_and_tuples.py"><i class="fas fa-download"></i></a -->
-            </td>
-        </tr>
-        <tr class="click-to-preview">
-            <td>
-                <i class="fab fa-lg fa-python"></i>
-            </td>
-            <td nowrap>
-                    <a href="demo02_built_in_functions.py">demo02_built_in_functions.py</a>
-            </td>
-            <td align="right">1/17/2019 2:59 PM</td>
-            <td>1.4KB</td>
-            <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_03/demo02_built_in_functions.py" 
-                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
-                <!-- a href="demo02_built_in_functions.py"><i class="fas fa-download"></i></a -->
-            </td>
-        </tr>
-        <tr class="click-to-preview">
-            <td>
-                <i class="fab fa-lg fa-python"></i>
-            </td>
-            <td nowrap>
-                    <a href="notebook_04_builtin_functions.py">notebook_04_builtin_functions.py</a>
+                    <a href="README">
+                        Readme
+                    </a>
             </td>
             <td align="right">1/30/2019 10:31 PM</td>
-            <td>7.0KB</td>
+            <td>206.0B</td>
             <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_03/notebook_04_builtin_functions.py" 
+                <!-- a href="README.md"><i class="fas fa-download"></i></a -->
+            </td>
+        </tr>
+        <tr class="click-to-preview">
+            <td>
+                <i class="fab fa-lg fa-python"></i>
+            </td>
+            <td nowrap>
+                    <a href="arpeggios.py">arpeggios.py</a>
+            </td>
+            <td align="right">1/30/2019 9:41 PM</td>
+            <td>130.0B</td>
+            <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/tutorials/tutorial04/arpeggios.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
-                <!-- a href="notebook_04_builtin_functions.py"><i class="fas fa-download"></i></a -->
+                <!-- a href="arpeggios.py"><i class="fas fa-download"></i></a -->
+            </td>
+        </tr>
+        <tr class="click-to-preview">
+            <td>
+                <i class="fab fa-lg fa-python"></i>
+            </td>
+            <td nowrap>
+                    <a href="drawings.py">drawings.py</a>
+            </td>
+            <td align="right">1/30/2019 8:49 PM</td>
+            <td>512.0B</td>
+            <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/tutorials/tutorial04/drawings.py" 
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
+                <!-- a href="drawings.py"><i class="fas fa-download"></i></a -->
+            </td>
+        </tr>
+        <tr class="click-to-preview">
+            <td>
+                <i class="fab fa-lg fa-python"></i>
+            </td>
+            <td nowrap>
+                    <a href="riff.py">riff.py</a>
+            </td>
+            <td align="right">1/30/2019 10:27 PM</td>
+            <td>421.0B</td>
+            <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/tutorials/tutorial04/riff.py" 
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
+                <!-- a href="riff.py"><i class="fas fa-download"></i></a -->
+            </td>
+        </tr>
+        <tr class="click-to-preview">
+            <td>
+                <i class="fab fa-lg fa-python"></i>
+            </td>
+            <td nowrap>
+                    <a href="shapes.py">shapes.py</a>
+            </td>
+            <td align="right">1/30/2019 8:47 PM</td>
+            <td>295.0B</td>
+            <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/tutorials/tutorial04/shapes.py" 
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
+                <!-- a href="shapes.py"><i class="fas fa-download"></i></a -->
             </td>
         </tr>
     </tbody>

@@ -80,7 +80,7 @@ nav_exclude: False
             <td valign="top"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAd5JREFUeNqMU79rFUEQ/vbuodFEEkzAImBpkUabFP4ldpaJhZXYm/RiZWsv/hkWFglBUyTIgyAIIfgIRjHv3r39MePM7N3LcbxAFvZ2b2bn22/mm3XMjF+HL3YW7q28YSIw8mBKoBihhhgCsoORot9d3/ywg3YowMXwNde/PzGnk2vn6PitrT+/PGeNaecg4+qNY3D43vy16A5wDDd4Aqg/ngmrjl/GoN0U5V1QquHQG3q+TPDVhVwyBffcmQGJmSVfyZk7R3SngI4JKfwDJ2+05zIg8gbiereTZRHhJ5KCMOwDFLjhoBTn2g0ghagfKeIYJDPFyibJVBtTREwq60SpYvh5++PpwatHsxSm9QRLSQpEVSd7/TYJUb49TX7gztpjjEffnoVw66+Ytovs14Yp7HaKmUXeX9rKUoMoLNW3srqI5fWn8JejrVkK0QcrkFLOgS39yoKUQe292WJ1guUHG8K2o8K00oO1BTvXoW4yasclUTgZYJY9aFNfAThX5CZRmczAV52oAPoupHhWRIUUAOoyUIlYVaAa/VbLbyiZUiyFbjQFNwiZQSGl4IDy9sO5Wrty0QLKhdZPxmgGcDo8ejn+c/6eiK9poz15Kw7Dr/vN/z6W7q++091/AQYA5mZ8GYJ9K0AAAAAASUVORK5CYII= "
                 alt="[DIR]"></td>
             <td><a href="lecture_07">lecture_07</a></td>
-            <td align="right">1/29/2019 3:27 PM</td>
+            <td align="right">1/30/2019 8:56 PM</td>
             <td>608.0B</td>
             <td>&nbsp;</td>
         </tr>
@@ -91,7 +91,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="lecture_01.zip">lecture_01.zip</a>
             </td>
-            <td align="right">1/29/2019 3:30 PM</td>
+            <td align="right">1/30/2019 10:31 PM</td>
             <td>139.8KB</td>
             <td>
                 <!-- a href="lecture_01.zip"><i class="fas fa-download"></i></a -->
@@ -104,7 +104,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="lecture_02.zip">lecture_02.zip</a>
             </td>
-            <td align="right">1/29/2019 3:30 PM</td>
+            <td align="right">1/30/2019 10:31 PM</td>
             <td>15.0KB</td>
             <td>
                 <!-- a href="lecture_02.zip"><i class="fas fa-download"></i></a -->
@@ -117,7 +117,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="lecture_03.zip">lecture_03.zip</a>
             </td>
-            <td align="right">1/29/2019 3:30 PM</td>
+            <td align="right">1/30/2019 10:31 PM</td>
             <td>6.8KB</td>
             <td>
                 <!-- a href="lecture_03.zip"><i class="fas fa-download"></i></a -->
@@ -130,7 +130,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="lecture_04.zip">lecture_04.zip</a>
             </td>
-            <td align="right">1/29/2019 3:30 PM</td>
+            <td align="right">1/30/2019 10:31 PM</td>
             <td>3.6KB</td>
             <td>
                 <!-- a href="lecture_04.zip"><i class="fas fa-download"></i></a -->
@@ -143,7 +143,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="lecture_05.zip">lecture_05.zip</a>
             </td>
-            <td align="right">1/29/2019 3:30 PM</td>
+            <td align="right">1/30/2019 10:31 PM</td>
             <td>8.1KB</td>
             <td>
                 <!-- a href="lecture_05.zip"><i class="fas fa-download"></i></a -->
@@ -156,7 +156,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="lecture_06.zip">lecture_06.zip</a>
             </td>
-            <td align="right">1/29/2019 3:30 PM</td>
+            <td align="right">1/30/2019 10:31 PM</td>
             <td>7.2KB</td>
             <td>
                 <!-- a href="lecture_06.zip"><i class="fas fa-download"></i></a -->
@@ -169,7 +169,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="lecture_07.zip">lecture_07.zip</a>
             </td>
-            <td align="right">1/29/2019 3:30 PM</td>
+            <td align="right">1/30/2019 10:31 PM</td>
             <td>10.1KB</td>
             <td>
                 <!-- a href="lecture_07.zip"><i class="fas fa-download"></i></a -->

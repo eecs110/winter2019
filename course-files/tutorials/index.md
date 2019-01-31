@@ -48,8 +48,16 @@ nav_exclude: False
             <td valign="top"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAd5JREFUeNqMU79rFUEQ/vbuodFEEkzAImBpkUabFP4ldpaJhZXYm/RiZWsv/hkWFglBUyTIgyAIIfgIRjHv3r39MePM7N3LcbxAFvZ2b2bn22/mm3XMjF+HL3YW7q28YSIw8mBKoBihhhgCsoORot9d3/ywg3YowMXwNde/PzGnk2vn6PitrT+/PGeNaecg4+qNY3D43vy16A5wDDd4Aqg/ngmrjl/GoN0U5V1QquHQG3q+TPDVhVwyBffcmQGJmSVfyZk7R3SngI4JKfwDJ2+05zIg8gbiereTZRHhJ5KCMOwDFLjhoBTn2g0ghagfKeIYJDPFyibJVBtTREwq60SpYvh5++PpwatHsxSm9QRLSQpEVSd7/TYJUb49TX7gztpjjEffnoVw66+Ytovs14Yp7HaKmUXeX9rKUoMoLNW3srqI5fWn8JejrVkK0QcrkFLOgS39yoKUQe292WJ1guUHG8K2o8K00oO1BTvXoW4yasclUTgZYJY9aFNfAThX5CZRmczAV52oAPoupHhWRIUUAOoyUIlYVaAa/VbLbyiZUiyFbjQFNwiZQSGl4IDy9sO5Wrty0QLKhdZPxmgGcDo8ejn+c/6eiK9poz15Kw7Dr/vN/z6W7q++091/AQYA5mZ8GYJ9K0AAAAAASUVORK5CYII= "
                 alt="[DIR]"></td>
             <td><a href="tutorial03">tutorial03</a></td>
-            <td align="right">1/24/2019 9:40 AM</td>
+            <td align="right">1/30/2019 8:46 PM</td>
             <td>160.0B</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td valign="top"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAd5JREFUeNqMU79rFUEQ/vbuodFEEkzAImBpkUabFP4ldpaJhZXYm/RiZWsv/hkWFglBUyTIgyAIIfgIRjHv3r39MePM7N3LcbxAFvZ2b2bn22/mm3XMjF+HL3YW7q28YSIw8mBKoBihhhgCsoORot9d3/ywg3YowMXwNde/PzGnk2vn6PitrT+/PGeNaecg4+qNY3D43vy16A5wDDd4Aqg/ngmrjl/GoN0U5V1QquHQG3q+TPDVhVwyBffcmQGJmSVfyZk7R3SngI4JKfwDJ2+05zIg8gbiereTZRHhJ5KCMOwDFLjhoBTn2g0ghagfKeIYJDPFyibJVBtTREwq60SpYvh5++PpwatHsxSm9QRLSQpEVSd7/TYJUb49TX7gztpjjEffnoVw66+Ytovs14Yp7HaKmUXeX9rKUoMoLNW3srqI5fWn8JejrVkK0QcrkFLOgS39yoKUQe292WJ1guUHG8K2o8K00oO1BTvXoW4yasclUTgZYJY9aFNfAThX5CZRmczAV52oAPoupHhWRIUUAOoyUIlYVaAa/VbLbyiZUiyFbjQFNwiZQSGl4IDy9sO5Wrty0QLKhdZPxmgGcDo8ejn+c/6eiK9poz15Kw7Dr/vN/z6W7q++091/AQYA5mZ8GYJ9K0AAAAAASUVORK5CYII= "
+                alt="[DIR]"></td>
+            <td><a href="tutorial04">tutorial04</a></td>
+            <td align="right">1/30/2019 10:30 PM</td>
+            <td>320.0B</td>
             <td>&nbsp;</td>
         </tr>
         <tr class="click-to-preview">
@@ -59,7 +67,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="tutorial01.zip">tutorial01.zip</a>
             </td>
-            <td align="right">1/29/2019 3:30 PM</td>
+            <td align="right">1/30/2019 10:31 PM</td>
             <td>262.0B</td>
             <td>
                 <!-- a href="tutorial01.zip"><i class="fas fa-download"></i></a -->
@@ -72,7 +80,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="tutorial02.zip">tutorial02.zip</a>
             </td>
-            <td align="right">1/29/2019 3:30 PM</td>
+            <td align="right">1/30/2019 10:31 PM</td>
             <td>344.0B</td>
             <td>
                 <!-- a href="tutorial02.zip"><i class="fas fa-download"></i></a -->
@@ -85,10 +93,23 @@ nav_exclude: False
             <td nowrap>
                     <a href="tutorial03.zip">tutorial03.zip</a>
             </td>
-            <td align="right">1/29/2019 3:30 PM</td>
+            <td align="right">1/30/2019 10:31 PM</td>
             <td>588.0B</td>
             <td>
                 <!-- a href="tutorial03.zip"><i class="fas fa-download"></i></a -->
+            </td>
+        </tr>
+        <tr class="click-to-preview">
+            <td>
+                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAABHUlEQVR42o2RMW7DIBiF3498iHRJD5JKHurL+CRVBp+i2T16tTynF2gO0KSb5ZrBBl4HHDBuK/WXACH4eO9/CAAAbdvijzLGNE1TVZXfZuHg6XCAQESAZXbOKaXO57eiKG6ft9PrKQIkCQqFoIiQFBGlFIB5nvM8t9aOX2Nd18oDzjnPgCDpn/BH4zh2XZdlWVmWiUK4IgCBoFMUz9eP6zRN75cLgEQhcmTQIbl72O0f9865qLAAsURAAgKBJKEtgLXWvyjLuFsThCSstb8rBCaAQhDYWgIZ7myM+TUBjDHrHlZcbMYYk34cN0YSLcgS+wL0fe9TXDMbY33fR2AYBvyQ8L0Gk8MwREBrTfKe4TpTzwhArXWi8HI84h/1DfwI5mhxJamFAAAAAElFTkSuQmCC " alt="[DIR]">
+            </td>
+            <td nowrap>
+                    <a href="tutorial04.zip">tutorial04.zip</a>
+            </td>
+            <td align="right">1/30/2019 10:31 PM</td>
+            <td>1.3KB</td>
+            <td>
+                <!-- a href="tutorial04.zip"><i class="fas fa-download"></i></a -->
             </td>
         </tr>
     </tbody>
