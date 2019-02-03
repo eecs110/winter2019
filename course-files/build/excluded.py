@@ -8,6 +8,7 @@ EXCLUDED = [
     'drafts', 
     'solutions', 
     'projects', 
+    'exams', 
     'build',
     '__pycache__',
     '.ipynb_checkpoints', 

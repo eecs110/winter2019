@@ -93,7 +93,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="notebook_01_introduction.py">notebook_01_introduction.py</a>
             </td>
-            <td align="right">1/31/2019 2:36 PM</td>
+            <td align="right">2/2/2019 6:16 PM</td>
             <td>24.0KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_01/notebook_01_introduction.py" 
@@ -108,7 +108,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="notebook_data_visualization.py">notebook_data_visualization.py</a>
             </td>
-            <td align="right">1/31/2019 2:36 PM</td>
+            <td align="right">2/2/2019 6:16 PM</td>
             <td>4.8KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_01/notebook_data_visualization.py" 

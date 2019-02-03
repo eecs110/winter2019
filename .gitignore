@@ -3,5 +3,6 @@ _site
 .jekyll-metadata
 drafts
 solutions
+exams
 .ipynb_checkpoints
 __pycache__
