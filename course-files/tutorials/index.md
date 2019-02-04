@@ -2,7 +2,7 @@
 layout: default
 title: Tutorials
 parent: Course Files
-nav_order: 5
+nav_order: 6
 nav_exclude: False
 ---
 
@@ -67,7 +67,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="tutorial01.zip">tutorial01.zip</a>
             </td>
-            <td align="right">2/2/2019 6:21 PM</td>
+            <td align="right">2/3/2019 10:08 PM</td>
             <td>262.0B</td>
             <td>
                 <!-- a href="tutorial01.zip"><i class="fas fa-download"></i></a -->
@@ -80,7 +80,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="tutorial02.zip">tutorial02.zip</a>
             </td>
-            <td align="right">2/2/2019 6:21 PM</td>
+            <td align="right">2/3/2019 10:08 PM</td>
             <td>344.0B</td>
             <td>
                 <!-- a href="tutorial02.zip"><i class="fas fa-download"></i></a -->
@@ -93,7 +93,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="tutorial03.zip">tutorial03.zip</a>
             </td>
-            <td align="right">2/2/2019 6:21 PM</td>
+            <td align="right">2/3/2019 10:08 PM</td>
             <td>1.1KB</td>
             <td>
                 <!-- a href="tutorial03.zip"><i class="fas fa-download"></i></a -->
@@ -106,7 +106,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="tutorial04.zip">tutorial04.zip</a>
             </td>
-            <td align="right">2/2/2019 6:21 PM</td>
+            <td align="right">2/3/2019 10:08 PM</td>
             <td>6.6KB</td>
             <td>
                 <!-- a href="tutorial04.zip"><i class="fas fa-download"></i></a -->

@@ -2,7 +2,7 @@
 layout: default
 title: Practice Exams
 parent: Course Files
-nav_order: 4
+nav_order: 5
 nav_exclude: False
 ---
 
@@ -43,8 +43,8 @@ nav_exclude: False
             <td nowrap>
                     <a href="midterm.zip">midterm.zip</a>
             </td>
-            <td align="right">2/2/2019 6:21 PM</td>
-            <td>22.0B</td>
+            <td align="right">2/3/2019 10:08 PM</td>
+            <td>10.9KB</td>
             <td>
                 <!-- a href="midterm.zip"><i class="fas fa-download"></i></a -->
             </td>
