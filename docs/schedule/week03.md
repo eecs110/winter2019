@@ -9,7 +9,7 @@ nav_exclude: True
 
 # WEEK 3: BRANCHING AND LOOPING
 
-## I. Tuesday, January 22
+## I. Tuesday, January 29
 Functions wrap-up and conditional execution
 
 ### Slides

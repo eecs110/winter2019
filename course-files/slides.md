@@ -25,3 +25,5 @@ permalink: /course-files/slides/
 || Th, 01/24 | [Slides 06: While Loops](https://docs.google.com/presentation/d/1PKXI2ffM5oSGW-qXa-CYyvRhyeelh635cfoElx_kQgU/edit?usp=sharing) |
 | **Week 4** | Tu, 01/29 | [Slides 07: Loops and Iteration Continued](https://docs.google.com/presentation/d/1ZNIYGXF8Seo6ORCNmU_Z6umb42aAcZ8hE9WxgRo9i_M/edit?usp=sharing) |
 || Th, 01/31 | [Slides 08: User Input, Events, and Function Practice](https://docs.google.com/presentation/d/1BzO7AAL_wGEV4szcislUbWj6X-Iy82A69bETjixDF3Q/edit?usp=sharing) |
+| **Week 5** | Tu, 01/05 | [Slides 09: Exam Review](https://docs.google.com/presentation/d/1eicgDMpHIw6PtGOhbRxn_G42LobEbsTBEADQDCz56Dg/edit?usp=sharing) |
+|| Th, 01/07 | Exam |

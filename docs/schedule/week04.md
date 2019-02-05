@@ -9,7 +9,7 @@ nav_exclude: True
 
 # WEEK 4: LOOPS AND I/O
 
-## I. Tuesday, January 22
+## I. Tuesday, January 29
 Looping, iteration, and repeating code continued.
 
 ## Announcements
@@ -26,7 +26,7 @@ Looping, iteration, and repeating code continued.
 ### Readings and Resources
 Refer to last Thursday's readings
 
-## II. Thursday, January 24
+## II. Thursday, January 31
 User Input and Events
 
 ### Slides

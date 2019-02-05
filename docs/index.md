@@ -134,7 +134,7 @@ permalink: /
         </tr>
         <!-- WEEK #5 -->
         <tr>
-            <td>Week 5</td>
+            <td><a href="week-05">Week 5</a></td>
             <td>
                 <strong>Tu Feb 5</strong><br>
                 Exam review
