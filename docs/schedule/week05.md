@@ -30,4 +30,4 @@ Exam
 
 
 ## IV. Tutorial
-[Practice with Events](#)
+No tutorial this week! Homework due a week from this Thursday.
