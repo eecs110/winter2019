@@ -1,63 +1,56 @@
-from tkinter import Button, Frame, Tk, N, W, E, S
+from tkinter import Button, Checkbutton, Frame, Tk, N, W, E, S
 from threading import Thread, Condition, Event
 import psonic
 import helpers
+import thread_manager
+import riffs
 
-tick = psonic.Message()
-
-state = {
-    'riff_1': False,
-    'riff_2': False,
-    'riff_3': False,
-    'speed': 2
+data = {
+    'riff_1': {
+        'length': 2,
+        'riff': riffs.symbol_riff,
+        'name': 'Cymbals'
+    },
+    'riff_1': {
+        'length': 8,
+        'riff': helpers.play_riff_2,
+        'name': 'Twinkle Sound'
+    },
 }
-loops = []
 
-@psonic.in_thread
-def main_loop():
-    while True:
-        tick.cue()
-        helpers.play_base_beat(state['speed'])
-
-@psonic.in_thread
-def riff_1_loop():
-    while True:
-        tick.sync()
-        if state['riff_1']:
-            helpers.play_riff_1(state['speed'])
-
-@psonic.in_thread
-def riff_2_loop():
-    while True:
-        tick.sync()
-        if state['riff_2']:
-            helpers.play_riff_2(state['speed'])
-
-@psonic.in_thread
-def riff_3_loop():
-    while True:
-        tick.sync()
-        if state['riff_3']:
-            helpers.play_riff_3(state['speed'])
-
-def start_music_loop(state):
-    loops.append(riff_1_loop())
-    loops.append(riff_2_loop())
-    loops.append(riff_3_loop())
-    main_loop()
-    print(loops)
+condition = Condition()
+threads = {
+   'controller': thread_manager.start_looping_thread(riffs.controller_riff, condition, is_controller=True)
+}
 
 def toggle_riff_1():
-    state['riff_1'] = not state['riff_1']
+    if threads.get('riff_1'):
+        threads['riff_1'].set()
+        del threads['riff_1']
+    else:
+        threads['riff_1'] = thread_manager.start_looping_thread(riffs.symbol_riff, condition)
 
 def toggle_riff_2():
-    state['riff_2'] = not state['riff_2']
+    if threads.get('riff_2'):
+        threads['riff_2'].set()
+        del threads['riff_2']
+    else:
+        threads['riff_2'] = thread_manager.start_looping_thread(helpers.play_riff_2, condition)
+
 
 def toggle_riff_3():
-    state['riff_3'] = not state['riff_3']
+    if threads.get('riff_3'):
+        threads['riff_3'].set()
+        del threads['riff_3']
+    else:
+        threads['riff_3'] = thread_manager.start_looping_thread(helpers.play_riff_3, condition)
+
 
 def kill_threads():
-    pass
+    global threads
+    for key in threads:
+        threads[key].set()
+    print('Killed all threads')
 
 def make_interface():
     gui = Tk()
@@ -66,19 +59,18 @@ def make_interface():
     mainframe.grid(column=0, row=0, sticky=(N, W, E, S), padx=5, pady=5)
     gui.columnconfigure(0, weight=1)
     gui.rowconfigure(0, weight=1, pad=10)
-    Button(
-        mainframe, text="play riff 1", command=toggle_riff_1, padx=5, pady=5
+    Checkbutton(
+        mainframe, text="Play Cymbals", command=toggle_riff_1, padx=5, pady=5
     ).grid(column=0, row=0, sticky=W)
-    Button(
-        mainframe, text="play riff 2", command=toggle_riff_2, padx=5, pady=5
+    Checkbutton(
+        mainframe, text="Play Twinkle Sound", command=toggle_riff_2, padx=5, pady=5
     ).grid(column=0, row=1, sticky=W)
-    Button(
-        mainframe, text="play riff 3", command=toggle_riff_3, padx=5, pady=5
+    Checkbutton(
+        mainframe, text="Play 4 Beats", command=toggle_riff_3, padx=5, pady=5
     ).grid(column=0, row=2, sticky=W)
     Button(
         mainframe, text="kill threads", command=kill_threads, padx=5, pady=5
     ).grid(column=0, row=32, sticky=W)
     gui.mainloop()
 
-start_music_loop(state)
 make_interface()

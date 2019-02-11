@@ -2,39 +2,13 @@ import psonic
 from threading import Thread, Condition, Event
 import helpers
 import random
-
-live_threads = {}
-
-def controller_riff():
-    psonic.sample(psonic.DRUM_SNARE_SOFT)
-    psonic.sleep(0.5)
-
-def snare_riff():
-    psonic.sample(psonic.DRUM_SNARE_SOFT)
-    psonic.sleep(1)
-
-def symbol_riff():
-    psonic.sample(psonic.DRUM_CYMBAL_OPEN)
-    psonic.sleep(1)
-
-def start_thread(sample, condition, is_controller=False):
-    stop_event = Event()
-    Thread(
-        target=start_loop, args=(condition, stop_event, sample, is_controller)
-    ).start()
-    return stop_event
-
-def start_loop(condition, stop_event, sample, is_controller=False):
-    while not stop_event.is_set():
-        with condition:
-            if is_controller:
-                condition.notifyAll() # notify
-            else:
-                condition.wait() # wait for message
-        sample()
+import riffs
+import thread_manager
 
 condition = Condition()
-live_threads['controller'] = start_thread(controller_riff, condition, is_controller=True)
+live_threads = {
+    'controller': thread_manager.start_looping_thread(riffs.controller_riff, condition, is_controller=True)
+}
 
 counter = 0
 while True:
@@ -45,7 +19,10 @@ while True:
            live_threads['loop_bar'].set()
     elif counter % 3 == 1:
         print('turning thread on...')
-        loops = [snare_riff, symbol_riff, helpers.play_riff_2]
+        loops = [riffs.snare_riff, riffs.symbol_riff]
         riff = loops[random.randint(0, len(loops) - 1)]
-        live_threads['loop_bar'] = start_thread(riff, condition)
+        live_threads['loop_bar'] = thread_manager.start_looping_thread(riff, condition)
+    else:
+        print('sample!')
+        thread_manager.start_sample_thread(riffs.sample_riff)
     counter += 1

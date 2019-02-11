@@ -175,9 +175,7 @@ permalink: /
                 <strong>Th Feb 14</strong><br>
                 Data: Working with Files and Web Services
             </td>
-            <td>
-                <span class="label label-default">Homework 3</span>
-            </td>
+            <td></td>
         </tr>
         <tr>
             <td></td>
@@ -195,6 +193,7 @@ permalink: /
                 Regular Expressions<br>
             </td>
             <td>
+                <span class="label label-default">Homework 3</span>
             </td>
         </tr>
         <tr>
@@ -204,7 +203,6 @@ permalink: /
                 Programming patterns: traversing ("crawling") networked data
             </td>
             <td>
-                <span class="label label-purple">Project 1</span>
             </td>
         </tr>
         <tr>
@@ -223,7 +221,7 @@ permalink: /
                 Data Analytics: Part I
             </td>
             <td>
-                <span class="label label-default">Homework 4</span>
+                <span class="label label-purple">Project 1</span>
             </td>
         </tr>
         <tr>
@@ -232,7 +230,9 @@ permalink: /
                 <strong>Th Feb 28</strong><br>
                 Data Analytics: Part II
             </td>
-            <td></td>
+            <td>
+                <span class="label label-default">Homework 4</span>
+            </td>
         </tr>
         <tr>
             <td></td>

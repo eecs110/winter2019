@@ -93,7 +93,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="04_for_loop_apply_range_function.py">04_for_loop_apply_range_function.py</a>
             </td>
-            <td align="right">1/28/2019 10:40 PM</td>
+            <td align="right">2/7/2019 4:20 PM</td>
             <td>595.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_07/answers/04_for_loop_apply_range_function.py" 

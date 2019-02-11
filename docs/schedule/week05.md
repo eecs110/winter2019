@@ -20,6 +20,8 @@ Exam Review
 ## Announcements
 1. Due: [Homework 2](/winter2019/course-files/homework/hw02/README) (due Tonight, Feb 5 at 11:59PM)
 2. Exam on Thursday
+   1. [Exam](https://docs.google.com/document/d/1ZYx3byxL62RAlT3zRqR3dDbidb8oYWugyAW6MrrXQcs/edit?usp=sharing)
+   2. [Exam Solutions](https://docs.google.com/document/d/19kGkwrbi8CV9Xz7Nwtv8kEtPmyzZgUGLVYWoPN95p2A/edit?usp=sharing)
 
 ### Slides
 * <a href="https://docs.google.com/presentation/d/1eicgDMpHIw6PtGOhbRxn_G42LobEbsTBEADQDCz56Dg/edit?usp=sharing" target="blank">Slides 09: Exam Review <i class="fas fa-external-link-alt"></i></a>
