@@ -7,7 +7,7 @@ EXCLUDED = [
     'index.md', 
     'drafts', 
     'solutions', 
-    'projects', 
+    #'projects', 
     #'exams', 
     'build',
     '__pycache__',

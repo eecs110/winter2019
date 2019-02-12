@@ -1,6 +1,5 @@
 ---
 layout: default
-nav_order: 7
 title: Option1 Graphics
 nav_exclude: True
 ---
@@ -27,35 +26,13 @@ nav_exclude: True
             <td>&nbsp;</td>
         </tr>
 
-        <tr class="click-to-preview">
-            <td>
-                <i class="fab fa-lg fa-python"></i>
-            </td>
-            <td nowrap>
-                    <a href="demo.py">demo.py</a>
-            </td>
-            <td align="right">1/27/2019 2:19 PM</td>
-            <td>927.0B</td>
-            <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/projects/project_01/option1_graphics/demo.py" 
-                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
-                <!-- a href="demo.py"><i class="fas fa-download"></i></a -->
-            </td>
-        </tr>
-        <tr class="click-to-preview">
-            <td>
-                <i class="fab fa-lg fa-python"></i>
-            </td>
-            <td nowrap>
-                    <a href="helpers.py">helpers.py</a>
-            </td>
-            <td align="right">1/27/2019 2:14 PM</td>
-            <td>795.0B</td>
-            <td>
-                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/projects/project_01/option1_graphics/helpers.py" 
-                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
-                <!-- a href="helpers.py"><i class="fas fa-download"></i></a -->
-            </td>
+        <tr>
+            <td valign="top"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAd5JREFUeNqMU79rFUEQ/vbuodFEEkzAImBpkUabFP4ldpaJhZXYm/RiZWsv/hkWFglBUyTIgyAIIfgIRjHv3r39MePM7N3LcbxAFvZ2b2bn22/mm3XMjF+HL3YW7q28YSIw8mBKoBihhhgCsoORot9d3/ywg3YowMXwNde/PzGnk2vn6PitrT+/PGeNaecg4+qNY3D43vy16A5wDDd4Aqg/ngmrjl/GoN0U5V1QquHQG3q+TPDVhVwyBffcmQGJmSVfyZk7R3SngI4JKfwDJ2+05zIg8gbiereTZRHhJ5KCMOwDFLjhoBTn2g0ghagfKeIYJDPFyibJVBtTREwq60SpYvh5++PpwatHsxSm9QRLSQpEVSd7/TYJUb49TX7gztpjjEffnoVw66+Ytovs14Yp7HaKmUXeX9rKUoMoLNW3srqI5fWn8JejrVkK0QcrkFLOgS39yoKUQe292WJ1guUHG8K2o8K00oO1BTvXoW4yasclUTgZYJY9aFNfAThX5CZRmczAV52oAPoupHhWRIUUAOoyUIlYVaAa/VbLbyiZUiyFbjQFNwiZQSGl4IDy9sO5Wrty0QLKhdZPxmgGcDo8ejn+c/6eiK9poz15Kw7Dr/vN/z6W7q++091/AQYA5mZ8GYJ9K0AAAAAASUVORK5CYII= "
+                alt="[DIR]"></td>
+            <td><a href="demos">demos</a></td>
+            <td align="right">2/12/2019 12:55 PM</td>
+            <td>448.0B</td>
+            <td>&nbsp;</td>
         </tr>
         <tr class="click-to-preview">
             <td>
@@ -79,7 +56,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="utilities.py">utilities.py</a>
             </td>
-            <td align="right">1/26/2019 3:55 PM</td>
+            <td align="right">2/8/2019 8:34 AM</td>
             <td>5.3KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/projects/project_01/option1_graphics/utilities.py" 

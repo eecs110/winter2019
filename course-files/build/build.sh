@@ -7,6 +7,9 @@ python zip_it.py ../lectures
 # zip homework:
 python zip_it.py ../homework
 
+# zip projects:
+python zip_it.py ../projects
+
 # zip tutorials:
 python zip_it.py ../tutorials
 
