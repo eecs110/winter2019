@@ -10,7 +10,7 @@ def _get_coordinates(canvas, id):
 def _set_coordinates(canvas, id, coordinates):
     canvas.coords(id, coordinates)
 
-def update_position_by_id(canvas, id, x=2, y=0):
+def _update_position_by_id(canvas, id, x=2, y=0):
     coords = _get_coordinates(canvas, id)
     # update coordinates:
     for i in range(0, len(coords)):
@@ -51,6 +51,12 @@ def make_rectangle(canvas, top_left, width, height, color="#3D9970", tag=None):
         width=0,
         tags=tag
     )
+
+def make_line(canvas, coordinates, curvy=False, width=2):
+    canvas.create_line(
+        coordinates, 
+        width=width, 
+        smooth=curvy)
     
 def _get_coordinates_by_dimension(canvas, tag, dimension='x'):
     '''
@@ -77,7 +83,7 @@ def update_position(canvas, tag, x=2, y=0):
     '''
     shape_ids = canvas.find_withtag(tag)
     for id in shape_ids:
-        update_position_by_id(canvas, id, x, y)
+        _update_position_by_id(canvas, id, x, y)
 
 def get_left(canvas, tag):
     '''
