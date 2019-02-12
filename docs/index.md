@@ -161,10 +161,10 @@ permalink: /
         </tr>
         <!-- WEEK #6 -->
         <tr>
-            <td>Week 6</td>
+            <td><a href="week-06">Week 6</a></td>
             <td>
                 <strong>Tu Feb 12</strong><br>
-                Data: Dictionaries and (More) Lists<br>
+                Data: Working with files
             </td>
             <td>
             </td>
@@ -173,7 +173,7 @@ permalink: /
             <td></td>
             <td>
                 <strong>Th Feb 14</strong><br>
-                Data: Working with files
+                Data: Dictionaries and (More) Lists
             </td>
             <td></td>
         </tr>

@@ -19,15 +19,14 @@ nav_exclude: True
    [Exam](https://docs.google.com/document/d/1ZYx3byxL62RAlT3zRqR3dDbidb8oYWugyAW6MrrXQcs/edit?usp=sharing) | [Solutions](https://docs.google.com/document/d/19kGkwrbi8CV9Xz7Nwtv8kEtPmyzZgUGLVYWoPN95p2A/edit?usp=sharing)
 
 ## I. Tuesday, February 12
-Data: Dictionaries and (More) Lists
-
+Data: Working with Files
 
 ### Slides
-TBD
+[Slides 10: Working with Files](https://docs.google.com/presentation/d/1855ZMkB8b4xfOr-C1-z6AUowbk4uURmkAbQr1KZcybI/edit?usp=sharing)
 
 
 ## II. Thursday, Feb 14
-Data: Working with Files
+Data: Dictionaries and (More) Lists
 
 ### Slides
 TBD

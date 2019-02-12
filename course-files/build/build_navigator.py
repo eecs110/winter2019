@@ -144,6 +144,7 @@ def fun(dir,rootdir, counter):
         'course-files/lectures/',
         'course-files/homework/',
         'course-files/tutorials/',
+        'course-files/projects/',
         'course-files/practice_exams/'
     ]
     is_root = header == 'course-files/'

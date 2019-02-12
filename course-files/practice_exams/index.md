@@ -43,7 +43,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="midterm.zip">midterm.zip</a>
             </td>
-            <td align="right">2/12/2019 1:12 PM</td>
+            <td align="right">2/12/2019 3:06 PM</td>
             <td>10.9KB</td>
             <td>
                 <!-- a href="midterm.zip"><i class="fas fa-download"></i></a -->

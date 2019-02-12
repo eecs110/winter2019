@@ -27,3 +27,4 @@ permalink: /course-files/slides/
 || Th, 01/31 | [Slides 08: User Input, Events, and Function Practice](https://docs.google.com/presentation/d/1BzO7AAL_wGEV4szcislUbWj6X-Iy82A69bETjixDF3Q/edit?usp=sharing) |
 | **Week 5** | Tu, 01/05 | [Slides 09: Exam Review](https://docs.google.com/presentation/d/1eicgDMpHIw6PtGOhbRxn_G42LobEbsTBEADQDCz56Dg/edit?usp=sharing) |
 || Th, 01/07 | Exam |
+| **Week 6** | Tu, 01/12 | [Slides 10: Files](https://docs.google.com/presentation/d/1855ZMkB8b4xfOr-C1-z6AUowbk4uURmkAbQr1KZcybI/edit?usp=sharing) |
