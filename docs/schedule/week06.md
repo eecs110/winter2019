@@ -10,8 +10,8 @@ nav_exclude: True
 # WEEK 6: Data
 
 ## Announcements
-1. Homework 3 due next Tuesday
-2. Project 1 due the following Thursday
+1. [Homework 3](https://docs.google.com/document/d/1ScjwiZfO5bA6R6wdHZ_MU07V-vGkPGx3j-udNibqa_k/edit?usp=sharing) due next Tuesday (2/19)
+2. [Project 1](course-files/projects/project_01/README) due the following Tuesday (2/26)
 3. [Syllabus](/syllabus/) modifications: 2 projects and 7 homeworks (dropping one of each):
    1. First 3 homeworks worth 10 points; last 4 homeworks worth 12.5
    2. Each of the two projects is worth 60 points
@@ -27,13 +27,11 @@ TBD
 
 
 ## II. Thursday, Feb 14
-Data: Working with Files and Web Services
+Data: Working with Files
 
 ### Slides
 TBD
 
 
 ## III. Tutorial
-TBD
-<!-- ## IV. Practice Problems
-[practice problems]() -->
+Practice with files and dictionaries

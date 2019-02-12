@@ -84,7 +84,7 @@ permalink: /
                 Conditional execution and while loops<br>
             </td>
             <td>
-                <a class="label label-green" target="_blank"  href="course-files/homework/hw01/README">Homework 1A</a>
+                <a class="label label-green" target="_blank"  href="course-files/homework/hw01/README">Homework 1A <i class="fas fa-link"></i></a>
             </td>
         </tr>
         <tr>
@@ -113,7 +113,7 @@ permalink: /
                 Iteration and Loop Algorithms<br>
             </td>
             <td>
-                <a class="label label-green" href="course-files/homework/hw01/README">Homework 1B</a>
+                <a class="label label-green" href="course-files/homework/hw01/README">Homework 1B <i class="fas fa-link"></i></a>
             </td>
         </tr>
         <tr>
@@ -140,7 +140,7 @@ permalink: /
                 Exam review
             </td>
             <td>
-                <a class="label label-green"  href="course-files/homework/hw02/README">Homework 2</a>
+                <a class="label label-green"  href="course-files/homework/hw02/README">Homework 2 <i class="fas fa-link"></i></a>
             </td>
         </tr>
         <tr>
@@ -173,7 +173,7 @@ permalink: /
             <td></td>
             <td>
                 <strong>Th Feb 14</strong><br>
-                Data: Working with Files and Web Services
+                Data: Working with files
             </td>
             <td></td>
         </tr>
@@ -193,7 +193,7 @@ permalink: /
                 Regular Expressions<br>
             </td>
             <td>
-                <span class="label label-default">Homework 3</span>
+                <a class="label label-green" href="https://docs.google.com/document/d/1ScjwiZfO5bA6R6wdHZ_MU07V-vGkPGx3j-udNibqa_k/edit?usp=sharing" target="_blank">Homework 3 <i class="fas fa-link"></i></a>
             </td>
         </tr>
         <tr>
@@ -221,7 +221,7 @@ permalink: /
                 Data Analytics: Part I
             </td>
             <td>
-                <span class="label label-purple">Project 1</span>
+                <a class="label label-purple" href="course-files/projects/project_01/">Project 1 <i class="fas fa-link"></i></a>
             </td>
         </tr>
         <tr>
