@@ -5,7 +5,7 @@ md_source = os.path.join(dir_path, 'samples/moby_dick.txt')
 md_destination = os.path.join(dir_path, 'samples/moby_dick_line_numbers.txt')
 
 source_file = open(md_source, 'r')
-destination_file = open(md_destination, 'w')
+destination_file = open(md_destination, 'w', encoding='utf8')
 
 linenum = 1
 for line in source_file:
