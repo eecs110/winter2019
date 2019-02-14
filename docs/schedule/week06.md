@@ -29,8 +29,8 @@ Data: Working with Files
 Data: Dictionaries and (More) Lists
 
 ### Slides
-TBD
+<!-- [Slides 11: Dictionaries and Data Representation]() -->
 
 
 ## III. Tutorial
-Practice with files and dictionaries
+[Practice with files and dictionaries](winter2019/course-files/tutorials/tutorial05/README)
