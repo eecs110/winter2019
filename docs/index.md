@@ -23,7 +23,7 @@ permalink: /
     </thead>
     <tbody>
         <!-- WEEK #1 -->
-        <tr>
+        <tr class="done">
             <td>
                 <a href="week-01">Week 1</a>
             </td>
@@ -33,7 +33,7 @@ permalink: /
             </td>
             <td></td>
         </tr>
-        <tr>
+        <tr class="done">
             <td></td>
             <td>
                 <strong>Th Jan 10</strong><br>
@@ -41,7 +41,7 @@ permalink: /
             </td>
             <td></td>
         </tr>
-        <tr>
+        <tr class="done">
             <td></td>
             <td>
                 <strong>Tutorial</strong><br>
@@ -50,7 +50,7 @@ permalink: /
             <td><a class="label label-default" target="_blank" href="https://docs.google.com/document/d/1D2Y6u2hZm2zdyLB9IRjrS-IKhDR1v65ZfgxYIVYc0Hk/edit?usp=sharing">Tutorial 1 <i class="fas fa-link"></i></a></td>
         </tr>
         <!-- WEEK #2 -->
-        <tr>
+        <tr class="done">
             <td><a href="week-02">Week 2</a></td>
             <td>
                 <strong>Tu Jan 15</strong><br>
@@ -58,7 +58,7 @@ permalink: /
             </td>
             <td></td>
         </tr>
-        <tr>
+        <tr class="done">
             <td></td>
             <td>
                 <strong>Th Jan 17</strong><br>
@@ -66,7 +66,7 @@ permalink: /
             </td>
             <td></td>
         </tr>
-        <tr>
+        <tr class="done">
             <td></td>
             <td>
                 <strong>Tutorial</strong><br>
@@ -77,7 +77,7 @@ permalink: /
             </td>
         </tr>
         <!-- WEEK #3 -->
-        <tr>
+        <tr class="done">
             <td><a href="week-03">Week 3</a></td>
             <td>
                 <strong>Tu Jan 22</strong><br>
@@ -87,7 +87,7 @@ permalink: /
                 <a class="label label-green" target="_blank"  href="course-files/homework/hw01/README">Homework 1A <i class="fas fa-link"></i></a>
             </td>
         </tr>
-        <tr>
+        <tr class="done">
             <td></td>
             <td>
                 <strong>Th Jan 24</strong><br>
@@ -95,7 +95,7 @@ permalink: /
             </td>
             <td></td>
         </tr>
-        <tr>
+        <tr class="done">
             <td></td>
             <td>
                 <strong>Tutorial</strong><br>
@@ -106,7 +106,7 @@ permalink: /
             </td>
         </tr>
         <!-- WEEK #4 -->
-        <tr>
+        <tr class="done">
             <td><a href="week-04">Week 4</a></td>
             <td>
                 <strong>Tu Jan 29</strong><br>
@@ -116,7 +116,7 @@ permalink: /
                 <a class="label label-green" href="course-files/homework/hw01/README">Homework 1B <i class="fas fa-link"></i></a>
             </td>
         </tr>
-        <tr>
+        <tr class="done">
             <td></td>
             <td>
                 <strong>Th Jan 31</strong><br>
@@ -124,7 +124,7 @@ permalink: /
             </td>
             <td></td>
         </tr>
-        <tr>
+        <tr class="done">
             <td></td>
             <td>
                 <strong>Tutorial</strong><br>
@@ -133,7 +133,7 @@ permalink: /
             <td><a class="label label-default" href="course-files/tutorials/tutorial04/README">Tutorial 4 <i class="fas fa-link"></i></a></td>
         </tr>
         <!-- WEEK #5 -->
-        <tr>
+        <tr class="done">
             <td><a href="week-05">Week 5</a></td>
             <td>
                 <strong>Tu Feb 5</strong><br>
@@ -143,7 +143,7 @@ permalink: /
                 <a class="label label-green"  href="course-files/homework/hw02/README">Homework 2 <i class="fas fa-link"></i></a>
             </td>
         </tr>
-        <tr>
+        <tr class="done">
             <td></td>
             <td>
                 <strong>Th Feb 7</strong><br>
@@ -151,7 +151,7 @@ permalink: /
             </td>
             <td></td>
         </tr>
-        <tr>
+        <tr class="done">
             <td></td>
             <td>
                 <strong>Tutorial</strong><br>

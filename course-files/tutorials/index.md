@@ -64,8 +64,8 @@ nav_exclude: False
             <td valign="top"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAd5JREFUeNqMU79rFUEQ/vbuodFEEkzAImBpkUabFP4ldpaJhZXYm/RiZWsv/hkWFglBUyTIgyAIIfgIRjHv3r39MePM7N3LcbxAFvZ2b2bn22/mm3XMjF+HL3YW7q28YSIw8mBKoBihhhgCsoORot9d3/ywg3YowMXwNde/PzGnk2vn6PitrT+/PGeNaecg4+qNY3D43vy16A5wDDd4Aqg/ngmrjl/GoN0U5V1QquHQG3q+TPDVhVwyBffcmQGJmSVfyZk7R3SngI4JKfwDJ2+05zIg8gbiereTZRHhJ5KCMOwDFLjhoBTn2g0ghagfKeIYJDPFyibJVBtTREwq60SpYvh5++PpwatHsxSm9QRLSQpEVSd7/TYJUb49TX7gztpjjEffnoVw66+Ytovs14Yp7HaKmUXeX9rKUoMoLNW3srqI5fWn8JejrVkK0QcrkFLOgS39yoKUQe292WJ1guUHG8K2o8K00oO1BTvXoW4yasclUTgZYJY9aFNfAThX5CZRmczAV52oAPoupHhWRIUUAOoyUIlYVaAa/VbLbyiZUiyFbjQFNwiZQSGl4IDy9sO5Wrty0QLKhdZPxmgGcDo8ejn+c/6eiK9poz15Kw7Dr/vN/z6W7q++091/AQYA5mZ8GYJ9K0AAAAAASUVORK5CYII= "
                 alt="[DIR]"></td>
             <td><a href="tutorial05">tutorial05</a></td>
-            <td align="right">2/13/2019 11:32 PM</td>
-            <td>288.0B</td>
+            <td align="right">2/14/2019 1:51 PM</td>
+            <td>320.0B</td>
             <td>&nbsp;</td>
         </tr>
         <tr class="click-to-preview">
@@ -75,7 +75,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="tutorial01.zip">tutorial01.zip</a>
             </td>
-            <td align="right">2/13/2019 11:41 PM</td>
+            <td align="right">2/14/2019 3:43 PM</td>
             <td>262.0B</td>
             <td>
                 <!-- a href="tutorial01.zip"><i class="fas fa-download"></i></a -->
@@ -88,7 +88,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="tutorial02.zip">tutorial02.zip</a>
             </td>
-            <td align="right">2/13/2019 11:41 PM</td>
+            <td align="right">2/14/2019 3:43 PM</td>
             <td>344.0B</td>
             <td>
                 <!-- a href="tutorial02.zip"><i class="fas fa-download"></i></a -->
@@ -101,7 +101,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="tutorial03.zip">tutorial03.zip</a>
             </td>
-            <td align="right">2/13/2019 11:41 PM</td>
+            <td align="right">2/14/2019 3:43 PM</td>
             <td>1.1KB</td>
             <td>
                 <!-- a href="tutorial03.zip"><i class="fas fa-download"></i></a -->
@@ -114,7 +114,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="tutorial04.zip">tutorial04.zip</a>
             </td>
-            <td align="right">2/13/2019 11:41 PM</td>
+            <td align="right">2/14/2019 3:43 PM</td>
             <td>6.6KB</td>
             <td>
                 <!-- a href="tutorial04.zip"><i class="fas fa-download"></i></a -->
@@ -127,7 +127,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="tutorial05.zip">tutorial05.zip</a>
             </td>
-            <td align="right">2/13/2019 11:41 PM</td>
+            <td align="right">2/14/2019 3:43 PM</td>
             <td>72.2KB</td>
             <td>
                 <!-- a href="tutorial05.zip"><i class="fas fa-download"></i></a -->

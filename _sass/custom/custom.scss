@@ -327,3 +327,18 @@ code, pre.highlight {
 .small-button {
     @include small-button() 
 }
+
+// .done {
+//     td, th {
+//         color: #AAA !important;
+//         .label {
+//             background: #F6F6F6 !important;
+//             color: #AAA !important;
+//         }
+//         a, .label {
+//             &:link, &:visited {
+//                 color: #AAA; 
+//             }
+//         }
+//     }
+// }

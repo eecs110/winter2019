@@ -29,7 +29,7 @@ Data: Working with Files
 Data: Dictionaries and (More) Lists
 
 ### Slides
-<!-- [Slides 11: Dictionaries and Data Representation]() -->
+[Slides 11: Dictionaries](https://docs.google.com/presentation/d/1zbopKbv4ewMo1vOXLY3r9MAG83l6x6CFfNSONpvTdXo/edit?usp=sharing)
 
 
 ## III. Tutorial
