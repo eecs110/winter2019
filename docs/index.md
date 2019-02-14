@@ -183,7 +183,7 @@ permalink: /
                 <strong>Tutorial</strong><br>
                 Practice working with structured data
             </td>
-            <td><span class="label label-default">Tutorial 5</span></td>
+            <td><a class="label label-default" href="course-files/tutorials/tutorial05/README">Tutorial 5 <i class="fas fa-link"></i></a></td>
         </tr>
         <!-- WEEK #7 -->
         <tr>
