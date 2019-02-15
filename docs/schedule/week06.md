@@ -33,4 +33,4 @@ Data: Dictionaries and (More) Lists
 
 
 ## III. Tutorial
-[Practice with files and dictionaries](winter2019/course-files/tutorials/tutorial05/README)
+[Practice with files and dictionaries](course-files/tutorials/tutorial05/README)
