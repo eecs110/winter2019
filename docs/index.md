@@ -187,20 +187,20 @@ permalink: /
         </tr>
         <!-- WEEK #7 -->
         <tr>
-            <td>Week 7</td>
+            <td><a href="week-07">Week 7</a></td>
             <td>
                 <strong>Tu Feb 19</strong><br>
-                Regular Expressions<br>
+                Logic and Binary<br>
             </td>
             <td>
-                <a class="label label-green" href="https://docs.google.com/document/d/1ScjwiZfO5bA6R6wdHZ_MU07V-vGkPGx3j-udNibqa_k/edit?usp=sharing" target="_blank">Homework 3 <i class="fas fa-link"></i></a>
+                <a class="label label-green" href="course-files/homework/hw_03/README">Homework 3 <i class="fas fa-link"></i></a>
             </td>
         </tr>
         <tr>
             <td></td>
             <td>
                 <strong>Th Feb 21</strong><br>
-                Programming patterns: traversing ("crawling") networked data
+                Working with Databases
             </td>
             <td>
             </td>
@@ -231,7 +231,6 @@ permalink: /
                 Data Analytics: Part II
             </td>
             <td>
-                <span class="label label-default">Homework 4</span>
             </td>
         </tr>
         <tr>
@@ -250,7 +249,7 @@ permalink: /
                 TBD: Special Topics<br>
             </td>
             <td>
-                <span class="label label-default">Homework 5</span>
+                <a class="label label-green" href="course-files/homework/hw_04/README">Homework 4 <i class="fas fa-link"></i></a>
             </td>
         </tr>
         <tr>
@@ -276,7 +275,7 @@ permalink: /
                 Exam Review<br>
             </td>
             <td>
-                <span class="label label-default">Homework 6</span>
+                <span class="label label-default">Homework 5</span>
             </td>
         </tr>
         <tr>
@@ -302,6 +301,7 @@ permalink: /
             </td>
             <td>
                 <span class="label label-purple">Project 2</span>
+                <span class="label label-default">Homework 6</span>
             </td>
         </tr>
     </tbody>

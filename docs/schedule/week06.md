@@ -10,7 +10,7 @@ nav_exclude: True
 # WEEK 6: Data
 
 ## Announcements
-1. [Homework 3](https://docs.google.com/document/d/1ScjwiZfO5bA6R6wdHZ_MU07V-vGkPGx3j-udNibqa_k/edit?usp=sharing) due next Tuesday (2/19)
+1. [Homework 3](course-files/homework/hw03/README) due next Tuesday (2/19)
 2. [Project 1](course-files/projects/project_01/README) due the following Tuesday (2/26)
 3. [Syllabus](/syllabus/) modifications: 2 projects and 7 homeworks (dropping one of each):
    1. First 3 homeworks worth 10 points; last 4 homeworks worth 12.5
@@ -34,3 +34,9 @@ Data: Dictionaries and (More) Lists
 
 ## III. Tutorial
 [Practice with files and dictionaries](course-files/tutorials/tutorial05/README)
+
+## Readings and Resources
+1. Python for Everyone: Files<br>
+[videos](https://www.py4e.com/lessons/files) | [textbook](https://www.py4e.com/html3/07-files)
+2. Python for Everyone: Dictionaries<br>
+[videos](https://www.py4e.com/lessons/dictionary) | [textbook](https://www.py4e.com/html3/09-dictionaries)
