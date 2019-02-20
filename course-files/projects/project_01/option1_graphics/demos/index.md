@@ -136,6 +136,36 @@ nav_exclude: True
                 <i class="fab fa-lg fa-python"></i>
             </td>
             <td nowrap>
+                    <a href="demo8_just_move_one_keyboard.py">demo8_just_move_one_keyboard.py</a>
+            </td>
+            <td align="right">2/19/2019 7:09 PM</td>
+            <td>2.4KB</td>
+            <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/projects/project_01/option1_graphics/demos/demo8_just_move_one_keyboard.py" 
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
+                <!-- a href="demo8_just_move_one_keyboard.py"><i class="fas fa-download"></i></a -->
+            </td>
+        </tr>
+        <tr class="click-to-preview">
+            <td>
+                <i class="fab fa-lg fa-python"></i>
+            </td>
+            <td nowrap>
+                    <a href="demo9_just_drag_one.py">demo9_just_drag_one.py</a>
+            </td>
+            <td align="right">2/19/2019 7:38 PM</td>
+            <td>2.7KB</td>
+            <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/projects/project_01/option1_graphics/demos/demo9_just_drag_one.py" 
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
+                <!-- a href="demo9_just_drag_one.py"><i class="fas fa-download"></i></a -->
+            </td>
+        </tr>
+        <tr class="click-to-preview">
+            <td>
+                <i class="fab fa-lg fa-python"></i>
+            </td>
+            <td nowrap>
                     <a href="helpers.py">helpers.py</a>
             </td>
             <td align="right">2/9/2019 4:59 PM</td>

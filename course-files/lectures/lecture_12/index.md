@@ -71,7 +71,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="04_and.py">04_and.py</a>
             </td>
-            <td align="right">2/19/2019 3:05 PM</td>
+            <td align="right">2/19/2019 7:09 PM</td>
             <td>128.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_12/04_and.py" 
