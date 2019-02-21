@@ -209,9 +209,9 @@ permalink: /
             <td></td>
             <td>
                 <strong>Tutorial</strong><br>
-                Practice: Parsing links, traversing them, and tracking visited sites
+                Practice with databases
             </td>
-            <td><span class="label label-default">Tutorial 6</span></td>
+            <td><a class="label label-default" href="course-files/tutorials/tutorial06/README">Tutorial 6 <i class="fas fa-link"></i></a></td>
         </tr>
         <!-- WEEK #8 -->
         <tr>
@@ -249,7 +249,7 @@ permalink: /
                 TBD: Special Topics<br>
             </td>
             <td>
-                <a class="label label-green" href="course-files/homework/hw_04/README">Homework 4 <i class="fas fa-link"></i></a>
+                <a class="label label-green" href="course-files/homework/hw04/README">Homework 4 <i class="fas fa-link"></i></a>
             </td>
         </tr>
         <tr>

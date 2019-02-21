@@ -31,7 +31,7 @@ TBD
 
 ## III. Tutorial
 Practice with databases
-<!-- [Practice with databases](course-files/tutorials/tutorial06/README) -->
+[Practice with databases](course-files/tutorials/tutorial06/README)
 
 ## Readings and Resources
 1. [*args and **kwargs](http://book.pythontips.com/en/latest/args_and_kwargs.html)
