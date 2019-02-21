@@ -30,4 +30,4 @@ permalink: /course-files/slides/
 | **Week 6** | Tu, 01/12 | [Slides 10: Files](https://docs.google.com/presentation/d/1855ZMkB8b4xfOr-C1-z6AUowbk4uURmkAbQr1KZcybI/edit?usp=sharing) |
 || Th, 01/14 | [Slides 11: Dictionaries](https://docs.google.com/presentation/d/1zbopKbv4ewMo1vOXLY3r9MAG83l6x6CFfNSONpvTdXo/edit?usp=sharing) |
 | **Week 7** | Tu, 01/19 | [Slides 12: Hodgepodge](https://docs.google.com/presentation/d/1Md468xUci_34QSjEb1Sq0abGmtCYPSN-uMKdFiJxydI/edit?usp=sharing)] |
-|| Th, 01/21 | Slides 13: SQL |
+|| Th, 01/21 | [Slides 13: Intro to Databases](https://docs.google.com/presentation/d/1xoGO-Pjkqn6E7WJFfE3KWYbD3ijF9cz3tRKQnA6EdKA/edit?usp=sharing) |

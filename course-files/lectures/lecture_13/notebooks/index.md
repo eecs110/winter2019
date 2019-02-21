@@ -33,8 +33,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="01_querying_notebook.ipynb">01_querying_notebook.ipynb</a>
             </td>
-            <td align="right">2/20/2019 10:11 PM</td>
-            <td>21.3KB</td>
+            <td align="right">2/21/2019 2:47 PM</td>
+            <td>23.1KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_13/notebooks/01_querying_notebook.ipynb" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>

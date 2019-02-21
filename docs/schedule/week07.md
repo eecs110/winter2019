@@ -25,9 +25,7 @@ Logic and Binary, Reading Technical Documentation, Error Handling
 Working with Databases
 
 ### Slides
-TBD
-<!-- [Slides 12: Working with Databases](#) -->
-
+[Slides 13: Intro to Databases](https://docs.google.com/presentation/d/1xoGO-Pjkqn6E7WJFfE3KWYbD3ijF9cz3tRKQnA6EdKA/edit?usp=sharing)
 
 ## III. Tutorial
 Practice with databases
