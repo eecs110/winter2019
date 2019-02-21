@@ -209,7 +209,7 @@ permalink: /
             <td></td>
             <td>
                 <strong>Tutorial</strong><br>
-                Practice with databases
+                Practice: working with SQL and SQLite
             </td>
             <td><a class="label label-default" href="course-files/tutorials/tutorial06/README">Tutorial 6 <i class="fas fa-link"></i></a></td>
         </tr>
@@ -237,7 +237,7 @@ permalink: /
             <td></td>
             <td>
                 <strong>Tutorial</strong><br>
-                Interfaces for interpreting data
+                Practice: Parsing links, traversing them, and tracking visited sites
             </td>
             <td><span class="label label-default">Tutorial 7</span></td>
         </tr>
@@ -264,6 +264,7 @@ permalink: /
             <td></td>
             <td>
                 <strong>Tutorial</strong><br>
+                Practice: Creating interactive data interfaces
             </td>
             <td><span class="label label-default">Tutorial 8</span></td>
         </tr>
@@ -290,8 +291,9 @@ permalink: /
             <td></td>
             <td>
                 <strong>Tutorial</strong><br>
+                No tutorial this week!
             </td>
-            <td><span class="label label-default">Tutorial 9</span></td>
+            <td></td>
         </tr>
         <!-- FINALS WEEK -->
         <tr>
