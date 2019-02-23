@@ -2,7 +2,7 @@
 layout: default
 title: Homework
 parent: Course Files
-nav_order: 3
+nav_order: 2
 nav_exclude: False
 ---
 

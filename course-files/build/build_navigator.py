@@ -123,7 +123,8 @@ def get_metadata(dir, filenames):
     return metadata
 
 def fun(dir,rootdir, counter):
-    print('Processing: ', dir)
+    print('Processing: ', dir, dir.split('/')[-2])
+    parent_dir = dir.split('/')[-2]
 
     filenames = [fname for fname in sorted(os.listdir(dir))
               if fname not in EXCLUDED and os.path.isfile(dir+fname)]
@@ -163,7 +164,8 @@ def fun(dir,rootdir, counter):
         'num': counter,
         'title': title,
         'exclude': do_exclude,
-        'is_root': is_root
+        'is_root': is_root,
+        'parent_dir': parent_dir
     }
     print(Template(INDEX_TEMPLATE).render(**kwargs), file=f)
     f.close()
