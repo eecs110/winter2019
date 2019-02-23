@@ -59,8 +59,23 @@ $purple-900: #dbd3e6;
 $purple-1000: #ede9f2;
 $python: #22b8cf;
 
-.fa-python {
-    color: $python;
+table {
+    .first-column {
+        text-align: center;
+    }
+    .fa, .far, .fas, .fab {
+        color: #999;
+        font-size: 24px;
+        &.fa-database {
+            color: #CCC;
+        }
+        &.fa-python {
+            color: $python;
+        }
+        &.fa-github {
+            color: #444;
+        }
+    }
 }
 .icon-jupyter {
     width: 35px;
