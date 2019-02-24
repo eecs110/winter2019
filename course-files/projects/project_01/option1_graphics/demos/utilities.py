@@ -43,6 +43,77 @@ def make_oval(canvas, center, radius_x, radius_y, color='#FF4136', tag=None, str
         outline=outline
     )
 
+def make_poly_circle(canvas, center, radius, color='#FF4136', tag=None, stroke_width=1, outline=None):
+    make_poly_oval(
+        canvas, 
+        center, 
+        radius, 
+        radius, 
+        color=color, 
+        tag=tag, 
+        stroke_width=stroke_width, 
+        outline=outline)
+
+def make_poly_oval(canvas, center, radius_x, radius_y, color='#FF4136', tag=None, stroke_width=1, outline=None):
+    x, y = center
+    x0, y0, x1, y1 = (x - radius_x, y - radius_y, x + radius_x, y + radius_y)
+
+    steps = 100
+    # major and minor axes
+    a = (x1 - x0) / 2.0
+    b = (y1 - y0) / 2.0
+
+    # center
+    xc = x0 + a
+    yc = y0 + b
+
+    point_list = []
+
+    # create the oval as a list of points
+    for i in range(steps):
+        # Calculate the angle for this step
+        theta = (math.pi * 2) * (float(i) / steps)
+
+        x = a * math.cos(theta)
+        y = b * math.sin(theta)
+
+        point_list.append(round(x + xc))
+        point_list.append(round(y + yc))
+
+    return canvas.create_polygon(
+        point_list,
+        fill=color,
+        width=stroke_width,
+        tags=tag,
+        outline=outline,
+        smooth=True
+    )
+
+def rotate(canvas, tag, degrees=5, origin=None):
+    if origin is None:
+        # calculate reasonable origin
+        top = get_top(canvas, tag)
+        bottom = get_bottom(canvas, tag)
+        left = get_left(canvas, tag)
+        right = get_right(canvas, tag)
+        origin = (right - left, bottom - top)
+    
+    degrees = math.radians(degrees)
+    ox, oy = origin
+        
+    shape_ids = canvas.find_withtag(tag)
+    for id in shape_ids:
+        coords = _get_coordinates(canvas, id)
+        # update coordinates:
+        for i in range(0, len(coords), 2):
+            px, py = coords[i], coords[i+1]
+            qx = ox + math.cos(degrees) * (px - ox) - math.sin(degrees) * (py - oy)
+            qy = oy + math.sin(degrees) * (px - ox) + math.cos(degrees) * (py - oy)
+            coords[i] = qx
+            coords[i+1] = qy
+        # set the coordinates:
+        _set_coordinates(canvas, id, coords)
+
 def make_rectangle(canvas, top_left, width, height, color="#3D9970", tag=None):
     x, y = top_left
     return canvas.create_rectangle(
@@ -52,11 +123,12 @@ def make_rectangle(canvas, top_left, width, height, color="#3D9970", tag=None):
         tags=tag
     )
 
-def make_line(canvas, coordinates, curvy=False, width=2):
+def make_line(canvas, coordinates, curvy=False, width=2, tag=None):
     canvas.create_line(
         coordinates, 
         width=width, 
-        smooth=curvy)
+        smooth=curvy,
+        tag=tag)
     
 def _get_coordinates_by_dimension(canvas, tag, dimension='x'):
     '''

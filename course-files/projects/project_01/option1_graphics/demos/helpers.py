@@ -7,12 +7,12 @@ def make_creature(canvas, center, size=100, tag='creature', fill='hotpink'):
     eye_width = eye_height = size / 10
     utilities.make_circle(canvas, center, size, color=fill, tag=tag)
     utilities.make_oval(canvas, left_eye_pos, eye_width, eye_height, color='black', tag=tag)
-    utilities.make_oval(canvas, right_eye_pos, eye_width ,eye_height, color='black', tag=tag)
+    utilities.make_oval(canvas, right_eye_pos, eye_width, eye_height, color='black', tag=tag)
     utilities.make_line(canvas, [
         (center[0] - size / 2, center[1] + size / 3), 
         (center[0], center[1] + size / 1.2), 
         (center[0] + size / 2, center[1] + size / 3)
-    ], curvy=True)
+    ], curvy=True, tag=tag)
     
 
 def make_landscape_object(canvas, position, size=100):
