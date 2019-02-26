@@ -12,7 +12,7 @@ nav_exclude: True
 ## Announcements
 2. [Project 1](course-files/projects/project_01/README) due Tonight (2/26)
 3. [Homework 4](course-files/homework/hw04/README) due next Tuesday (3/5)
-3. [Homework 4](course-files/homework/hw05/README) due in 2 weeks Tuesday (3/12)
+3. Homework 5 (Search Engines) due in 2 weeks Tuesday (3/12)
 
 ## I. Tuesday, February 26
 Parsing HTML files: Search Engines, Wikipedia, and Beautiful Soup
