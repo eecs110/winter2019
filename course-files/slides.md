@@ -31,5 +31,5 @@ permalink: /course-files/slides/
 || Th, 02/14 | [Slides 11: Dictionaries](https://docs.google.com/presentation/d/1zbopKbv4ewMo1vOXLY3r9MAG83l6x6CFfNSONpvTdXo/edit?usp=sharing) |
 | **Week 7** | Tu, 02/19 | [Slides 12: Hodgepodge](https://docs.google.com/presentation/d/1Md468xUci_34QSjEb1Sq0abGmtCYPSN-uMKdFiJxydI/edit?usp=sharing) |
 || Th, 02/21 | [Slides 13: Intro to Databases](https://docs.google.com/presentation/d/1xoGO-Pjkqn6E7WJFfE3KWYbD3ijF9cz3tRKQnA6EdKA/edit?usp=sharing) |
-| **Week 8** | Tu, 02/26 | [Slides 14: Web Scraping](#) |
+| **Week 8** | Tu, 02/26 | [Slides 14: Constructing Data from Messiness](https://docs.google.com/presentation/d/1bw8j00ZkTtHGTmgu7S82AGYsgzKvy9Twldyslt1MSJs/edit?usp=sharing) |
 || Th, 02/28 | Slides 15: Working with Live Data |

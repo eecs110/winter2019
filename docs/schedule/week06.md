@@ -7,7 +7,7 @@ permalink: /week-06
 nav_exclude: True
 ---
 
-# WEEK 6: Data
+# WEEK 6: Files and Dictionaries
 
 ## Announcements
 1. [Homework 3](course-files/homework/hw03/README) due next Tuesday (2/19)

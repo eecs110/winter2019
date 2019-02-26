@@ -32,10 +32,25 @@ nav_exclude: True
                     <i class="fab fa-lg fa-python"></i>
             </td>
             <td nowrap>
+                    <a href="demo10_rotate.py">demo10_rotate.py</a>
+            </td>
+            <td align="right">2/24/2019 5:16 PM</td>
+            <td>1.1KB</td>
+            <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/projects/project_01/option1_graphics/demos/demo10_rotate.py" 
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
+                <!-- a href="demo10_rotate.py"><i class="fas fa-download"></i></a -->
+            </td>
+        </tr>
+        <tr class="click-to-preview">
+            <td class="first-column">
+                    <i class="fab fa-lg fa-python"></i>
+            </td>
+            <td nowrap>
                     <a href="demo1_images.py">demo1_images.py</a>
             </td>
-            <td align="right">2/15/2019 10:09 AM</td>
-            <td>1.1KB</td>
+            <td align="right">2/26/2019 6:31 AM</td>
+            <td>1.2KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/projects/project_01/option1_graphics/demos/demo1_images.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
@@ -169,8 +184,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="helpers.py">helpers.py</a>
             </td>
-            <td align="right">2/9/2019 4:59 PM</td>
-            <td>1023.0B</td>
+            <td align="right">2/24/2019 5:12 PM</td>
+            <td>1.0KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/projects/project_01/option1_graphics/demos/helpers.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
@@ -184,8 +199,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="utilities.py">utilities.py</a>
             </td>
-            <td align="right">2/9/2019 4:58 PM</td>
-            <td>5.4KB</td>
+            <td align="right">2/24/2019 5:15 PM</td>
+            <td>7.5KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/projects/project_01/option1_graphics/demos/utilities.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>

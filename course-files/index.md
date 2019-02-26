@@ -34,7 +34,7 @@ nav_exclude: False
                 <i class="fa fa-folder"></i>
             </td>
             <td><a href="homework">homework</a></td>
-            <td align="right">2/17/2019 4:02 PM</td>
+            <td align="right">2/26/2019 3:27 PM</td>
             <td>416.0B</td>
             <td>&nbsp;</td>
         </tr>
@@ -43,8 +43,8 @@ nav_exclude: False
                 <i class="fa fa-folder"></i>
             </td>
             <td><a href="lectures">lectures</a></td>
-            <td align="right">2/21/2019 12:18 PM</td>
-            <td>928.0B</td>
+            <td align="right">2/26/2019 3:27 PM</td>
+            <td>992.0B</td>
             <td>&nbsp;</td>
         </tr>
         <tr>
@@ -83,8 +83,8 @@ nav_exclude: False
                         Slides
                     </a>
             </td>
-            <td align="right">2/23/2019 10:46 AM</td>
-            <td>2.7KB</td>
+            <td align="right">2/26/2019 3:24 PM</td>
+            <td>2.8KB</td>
             <td>
                 <!-- a href="slides.md"><i class="fas fa-download"></i></a -->
             </td>

@@ -215,10 +215,10 @@ permalink: /
         </tr>
         <!-- WEEK #8 -->
         <tr>
-            <td>Week 8</td>
+            <td><a href="week-08">Week 8</a></td>
             <td>
                 <strong>Tu Feb 26</strong><br>
-                Data Analytics: Part I
+                Parsing HTML files: Search Engines, Wikipedia, and Beautiful Soup
             </td>
             <td>
                 <a class="label label-purple" href="course-files/projects/project_01/">Project 1 <i class="fas fa-link"></i></a>

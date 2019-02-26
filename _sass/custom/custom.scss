@@ -235,9 +235,14 @@ code, pre.highlight {
         }
     }
 
+    hr {
+        display: none;
+    }
     .text-delta {
+        display: none;
         font-size: 1.0em !important;
         +ul {
+            display: none;
             li {
                 font-family: $body-font-family;
                 line-height: 1.3em;
