@@ -30,7 +30,7 @@ Working with "Live" Data Feeds and REST APIs
 
 ## III. Tutorial
 Practice writing a web crawler
-[Practice with databases](course-files/tutorials/tutorial08/README)
+[Practice with databases](course-files/tutorials/tutorial07/README)
 
 ## Readings and Resources
 1. Beautiful Soup
