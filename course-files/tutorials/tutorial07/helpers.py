@@ -101,6 +101,8 @@ def extract_links_from_webpage(soup, base_url):
             url = clean_url(url, base_url)
             if url is not None:
                 page_urls.append(url)
+    # make unique:
+    page_urls = list(set(page_urls))
     return page_urls
 
 
