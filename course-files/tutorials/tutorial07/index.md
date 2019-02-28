@@ -32,9 +32,24 @@ nav_exclude: True
                 <i class="fa fa-folder"></i>
             </td>
             <td><a href="results">results</a></td>
-            <td align="right">2/28/2019 1:02 PM</td>
-            <td>96.0B</td>
+            <td align="right">2/28/2019 2:23 PM</td>
+            <td>128.0B</td>
             <td>&nbsp;</td>
+        </tr>
+        <tr class="click-to-preview">
+            <td class="first-column">
+                    <i class="far fa-file"></i>
+            </td>
+            <td nowrap>
+                    <a href="README">
+                        Readme
+                    </a>
+            </td>
+            <td align="right">2/28/2019 2:31 PM</td>
+            <td>217.0B</td>
+            <td>
+                <!-- a href="README.md"><i class="fas fa-download"></i></a -->
+            </td>
         </tr>
         <tr class="click-to-preview">
             <td class="first-column">
@@ -43,8 +58,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="crawler.py">crawler.py</a>
             </td>
-            <td align="right">2/28/2019 1:02 PM</td>
-            <td>897.0B</td>
+            <td align="right">2/28/2019 2:23 PM</td>
+            <td>907.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/tutorials/tutorial07/crawler.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
@@ -58,7 +73,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="helpers.py">helpers.py</a>
             </td>
-            <td align="right">2/28/2019 1:01 PM</td>
+            <td align="right">2/28/2019 2:28 PM</td>
             <td>3.5KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/tutorials/tutorial07/helpers.py" 
@@ -73,8 +88,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="starter.py">starter.py</a>
             </td>
-            <td align="right">2/28/2019 1:01 PM</td>
-            <td>497.0B</td>
+            <td align="right">2/28/2019 2:23 PM</td>
+            <td>507.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/tutorials/tutorial07/starter.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>

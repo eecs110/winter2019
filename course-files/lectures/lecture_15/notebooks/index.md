@@ -1,14 +1,12 @@
 ---
 layout: default
-title: Projects
-parent: Course Files
-nav_order: 5
-nav_exclude: False
+title: Notebooks
+nav_exclude: True
 ---
 
-# Projects
+# Notebooks
 
-[course-files/projects/](.)
+[course-files/lectures/lecture_15/notebooks/](.)
 
 <table class="tbl-files">
     <tbody>
@@ -29,26 +27,19 @@ nav_exclude: False
             <td>&nbsp;</td>
         </tr>
 
-        <tr>
-            <td valign="top">
-                <i class="fa fa-folder"></i>
-            </td>
-            <td><a href="project_01">project_01</a></td>
-            <td align="right">2/14/2019 5:15 PM</td>
-            <td>224.0B</td>
-            <td>&nbsp;</td>
-        </tr>
         <tr class="click-to-preview">
             <td class="first-column">
-                    <i class="far fa-file-archive"></i>
+                    <img class="icon-jupyter" src="{{ site.baseurl }}/assets/images/jupyter-icon.png" />
             </td>
             <td nowrap>
-                    <a href="project_01.zip">project_01.zip</a>
+                    <a href="spotify_notebook.ipynb">spotify_notebook.ipynb</a>
             </td>
-            <td align="right">2/28/2019 3:00 PM</td>
-            <td>23.8MB</td>
+            <td align="right">2/28/2019 2:17 PM</td>
+            <td>13.1KB</td>
             <td>
-                <!-- a href="project_01.zip"><i class="fas fa-download"></i></a -->
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_15/notebooks/spotify_notebook.ipynb" 
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
+                <!-- a href="spotify_notebook.ipynb"><i class="fas fa-download"></i></a -->
             </td>
         </tr>
     </tbody>

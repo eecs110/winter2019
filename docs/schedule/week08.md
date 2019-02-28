@@ -21,17 +21,16 @@ Parsing HTML files: Search Engines, Wikipedia, and Beautiful Soup
 [Slides 14: Constructing Data from Messiness](https://docs.google.com/presentation/d/1bw8j00ZkTtHGTmgu7S82AGYsgzKvy9Twldyslt1MSJs/edit?usp=sharing)
 
 ## II. Thursday, Feb 28
-Working with "Live" Data Feeds
-* CTA Transit
-* Divvy Bikes
+Working with "Live" Data Feeds and REST APIs
+* Spotify
 * Yelp
 
 ### Slides
-[Slides 14: Intro to Web APIs](#)
+[Slides 15: Intro to Web APIs](https://docs.google.com/presentation/d/10h7tzw_RYNAtjBM8kOyYMr5nPYlTNF5-BmknCQBBmUI/edit?usp=sharing)
 
 ## III. Tutorial
-Practice parsing structured and unstructured data
-[Practice with databases](course-files/tutorials/tutorial07/README)
+Practice writing a web crawler
+[Practice with databases](course-files/tutorials/tutorial08/README)
 
 ## Readings and Resources
 1. Beautiful Soup

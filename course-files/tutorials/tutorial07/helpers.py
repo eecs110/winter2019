@@ -10,7 +10,7 @@ def get_webpage(url):
     except:
         return None
 
-def get_website_summary(soup):
+def extract_website_summary_from_webpage(soup):
     body = soup.find('main')
     if body is None:
         try:
@@ -113,15 +113,17 @@ def get_file_path(path, subdirectory=None):
     else:
         return os.path.join(dir_path, path)
 
-def log_pagerank_to_file(page_rank):
-    # create a few files to track the links you 
+
+def write_pagerank_to_file(page_rank):
+    # takes a dictionary as an argument
     pagerank_path = get_file_path('pagerank.txt', subdirectory='results')
     pagerank_file = open(pagerank_path, 'w')
     for key in sorted(page_rank, key=page_rank.get, reverse=True):
         pagerank_file.write(str(page_rank[key]) + ': ' + key + '\n')
     pagerank_file.close()
     
-def log_links_to_crawl_to_file(urls):
+def write_links_to_file(urls):
+    # takes a list of URLs as an argument
     logfile_path = get_file_path('links_to_crawl.txt', subdirectory='results')
     i = 1
     logger = open(logfile_path, 'w')

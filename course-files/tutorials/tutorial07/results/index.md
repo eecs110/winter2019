@@ -34,8 +34,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="links_to_crawl.txt">links_to_crawl.txt</a>
             </td>
-            <td align="right">2/28/2019 1:02 PM</td>
-            <td>8.2KB</td>
+            <td align="right">2/28/2019 2:23 PM</td>
+            <td>8.4KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/tutorials/tutorial07/results/links_to_crawl.txt" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
