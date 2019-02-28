@@ -1,4 +1,8 @@
-# Documentation: https://github.com/gfairchild/yelpapi/blob/master/examples/examples.py
+# Documentation: 
+# * https://github.com/gfairchild/yelpapi
+# * https://github.com/gfairchild/yelpapi/blob/master/examples/examples.py
+# pip install yelpapi
+
 from yelpapi import YelpAPI
 from urllib.request import urlopen
 import helpers
