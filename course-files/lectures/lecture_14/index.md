@@ -32,8 +32,8 @@ nav_exclude: True
                 <i class="fa fa-folder"></i>
             </td>
             <td><a href="web_crawler">web_crawler</a></td>
-            <td align="right">2/26/2019 2:06 PM</td>
-            <td>352.0B</td>
+            <td align="right">2/26/2019 3:27 PM</td>
+            <td>384.0B</td>
             <td>&nbsp;</td>
         </tr>
         <tr>
@@ -41,8 +41,8 @@ nav_exclude: True
                 <i class="fa fa-folder"></i>
             </td>
             <td><a href="wikipedia">wikipedia</a></td>
-            <td align="right">2/26/2019 11:16 AM</td>
-            <td>320.0B</td>
+            <td align="right">2/28/2019 1:04 PM</td>
+            <td>352.0B</td>
             <td>&nbsp;</td>
         </tr>
     </tbody>

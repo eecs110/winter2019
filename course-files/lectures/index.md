@@ -146,6 +146,15 @@ nav_exclude: False
             <td>192.0B</td>
             <td>&nbsp;</td>
         </tr>
+        <tr>
+            <td valign="top">
+                <i class="fa fa-folder"></i>
+            </td>
+            <td><a href="lecture_15">lecture_15</a></td>
+            <td align="right">2/28/2019 9:49 AM</td>
+            <td>320.0B</td>
+            <td>&nbsp;</td>
+        </tr>
         <tr class="click-to-preview">
             <td class="first-column">
                     <i class="far fa-file-archive"></i>

@@ -49,7 +49,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="02_wikipedia_list_page_sections.py">02_wikipedia_list_page_sections.py</a>
             </td>
-            <td align="right">2/26/2019 8:38 AM</td>
+            <td align="right">2/28/2019 1:04 PM</td>
             <td>272.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_14/wikipedia/02_wikipedia_list_page_sections.py" 
@@ -64,7 +64,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="03_wikipedia_get_section.py">03_wikipedia_get_section.py</a>
             </td>
-            <td align="right">2/26/2019 8:49 AM</td>
+            <td align="right">2/28/2019 1:03 PM</td>
             <td>711.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_14/wikipedia/03_wikipedia_get_section.py" 
