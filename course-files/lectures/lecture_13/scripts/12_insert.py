@@ -16,10 +16,12 @@ active (TEXT)
 
 conn = sqlite3.connect(helpers.get_file_path('../databases/flights.db'))
 cur = conn.cursor()
-cur.execute('''
-   INSERT INTO airlines(name, alias, iata, icao, callsign, country, active)
-   VALUES('EECS110', 'Intro to Computer Programming', '', '', '', 'USA', 'Y')
-''')
+cur.execute(
+    ''' INSERT INTO airlines(name, alias, iata, icao, callsign, country, active)
+        VALUES(?, ?, ?, ?, ?, ?, ?)
+    ''',
+    ('EECS110', 'Intro to Computer Programming', '', '', '', 'USA', 'Y')
+)
 conn.commit() # don't forget to save!
 
 

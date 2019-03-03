@@ -16,12 +16,13 @@ active (TEXT)
 
 conn = sqlite3.connect(helpers.get_file_path('../databases/flights.db'))
 cur = conn.cursor()
-cur.execute('''
-   UPDATE airlines
-        SET id = 999,
-            country = 'United States'
-        WHERE name = 'EECS110';
-''')
+cur.execute(
+    ''' UPDATE airlines
+        SET id = ?, country = ?
+        WHERE name = ?;
+    ''', 
+    (999, 'EECS110', 'EECS110')
+)
 conn.commit() # don't forget to save!
 
 

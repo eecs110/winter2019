@@ -6,3 +6,4 @@ solutions
 exams
 .ipynb_checkpoints
 __pycache__
+Gemfile.lock

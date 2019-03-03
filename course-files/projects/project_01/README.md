@@ -13,3 +13,6 @@ Pick *ONE* of the following options for project 1, which is worth 60 points.
 ## Due
 * Get as much as you can done for homework 3<br>**Due Tu, Feb 19 at 11:59PM**
 * Entire project<br>**Due Tu, Feb 26 at 11:59PM**. Late penaly of 20% for projects that are 48 hours late. No projects will be accepted after that.
+
+## Project Showcase
+What a fantastic set of submissions. Take a look at your [collective excellence](https://photos.app.goo.gl/cFWF13ARLgm74mVP6). Well done, everyone.
