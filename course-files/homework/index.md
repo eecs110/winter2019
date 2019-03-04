@@ -65,6 +65,15 @@ nav_exclude: False
             <td>192.0B</td>
             <td>&nbsp;</td>
         </tr>
+        <tr>
+            <td valign="top">
+                <i class="fa fa-folder"></i>
+            </td>
+            <td><a href="hw05">hw05</a></td>
+            <td align="right">3/3/2019 7:06 PM</td>
+            <td>256.0B</td>
+            <td>&nbsp;</td>
+        </tr>
         <tr class="click-to-preview">
             <td class="first-column">
                     <i class="far fa-file-archive"></i>
@@ -72,7 +81,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="hw01.zip">hw01.zip</a>
             </td>
-            <td align="right">2/28/2019 3:17 PM</td>
+            <td align="right">3/3/2019 7:07 PM</td>
             <td>23.8MB</td>
             <td>
                 <!-- a href="hw01.zip"><i class="fas fa-download"></i></a -->
@@ -85,7 +94,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="hw02.zip">hw02.zip</a>
             </td>
-            <td align="right">2/28/2019 3:17 PM</td>
+            <td align="right">3/3/2019 7:07 PM</td>
             <td>4.0KB</td>
             <td>
                 <!-- a href="hw02.zip"><i class="fas fa-download"></i></a -->
@@ -98,7 +107,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="hw03.zip">hw03.zip</a>
             </td>
-            <td align="right">2/28/2019 3:17 PM</td>
+            <td align="right">3/3/2019 7:07 PM</td>
             <td>285.0B</td>
             <td>
                 <!-- a href="hw03.zip"><i class="fas fa-download"></i></a -->
@@ -111,10 +120,23 @@ nav_exclude: False
             <td nowrap>
                     <a href="hw04.zip">hw04.zip</a>
             </td>
-            <td align="right">2/28/2019 3:17 PM</td>
+            <td align="right">3/3/2019 7:07 PM</td>
             <td>793.0B</td>
             <td>
                 <!-- a href="hw04.zip"><i class="fas fa-download"></i></a -->
+            </td>
+        </tr>
+        <tr class="click-to-preview">
+            <td class="first-column">
+                    <i class="far fa-file-archive"></i>
+            </td>
+            <td nowrap>
+                    <a href="hw05.zip">hw05.zip</a>
+            </td>
+            <td align="right">3/3/2019 7:07 PM</td>
+            <td>4.1KB</td>
+            <td>
+                <!-- a href="hw05.zip"><i class="fas fa-download"></i></a -->
             </td>
         </tr>
     </tbody>

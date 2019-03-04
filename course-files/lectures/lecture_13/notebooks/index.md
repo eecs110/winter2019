@@ -49,8 +49,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="02_creating_updating_deleting_data.ipynb">02_creating_updating_deleting_data.ipynb</a>
             </td>
-            <td align="right">2/21/2019 6:55 PM</td>
-            <td>15.0KB</td>
+            <td align="right">3/2/2019 7:06 PM</td>
+            <td>16.1KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_13/notebooks/02_creating_updating_deleting_data.ipynb" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>

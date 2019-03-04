@@ -54,6 +54,15 @@ nav_exclude: True
             <td>160.0B</td>
             <td>&nbsp;</td>
         </tr>
+        <tr>
+            <td valign="top">
+                <i class="fa fa-folder"></i>
+            </td>
+            <td><a href="results">results</a></td>
+            <td align="right">3/3/2019 10:46 AM</td>
+            <td>96.0B</td>
+            <td>&nbsp;</td>
+        </tr>
         <tr class="click-to-preview">
             <td class="first-column">
                     <i class="fab fa-lg fa-python"></i>
@@ -61,8 +70,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="01_spotify.py">01_spotify.py</a>
             </td>
-            <td align="right">2/28/2019 2:06 PM</td>
-            <td>473.0B</td>
+            <td align="right">2/28/2019 4:17 PM</td>
+            <td>468.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_15/01_spotify.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
@@ -121,7 +130,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="05_yelp.py">05_yelp.py</a>
             </td>
-            <td align="right">2/28/2019 2:45 PM</td>
+            <td align="right">2/28/2019 3:25 PM</td>
             <td>895.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_15/05_yelp.py" 
@@ -136,8 +145,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="06_yelp_comments.py">06_yelp_comments.py</a>
             </td>
-            <td align="right">2/28/2019 2:57 PM</td>
-            <td>687.0B</td>
+            <td align="right">2/28/2019 3:46 PM</td>
+            <td>757.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_15/06_yelp_comments.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>

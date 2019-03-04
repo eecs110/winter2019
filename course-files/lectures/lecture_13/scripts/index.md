@@ -199,8 +199,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="12_insert.py">12_insert.py</a>
             </td>
-            <td align="right">2/21/2019 3:37 PM</td>
-            <td>664.0B</td>
+            <td align="right">3/2/2019 7:07 PM</td>
+            <td>703.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_13/scripts/12_insert.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
@@ -214,8 +214,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="13_update.py">13_update.py</a>
             </td>
-            <td align="right">2/21/2019 3:40 PM</td>
-            <td>613.0B</td>
+            <td align="right">3/2/2019 7:10 PM</td>
+            <td>618.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_13/scripts/13_update.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
@@ -229,8 +229,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="14_delete.py">14_delete.py</a>
             </td>
-            <td align="right">2/21/2019 3:41 PM</td>
-            <td>379.0B</td>
+            <td align="right">3/2/2019 7:11 PM</td>
+            <td>382.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_13/scripts/14_delete.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
