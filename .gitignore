@@ -8,4 +8,8 @@ exams
 __pycache__
 Gemfile.lock
 course-files/**/results/*.db
-course-files/**/results/index.md
+course-files/**/results/*.html
+course-files/**/results/*.txt
+course-files/**/results/*.log
+course-files/**/results/*.jpg
+course-files/**/results/*.png
