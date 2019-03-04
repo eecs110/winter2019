@@ -6,9 +6,36 @@ def get_webpage(url):
     try:
         # sleep 1 seconds to be polite
         results = urlopen(url).read().decode('utf-8', 'ignore')
-        return bs4.BeautifulSoup(results, features='lxml')
+        soup = bs4.BeautifulSoup(results, features='lxml')
+        # remove unwanted tags (modifies soup object directly):
+        [s.extract() for s in soup('script')]
+        [s.extract() for s in soup('style')]
+        return soup
     except:
+        print('There was an error retrieving the following url:')
+        print(url)
         return None
+
+def get_words(text):
+    import nltk
+    import string
+    nltk.download('stopwords')
+    from nltk.tokenize import word_tokenize
+    from nltk.corpus import stopwords
+    
+    excluded_words = set(
+        stopwords.words('english') + list(string.punctuation)
+    )
+    words = word_tokenize(text)
+    words_filtered = []
+    
+    # drop common and short words
+    for w in words:
+        if w not in excluded_words and len(w) > 3:
+            words_filtered.append(w)
+    words_filtered.sort()
+    return words_filtered
+
     
 def extract_data_from_webpage(soup, base_url):
     try:
@@ -25,12 +52,13 @@ def extract_data_from_webpage(soup, base_url):
     summary = body.find('p')
     if not summary:
         summary = body
-
+    words = get_words(body.get_text().strip())
     return {
         'url': base_url,
         'title': title,
-        'summary': summary.get_text(),
-        'body': body.get_text()
+        'summary': summary.get_text().strip(),
+        'words': ' '.join(words), # convert list to string
+        'body': body.get_text().strip()
     }
 
 
@@ -51,17 +79,6 @@ def stem_url(url):
             pass
     return url
 
-
-def has_been_visited(url, visited_dict):
-    return visited_dict.get(stem_url(url)) is not None
-
-
-def track_url(url, visited_dict):
-    stemmed_url = stem_url(url) 
-    if not visited_dict.get(stemmed_url):
-        visited_dict[stemmed_url] = 0
-    visited_dict[stemmed_url] += 1
-    
 
 def clean_url(url, base_url):
     # check if anchor tag:
@@ -112,26 +129,21 @@ def get_file_path(path, subdirectory=None):
         return os.path.join(dir_path, path)
 
 
-def create_table_if_does_not_exist():
-    conn = sqlite3.connect(get_file_path('nw.db'))
+def create_or_replace_table():
+    conn = sqlite3.connect(get_file_path('nu.db', subdirectory='results'))
     cur = conn.cursor()
+    cur.execute('DROP TABLE IF EXISTS Pages')
     cur.execute('''
     CREATE TABLE IF NOT EXISTS "Pages" (
         "id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL UNIQUE, 
         "url" CHAR(2000),
         "title" CHAR(2000),
         "summary" TEXT,
-        "body" TEXT)
+        "body" TEXT,
+        "words" TEXT,
+        "page_rank" INTEGER)
     ''')
     cur.close()
-    conn.close()
-
-def delete_all_rows_in_table():
-    conn = sqlite3.connect(get_file_path('nw.db'))
-    cur = conn.cursor()
-    cur.execute('DELETE FROM Pages')
-    cur.close()
-    conn.commit()
     conn.close()
 
 def insert_into_database(row):
@@ -139,5 +151,6 @@ def insert_into_database(row):
     pass
 
 def get_matching_pages(search_term):
-    print('You are going to query the database to find all of the search terms...')
-    pass
+    print('You are going to query the database to find all of the search results and then return them...')
+    results = []
+    return results
