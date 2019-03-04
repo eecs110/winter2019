@@ -14,5 +14,6 @@ EXCLUDED = [
     '.ipynb_checkpoints', 
     '.DS_Store', 
     'images',
-    '_site'
+    '_site',
+    'nu.db'
 ]
