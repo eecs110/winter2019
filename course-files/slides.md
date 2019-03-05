@@ -32,4 +32,6 @@ permalink: /course-files/slides/
 | **Week 7** | Tu, 02/19 | [Slides 12: Hodgepodge](https://docs.google.com/presentation/d/1Md468xUci_34QSjEb1Sq0abGmtCYPSN-uMKdFiJxydI/edit?usp=sharing) |
 || Th, 02/21 | [Slides 13: Intro to Databases](https://docs.google.com/presentation/d/1xoGO-Pjkqn6E7WJFfE3KWYbD3ijF9cz3tRKQnA6EdKA/edit?usp=sharing) |
 | **Week 8** | Tu, 02/26 | [Slides 14: Constructing Data from Messiness](https://docs.google.com/presentation/d/1bw8j00ZkTtHGTmgu7S82AGYsgzKvy9Twldyslt1MSJs/edit?usp=sharing) |
-|| Th, 02/28 | Slides 15: Working with Live Data |
+|| Th, 02/28 | [Slides 15: Intro to Web APIs](https://docs.google.com/presentation/d/10h7tzw_RYNAtjBM8kOyYMr5nPYlTNF5-BmknCQBBmUI/edit) |
+| **Week 9** | Tu, 03/05 | [Slides 16: Data Output](https://docs.google.com/presentation/d/1qNkk9vD9y-7uwBa36ops0Czj4Sn7aAvr5W5FCgxTn80/edit?usp=sharing) |
+|| Th, 02/28 | Slides 17: Creating Data Presentations |
