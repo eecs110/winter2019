@@ -50,8 +50,8 @@ nav_exclude: True
                 <i class="fa fa-folder"></i>
             </td>
             <td><a href="sample_files">sample_files</a></td>
-            <td align="right">3/5/2019 12:12 PM</td>
-            <td>352.0B</td>
+            <td align="right">3/5/2019 3:24 PM</td>
+            <td>384.0B</td>
             <td>&nbsp;</td>
         </tr>
         <tr class="click-to-preview">

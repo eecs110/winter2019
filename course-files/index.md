@@ -83,8 +83,8 @@ nav_exclude: False
                         Slides
                     </a>
             </td>
-            <td align="right">2/26/2019 3:24 PM</td>
-            <td>2.8KB</td>
+            <td align="right">3/5/2019 3:33 PM</td>
+            <td>3.1KB</td>
             <td>
                 <!-- a href="slides.md"><i class="fas fa-download"></i></a -->
             </td>

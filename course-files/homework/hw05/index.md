@@ -73,8 +73,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="helpers.py">helpers.py</a>
             </td>
-            <td align="right">3/3/2019 7:04 PM</td>
-            <td>4.2KB</td>
+            <td align="right">3/5/2019 3:58 PM</td>
+            <td>4.3KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw05/helpers.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>

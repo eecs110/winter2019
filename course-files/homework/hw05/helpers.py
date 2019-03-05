@@ -20,6 +20,7 @@ def get_words(text):
     import nltk
     import string
     nltk.download('stopwords')
+    nltk.download('punkt')
     from nltk.tokenize import word_tokenize
     from nltk.corpus import stopwords
     
