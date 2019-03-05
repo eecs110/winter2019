@@ -13,3 +13,4 @@ course-files/**/results/*.txt
 course-files/**/results/*.log
 course-files/**/results/*.jpg
 course-files/**/results/*.png
+course-files/**/results/*.json

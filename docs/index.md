@@ -243,10 +243,10 @@ permalink: /
         </tr>
         <!-- WEEK #9 -->
         <tr>
-            <td>Week 9</td>
+            <td><a href="week-09">Week 9</a></td>
             <td>
                 <strong>Tu Mar 5</strong><br>
-                TBD: Special Topics<br>
+                More practice traversing data. Some new techniques for making files (HTML).<br>
             </td>
             <td>
                 <a class="label label-green" href="course-files/homework/hw04/README">Homework 4 <i class="fas fa-link"></i></a>
@@ -256,7 +256,7 @@ permalink: /
             <td></td>
             <td>
                 <strong>Th Mar 7</strong><br>
-                TBD: Special Topics
+                Creating Data Presentations: charts, maps, and tables
             </td>
             <td></td>
         </tr>
@@ -270,13 +270,13 @@ permalink: /
         </tr>
         <!-- WEEK #10 -->
         <tr>
-            <td>Week 10</td>
+            <td><a href="week-10">Week 10</a></td>
             <td>
                 <strong>Tu Mar 12</strong><br>
                 Exam Review<br>
             </td>
             <td>
-                <span class="label label-default">Homework 5</span>
+                 <a class="label label-green" href="course-files/homework/hw05/README">Homework 5 <i class="fas fa-link"></i></a>
             </td>
         </tr>
         <tr>
@@ -303,7 +303,6 @@ permalink: /
             </td>
             <td>
                 <span class="label label-purple">Project 2</span>
-                <span class="label label-default">Homework 6</span>
             </td>
         </tr>
     </tbody>

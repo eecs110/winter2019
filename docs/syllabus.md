@@ -90,14 +90,15 @@ Attending these tutorial sessions is **strongly recommended**. However, if you n
 Your course grade is calculated based on 400 points as follows:
 
 | **2 Exams** | 2 x 80 Points | 160 Points | 40% |
-| **2 Projects** | 2 x 60 Points | 120 Points | 30% |
-| **7 Homeworks** | 7 x ~11.5 Points [1] | 80 Points | 20% |
+| **2 Projects** | 2: 1@60, 1@72.5 Points | 132.5 Points | 30% |
+| **6 Homeworks** | 6 x ~11.25 Points [1] | 67.5 Points | 20% |
 | **8 Tutorials** | 8 x 5 Points [2] | 40 Points | 10% |
 | | | **400 Points** | **100%** |
 
 ### Grading Notes
-1. First 3 homeworks worth 10 points. Last 4 homeworks worth 12.5
+1. First 3 homeworks worth 10 points. Last 3 homeworks worth 12.5
 2. You may miss one tutorial session without it affecting your grade.
+3. Project 2 has been re-weighted from 60 to 72.5 (as HW7 dropped).
 
 Final grades are assigned on a fixed scale: 93-100 is an A, 90-92.99 is an A-, 87-89.99 is a B+, etc. Final course grades will not be rounded or curved.
 {: .prose}
