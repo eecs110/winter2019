@@ -8,6 +8,7 @@ template = '''
             <p>{summary}</p>
             <img src="{image_url}" />
         </body>
+    </html>
 '''
 
 html_text = template.format(

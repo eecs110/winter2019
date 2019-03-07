@@ -1,0 +1,29 @@
+1. Write a query that returns all of the records 
+   from the tracks database where the composer 
+   cell has a value (i.e., it’s not null). 
+   Order the query by composer name.
+
+
+SELECT
+ trackid,
+ name,
+ composer,
+ unitprice
+FROM
+ tracks
+WHERE composer is not null
+ order by composer desc;
+
+
+
+2. Write a query that calculates how many tracks each 
+   composer made.  Order by the number of tracks descending.
+
+SELECT
+ composer,
+ count(composer) as "Number of Tracks"
+FROM
+ tracks
+WHERE composer is not null
+GROUP BY composer
+ORDER BY count(composer) desc

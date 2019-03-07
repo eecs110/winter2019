@@ -239,7 +239,7 @@ permalink: /
                 <strong>Tutorial</strong><br>
                 Practice: Parsing links, traversing them, and tracking visited sites
             </td>
-            <td><span class="label label-default">Tutorial 7</span></td>
+            <td><a class="label label-default" href="course-files/tutorials/tutorial07/README">Tutorial 7 <i class="fas fa-link"></i></a></td>
         </tr>
         <!-- WEEK #9 -->
         <tr>
@@ -266,7 +266,7 @@ permalink: /
                 <strong>Tutorial</strong><br>
                 Practice: Creating interactive data interfaces
             </td>
-            <td><span class="label label-default">Tutorial 8</span></td>
+            <td><a class="label label-default" href="course-files/tutorials/tutorial08/README">Tutorial 8 <i class="fas fa-link"></i></a></td>
         </tr>
         <!-- WEEK #10 -->
         <tr>

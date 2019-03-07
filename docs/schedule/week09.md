@@ -27,7 +27,7 @@ Creating Data Presentations: charts, maps, and tables
 Slides 17: Creating Data Presentations (TBD)
 
 ## III. Tutorial
-Practice building data presentations
+[Practice building data presentations](course-files/tutorials/tutorial08/README)
 
 ## Readings and Resources
 1. Using the [string.format()](https://www.programiz.com/python-programming/methods/string/format) method

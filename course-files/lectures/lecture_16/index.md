@@ -211,8 +211,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="11_string_format_html_file.py">11_string_format_html_file.py</a>
             </td>
-            <td align="right">3/5/2019 1:02 PM</td>
-            <td>513.0B</td>
+            <td align="right">3/7/2019 12:53 AM</td>
+            <td>525.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_16/11_string_format_html_file.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
@@ -226,8 +226,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="12_string_format_html_file_double_star.py">12_string_format_html_file_double_star.py</a>
             </td>
-            <td align="right">3/5/2019 1:02 PM</td>
-            <td>538.0B</td>
+            <td align="right">3/6/2019 8:49 PM</td>
+            <td>550.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_16/12_string_format_html_file_double_star.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
@@ -241,7 +241,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="13_string_format_lots_of_html_files.py">13_string_format_lots_of_html_files.py</a>
             </td>
-            <td align="right">3/5/2019 1:05 PM</td>
+            <td align="right">3/6/2019 8:49 PM</td>
             <td>1.4KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_16/13_string_format_lots_of_html_files.py" 
