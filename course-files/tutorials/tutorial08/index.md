@@ -32,8 +32,8 @@ nav_exclude: True
                 <i class="fa fa-folder"></i>
             </td>
             <td><a href="data_sources">data_sources</a></td>
-            <td align="right">3/7/2019 1:20 AM</td>
-            <td>96.0B</td>
+            <td align="right">3/7/2019 11:47 AM</td>
+            <td>128.0B</td>
             <td>&nbsp;</td>
         </tr>
         <tr>
@@ -50,8 +50,8 @@ nav_exclude: True
                 <i class="fa fa-folder"></i>
             </td>
             <td><a href="results">results</a></td>
-            <td align="right">3/7/2019 11:41 AM</td>
-            <td>416.0B</td>
+            <td align="right">3/7/2019 12:44 PM</td>
+            <td>160.0B</td>
             <td>&nbsp;</td>
         </tr>
         <tr class="click-to-preview">
@@ -151,8 +151,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="07_embed_a_map.py">07_embed_a_map.py</a>
             </td>
-            <td align="right">3/7/2019 11:39 AM</td>
-            <td>1.7KB</td>
+            <td align="right">3/7/2019 12:43 PM</td>
+            <td>1.8KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/tutorials/tutorial08/07_embed_a_map.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
