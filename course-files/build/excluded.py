@@ -7,6 +7,7 @@ EXCLUDED = [
     'index.md', 
     'drafts', 
     'solutions', 
+    'cpd.db',
     #'projects', 
     #'exams', 
     'build',

@@ -106,7 +106,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="04_make_a_table_formatted.py">04_make_a_table_formatted.py</a>
             </td>
-            <td align="right">3/7/2019 11:34 AM</td>
+            <td align="right">3/7/2019 12:44 PM</td>
             <td>1.6KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/tutorials/tutorial08/04_make_a_table_formatted.py" 
@@ -121,8 +121,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="05_make_a_map.py">05_make_a_map.py</a>
             </td>
-            <td align="right">3/7/2019 11:41 AM</td>
-            <td>574.0B</td>
+            <td align="right">3/7/2019 12:44 PM</td>
+            <td>623.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/tutorials/tutorial08/05_make_a_map.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
@@ -136,8 +136,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="06_make_a_map_with_data.py">06_make_a_map_with_data.py</a>
             </td>
-            <td align="right">3/7/2019 11:42 AM</td>
-            <td>1.2KB</td>
+            <td align="right">3/7/2019 12:44 PM</td>
+            <td>1.3KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/tutorials/tutorial08/06_make_a_map_with_data.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>

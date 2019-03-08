@@ -34,7 +34,7 @@ nav_exclude: False
                 <i class="fa fa-folder"></i>
             </td>
             <td><a href="homework">homework</a></td>
-            <td align="right">3/3/2019 7:07 PM</td>
+            <td align="right">3/7/2019 4:18 PM</td>
             <td>480.0B</td>
             <td>&nbsp;</td>
         </tr>
@@ -43,8 +43,8 @@ nav_exclude: False
                 <i class="fa fa-folder"></i>
             </td>
             <td><a href="lectures">lectures</a></td>
-            <td align="right">3/7/2019 11:44 AM</td>
-            <td>1.1KB</td>
+            <td align="right">3/7/2019 8:53 PM</td>
+            <td>1.2KB</td>
             <td>&nbsp;</td>
         </tr>
         <tr>
@@ -52,7 +52,7 @@ nav_exclude: False
                 <i class="fa fa-folder"></i>
             </td>
             <td><a href="practice_exams">practice_exams</a></td>
-            <td align="right">2/3/2019 10:07 PM</td>
+            <td align="right">3/7/2019 4:18 PM</td>
             <td>160.0B</td>
             <td>&nbsp;</td>
         </tr>
@@ -61,7 +61,7 @@ nav_exclude: False
                 <i class="fa fa-folder"></i>
             </td>
             <td><a href="projects">projects</a></td>
-            <td align="right">2/14/2019 5:15 PM</td>
+            <td align="right">3/7/2019 4:18 PM</td>
             <td>192.0B</td>
             <td>&nbsp;</td>
         </tr>
@@ -70,7 +70,7 @@ nav_exclude: False
                 <i class="fa fa-folder"></i>
             </td>
             <td><a href="tutorials">tutorials</a></td>
-            <td align="right">3/7/2019 11:47 AM</td>
+            <td align="right">3/7/2019 4:18 PM</td>
             <td>672.0B</td>
             <td>&nbsp;</td>
         </tr>
@@ -83,7 +83,7 @@ nav_exclude: False
                         Slides
                     </a>
             </td>
-            <td align="right">3/5/2019 3:33 PM</td>
+            <td align="right">3/7/2019 4:18 PM</td>
             <td>3.1KB</td>
             <td>
                 <!-- a href="slides.md"><i class="fas fa-download"></i></a -->

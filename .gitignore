@@ -7,6 +7,7 @@ exams
 .ipynb_checkpoints
 __pycache__
 Gemfile.lock
+cpd.db
 course-files/**/results/*.db
 course-files/**/results/*.html
 course-files/**/results/*.txt

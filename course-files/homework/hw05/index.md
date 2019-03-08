@@ -32,7 +32,7 @@ nav_exclude: True
                 <i class="fa fa-folder"></i>
             </td>
             <td><a href="results">results</a></td>
-            <td align="right">3/3/2019 7:35 PM</td>
+            <td align="right">3/7/2019 5:43 PM</td>
             <td>160.0B</td>
             <td>&nbsp;</td>
         </tr>
@@ -58,7 +58,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="crawler.py">crawler.py</a>
             </td>
-            <td align="right">3/3/2019 7:07 PM</td>
+            <td align="right">3/7/2019 8:23 PM</td>
             <td>1.6KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw05/crawler.py" 
@@ -73,7 +73,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="helpers.py">helpers.py</a>
             </td>
-            <td align="right">3/5/2019 3:58 PM</td>
+            <td align="right">3/7/2019 8:23 PM</td>
             <td>4.3KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/homework/hw05/helpers.py" 
