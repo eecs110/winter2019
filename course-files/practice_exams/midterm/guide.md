@@ -5,7 +5,7 @@ nav_exclude: True
 # permalink: /course-files/practice_exams/exams
 ---
 
-# Exam Practice
+# Exam 1 Practice
 * <a href="https://docs.google.com/document/d/1l0BsUZtjXoO4p-xJGaBdWpxT-IPFxF27_Ilypuwh-tg/edit?usp=sharing" target="_blank">Midterm Study Guide <i class="fas fa-external-link-alt"></i></a>
 * <a href="https://docs.google.com/presentation/d/1a7KF4CJbuKVzaM5aEOCeDklhvMDBKOXet3a4RdOrexE/edit?usp=sharing" target="_blank">Supplemental Practice Problems <i class="fas fa-external-link-alt"></i></a>
   * solutions [[download](../midterm.zip)] [[view]](https://github.com/eecs110/winter2019/blob/master/course-files/practice_exams/midterm/)

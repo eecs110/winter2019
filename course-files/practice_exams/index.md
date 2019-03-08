@@ -33,6 +33,15 @@ nav_exclude: False
             <td valign="top">
                 <i class="fa fa-folder"></i>
             </td>
+            <td><a href="final">final</a></td>
+            <td align="right">3/8/2019 1:41 AM</td>
+            <td>256.0B</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td valign="top">
+                <i class="fa fa-folder"></i>
+            </td>
             <td><a href="midterm">midterm</a></td>
             <td align="right">2/2/2019 5:55 PM</td>
             <td>288.0B</td>
@@ -43,9 +52,22 @@ nav_exclude: False
                     <i class="far fa-file-archive"></i>
             </td>
             <td nowrap>
+                    <a href="final.zip">final.zip</a>
+            </td>
+            <td align="right">3/8/2019 1:40 AM</td>
+            <td>3.4KB</td>
+            <td>
+                <!-- a href="final.zip"><i class="fas fa-download"></i></a -->
+            </td>
+        </tr>
+        <tr class="click-to-preview">
+            <td class="first-column">
+                    <i class="far fa-file-archive"></i>
+            </td>
+            <td nowrap>
                     <a href="midterm.zip">midterm.zip</a>
             </td>
-            <td align="right">3/7/2019 8:55 PM</td>
+            <td align="right">3/8/2019 1:40 AM</td>
             <td>10.9KB</td>
             <td>
                 <!-- a href="midterm.zip"><i class="fas fa-download"></i></a -->
