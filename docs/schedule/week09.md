@@ -24,7 +24,7 @@ More practice traversing data. Some new techniques for making files (HTML).
 Creating Data Presentations: charts, maps, and tables
 
 ### Slides
-Slides 17: Creating Data Presentations (TBD)
+[Slides 17: Creating Data Presentations](https://docs.google.com/presentation/d/1rlj0TDuJH0PRZzCs19tXmLonpTQUeXdTRp9bO_95tLk/edit?usp=sharing)
 
 ## III. Tutorial
 [Practice building data presentations](course-files/tutorials/tutorial08/README)

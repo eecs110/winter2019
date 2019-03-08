@@ -34,4 +34,4 @@ permalink: /course-files/slides/
 | **Week 8** | Tu, 02/26 | [Slides 14: Constructing Data from Messiness](https://docs.google.com/presentation/d/1bw8j00ZkTtHGTmgu7S82AGYsgzKvy9Twldyslt1MSJs/edit?usp=sharing) |
 || Th, 02/28 | [Slides 15: Intro to Web APIs](https://docs.google.com/presentation/d/10h7tzw_RYNAtjBM8kOyYMr5nPYlTNF5-BmknCQBBmUI/edit) |
 | **Week 9** | Tu, 03/05 | [Slides 16: Data Output](https://docs.google.com/presentation/d/1qNkk9vD9y-7uwBa36ops0Czj4Sn7aAvr5W5FCgxTn80/edit?usp=sharing) |
-|| Th, 02/28 | Slides 17: Creating Data Presentations |
+|| Th, 02/28 | [Slides 17: Creating Data Presentations](https://docs.google.com/presentation/d/1rlj0TDuJH0PRZzCs19tXmLonpTQUeXdTRp9bO_95tLk/edit?usp=sharing) |
