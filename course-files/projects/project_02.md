@@ -10,7 +10,7 @@ permalink: /course-files/projects/project_02/
 # Project 2 Instructions
 Project 2 is now worth 80 points, and you have three options:
 1. Complete the [Data Display](https://docs.google.com/document/d/1KccLv85K3HXYB4NK2w3NEa0xpE3_xgiEvoQ6sgp_3NY/edit?usp=sharing) project<br>*my original plan*
-2. Complete the [Search Engine + Enhancements](https://docs.google.com/document/d/1-uZyL8kPUBDn8vJTSnQfi5DTW9jT4rULZmUKl-vSMpc/edit?usp=sharing) project<br>*for folks who have already made significan progress on search engine assignment*
+2. Complete the [Search Engine + Enhancements](https://docs.google.com/document/d/1-uZyL8kPUBDn8vJTSnQfi5DTW9jT4rULZmUKl-vSMpc/edit?usp=sharing) project<br>*for folks who have already made significant progress on search engine assignment*
 3. Complete at least 40 points worth of tasks from each of the projects
 
 ## Some Notes
