@@ -64,8 +64,8 @@ nav_exclude: True
                         Guide
                     </a>
             </td>
-            <td align="right">3/8/2019 1:42 AM</td>
-            <td>672.0B</td>
+            <td align="right">3/8/2019 1:45 AM</td>
+            <td>661.0B</td>
             <td>
                 <!-- a href="guide.md"><i class="fas fa-download"></i></a -->
             </td>

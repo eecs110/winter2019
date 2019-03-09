@@ -51,6 +51,21 @@ nav_exclude: False
                 <!-- a href="project_01.zip"><i class="fas fa-download"></i></a -->
             </td>
         </tr>
+        <tr class="click-to-preview">
+            <td class="first-column">
+                    <i class="far fa-file"></i>
+            </td>
+            <td nowrap>
+                    <a href="project_02">
+                        Project_02
+                    </a>
+            </td>
+            <td align="right">3/8/2019 10:19 PM</td>
+            <td>1.6KB</td>
+            <td>
+                <!-- a href="project_02.md"><i class="fas fa-download"></i></a -->
+            </td>
+        </tr>
     </tbody>
 </table>
 
