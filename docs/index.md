@@ -302,7 +302,7 @@ permalink: /
                 <strong>Tu Mar 19</strong><br>
             </td>
             <td>
-                <span class="label label-purple">Project 2</span>
+                <a class="label label-purple" href="course-files/projects/project_02/">Project 2 <i class="fas fa-link"></i></a>
             </td>
         </tr>
     </tbody>
