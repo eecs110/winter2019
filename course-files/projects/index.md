@@ -2,7 +2,7 @@
 layout: default
 title: Projects
 parent: Course Files
-nav_order: 5
+nav_order: 6
 nav_exclude: False
 ---
 
@@ -60,8 +60,8 @@ nav_exclude: False
                         Project_02
                     </a>
             </td>
-            <td align="right">3/8/2019 10:19 PM</td>
-            <td>1.6KB</td>
+            <td align="right">3/8/2019 10:49 PM</td>
+            <td>1.8KB</td>
             <td>
                 <!-- a href="project_02.md"><i class="fas fa-download"></i></a -->
             </td>

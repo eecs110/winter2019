@@ -60,6 +60,21 @@ nav_exclude: True
                     <i class="far fa-file"></i>
             </td>
             <td nowrap>
+                    <a href="divvy_bike_map.html">divvy_bike_map.html</a>
+            </td>
+            <td align="right">3/9/2019 2:27 PM</td>
+            <td>244.6KB</td>
+            <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_17/results/divvy_bike_map.html" 
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
+                <!-- a href="divvy_bike_map.html"><i class="fas fa-download"></i></a -->
+            </td>
+        </tr>
+        <tr class="click-to-preview">
+            <td class="first-column">
+                    <i class="far fa-file"></i>
+            </td>
+            <td nowrap>
                     <a href="embedded_map.html">embedded_map.html</a>
             </td>
             <td align="right">3/6/2019 9:19 PM</td>

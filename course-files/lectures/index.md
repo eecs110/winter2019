@@ -2,7 +2,7 @@
 layout: default
 title: Lectures
 parent: Course Files
-nav_order: 3
+nav_order: 4
 nav_exclude: False
 ---
 
@@ -169,8 +169,17 @@ nav_exclude: False
                 <i class="fa fa-folder"></i>
             </td>
             <td><a href="lecture_17">lecture_17</a></td>
-            <td align="right">3/7/2019 8:54 PM</td>
-            <td>448.0B</td>
+            <td align="right">3/9/2019 3:28 PM</td>
+            <td>480.0B</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td valign="top">
+                <i class="fa fa-folder"></i>
+            </td>
+            <td><a href="lecture_18">lecture_18</a></td>
+            <td align="right">3/9/2019 3:27 PM</td>
+            <td>64.0B</td>
             <td>&nbsp;</td>
         </tr>
         <tr class="click-to-preview">

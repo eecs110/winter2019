@@ -47,7 +47,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="exam2_answers.py">exam2_answers.py</a>
             </td>
-            <td align="right">3/8/2019 1:38 AM</td>
+            <td align="right">3/11/2019 9:26 PM</td>
             <td>8.3KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/practice_exams/final/exam2_answers.py" 
@@ -64,8 +64,8 @@ nav_exclude: True
                         Guide
                     </a>
             </td>
-            <td align="right">3/8/2019 1:45 AM</td>
-            <td>661.0B</td>
+            <td align="right">3/11/2019 9:35 PM</td>
+            <td>953.0B</td>
             <td>
                 <!-- a href="guide.md"><i class="fas fa-download"></i></a -->
             </td>

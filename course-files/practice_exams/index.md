@@ -2,7 +2,7 @@
 layout: default
 title: Practice Exams
 parent: Course Files
-nav_order: 4
+nav_order: 5
 nav_exclude: False
 ---
 
@@ -34,7 +34,7 @@ nav_exclude: False
                 <i class="fa fa-folder"></i>
             </td>
             <td><a href="final">final</a></td>
-            <td align="right">3/8/2019 1:41 AM</td>
+            <td align="right">3/11/2019 9:38 PM</td>
             <td>256.0B</td>
             <td>&nbsp;</td>
         </tr>
@@ -54,8 +54,8 @@ nav_exclude: False
             <td nowrap>
                     <a href="final.zip">final.zip</a>
             </td>
-            <td align="right">3/8/2019 1:40 AM</td>
-            <td>3.4KB</td>
+            <td align="right">3/11/2019 9:38 PM</td>
+            <td>3.9KB</td>
             <td>
                 <!-- a href="final.zip"><i class="fas fa-download"></i></a -->
             </td>
@@ -67,7 +67,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="midterm.zip">midterm.zip</a>
             </td>
-            <td align="right">3/8/2019 1:40 AM</td>
+            <td align="right">3/11/2019 9:38 PM</td>
             <td>10.9KB</td>
             <td>
                 <!-- a href="midterm.zip"><i class="fas fa-download"></i></a -->
