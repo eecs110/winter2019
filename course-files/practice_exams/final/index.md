@@ -27,6 +27,33 @@ nav_exclude: True
             <td>&nbsp;</td>
         </tr>
 
+        <tr>
+            <td valign="top">
+                <i class="fa fa-folder"></i>
+            </td>
+            <td><a href="dictionaries">dictionaries</a></td>
+            <td align="right">3/12/2019 9:08 AM</td>
+            <td>416.0B</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td valign="top">
+                <i class="fa fa-folder"></i>
+            </td>
+            <td><a href="lists">lists</a></td>
+            <td align="right">3/12/2019 11:23 AM</td>
+            <td>384.0B</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td valign="top">
+                <i class="fa fa-folder"></i>
+            </td>
+            <td><a href="logical_operators">logical_operators</a></td>
+            <td align="right">3/10/2019 11:43 PM</td>
+            <td>160.0B</td>
+            <td>&nbsp;</td>
+        </tr>
         <tr class="click-to-preview">
             <td class="first-column">
                     <i class="far fa-file"></i>
@@ -64,8 +91,8 @@ nav_exclude: True
                         Guide
                     </a>
             </td>
-            <td align="right">3/11/2019 9:35 PM</td>
-            <td>953.0B</td>
+            <td align="right">3/12/2019 11:26 AM</td>
+            <td>1.3KB</td>
             <td>
                 <!-- a href="guide.md"><i class="fas fa-download"></i></a -->
             </td>
