@@ -35,3 +35,4 @@ permalink: /course-files/slides/
 || Th, 02/28 | [Slides 15: Intro to Web APIs](https://docs.google.com/presentation/d/10h7tzw_RYNAtjBM8kOyYMr5nPYlTNF5-BmknCQBBmUI/edit) |
 | **Week 9** | Tu, 03/05 | [Slides 16: Data Output](https://docs.google.com/presentation/d/1qNkk9vD9y-7uwBa36ops0Czj4Sn7aAvr5W5FCgxTn80/edit?usp=sharing) |
 || Th, 02/28 | [Slides 17: Creating Data Presentations](https://docs.google.com/presentation/d/1rlj0TDuJH0PRZzCs19tXmLonpTQUeXdTRp9bO_95tLk/edit?usp=sharing) |
+| **Week 10** | Tu, 03/12 | [Slides 17: Exam Review](https://docs.google.com/presentation/d/1JT6sr7qfs_v0aBbdhHM1akvnyfYt7RAYaMc7E23CtEI/edit?usp=sharing) |
