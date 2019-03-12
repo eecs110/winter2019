@@ -34,8 +34,8 @@ nav_exclude: False
                 <i class="fa fa-folder"></i>
             </td>
             <td><a href="final">final</a></td>
-            <td align="right">3/12/2019 10:35 AM</td>
-            <td>352.0B</td>
+            <td align="right">3/12/2019 11:53 AM</td>
+            <td>384.0B</td>
             <td>&nbsp;</td>
         </tr>
         <tr>
@@ -54,8 +54,8 @@ nav_exclude: False
             <td nowrap>
                     <a href="final.zip">final.zip</a>
             </td>
-            <td align="right">3/12/2019 11:27 AM</td>
-            <td>11.8KB</td>
+            <td align="right">3/12/2019 2:57 PM</td>
+            <td>22.0B</td>
             <td>
                 <!-- a href="final.zip"><i class="fas fa-download"></i></a -->
             </td>
@@ -67,8 +67,8 @@ nav_exclude: False
             <td nowrap>
                     <a href="midterm.zip">midterm.zip</a>
             </td>
-            <td align="right">3/12/2019 11:27 AM</td>
-            <td>10.9KB</td>
+            <td align="right">3/12/2019 2:57 PM</td>
+            <td>22.0B</td>
             <td>
                 <!-- a href="midterm.zip"><i class="fas fa-download"></i></a -->
             </td>
