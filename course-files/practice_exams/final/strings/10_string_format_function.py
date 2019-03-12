@@ -1,5 +1,6 @@
-
-# Below, I show how I would call your function and what it would 
+# Write a function called print_animal_slogan that takes the name of
+# an animal (a string) as an argument and prints the following 
+# slogan with the animal name. Below, I show how I would call your function and what it would 
 # output to the screen.
 def print_animal_slogan(animal):
     template = '''
