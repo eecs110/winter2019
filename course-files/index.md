@@ -33,6 +33,15 @@ nav_exclude: False
             <td valign="top">
                 <i class="fa fa-folder"></i>
             </td>
+            <td><a href="exams">exams</a></td>
+            <td align="right">3/11/2019 9:38 PM</td>
+            <td>160.0B</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td valign="top">
+                <i class="fa fa-folder"></i>
+            </td>
             <td><a href="homework">homework</a></td>
             <td align="right">3/7/2019 4:18 PM</td>
             <td>480.0B</td>
@@ -83,8 +92,8 @@ nav_exclude: False
                         Slides
                     </a>
             </td>
-            <td align="right">3/7/2019 9:03 PM</td>
-            <td>3.2KB</td>
+            <td align="right">3/12/2019 3:47 PM</td>
+            <td>3.3KB</td>
             <td>
                 <!-- a href="slides.md"><i class="fas fa-download"></i></a -->
             </td>

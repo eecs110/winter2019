@@ -49,8 +49,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="02_string_methods.py">02_string_methods.py</a>
             </td>
-            <td align="right">3/12/2019 2:37 PM</td>
-            <td>473.0B</td>
+            <td align="right">3/12/2019 3:00 PM</td>
+            <td>654.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/practice_exams/final/strings/02_string_methods.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
@@ -169,8 +169,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="10_string_format_function.py">10_string_format_function.py</a>
             </td>
-            <td align="right">3/12/2019 2:50 PM</td>
-            <td>474.0B</td>
+            <td align="right">3/12/2019 3:14 PM</td>
+            <td>635.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/practice_exams/final/strings/10_string_format_function.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>

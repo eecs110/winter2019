@@ -2,7 +2,7 @@
 layout: default
 title: Projects
 parent: Course Files
-nav_order: 5
+nav_order: 6
 nav_exclude: False
 ---
 
@@ -45,7 +45,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="project_01.zip">project_01.zip</a>
             </td>
-            <td align="right">3/12/2019 11:27 AM</td>
+            <td align="right">3/12/2019 4:06 PM</td>
             <td>23.8MB</td>
             <td>
                 <!-- a href="project_01.zip"><i class="fas fa-download"></i></a -->
