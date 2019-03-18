@@ -3,14 +3,13 @@ layout: default
 title: Project 2
 nav_order: 2
 nav_exclude: False
-parent: Projects
-permalink: /course-files/projects/project_02/
+parent: Project 02
 ---
 
 # Project 2 Instructions
 Project 2 is now worth 80 points, and you have three options:
-1. Complete the [Data Display](https://docs.google.com/document/d/1KccLv85K3HXYB4NK2w3NEa0xpE3_xgiEvoQ6sgp_3NY/edit?usp=sharing) project<br>*my original plan*
-2. Complete the [Search Engine + Enhancements](https://docs.google.com/document/d/1-uZyL8kPUBDn8vJTSnQfi5DTW9jT4rULZmUKl-vSMpc/edit?usp=sharing) project<br>*for folks who have already made significant progress on search engine assignment*
+1. Complete the [Data Display](option2_data_display/README) project<br>*my original plan*
+2. Complete the [Search Engine + Enhancements](option1_crawler/README) project<br>*for folks who have already made significant progress on search engine assignment*
 3. Complete at least 40 points worth of tasks from each of the projects
 
 ## Some Notes
@@ -22,7 +21,7 @@ Project 2 is now worth 80 points, and you have three options:
 
 ## Extra credit
 1. If you do only one of the projects, you can earn up to 10 points extra credit (90 points total).
-2. If you do both of the assignments, you can earn up to 30 points extra credit (110 points total).
+2. If you do both of the assignments in their entirety, you can earn up to 30 points extra credit (110 points total).
 
 ## Due
-**Due Tu, March 19 at 11:59PM**. Late penaly of 20% for projects that are turned in within 48 hours of the deadline. No projects will be accepted after that.
+**Due Th, March 21 at 11:59PM**. No projects will be accepted after Thursday.

@@ -254,18 +254,19 @@ def problem_8():
     _print_title('Problem 8')
 
     def get_mail_groups(file):
-        provider_groups= {}
+        my_dictionary = {}
         for line in file:
-            if line.find('@') == -1:
-                # it's an invalid row:
-                continue
             line = line.replace('\n', '')
+            cells = line.split('@')
+            if len(cells) == 1:
+                continue
+            provider = cells[1]
             email = line.split(',')[-1]
-            provider = email.split('@')[-1]
-            if provider_groups.get(provider) is None:
-                provider_groups[provider] = []
-            provider_groups[provider].append(email)
-        return provider_groups
+            if my_dictionary.get(provider) is None:
+                my_dictionary[provider] = []
+            my_dictionary[provider].append(email)
+        return my_dictionary
+
             
     file_path = helpers.get_file_path('contacts.csv')
     f = open(file_path, 'r')
@@ -290,14 +291,14 @@ def problem_10():
       
 
 
-problem_1()
-problem_2()
-problem_3()
-problem_4()
-problem_5()
-problem_5_EC()
-problem_6()
-problem_7()
+# problem_1()
+# problem_2()
+# problem_3()
+# problem_4()
+# problem_5()
+# problem_5_EC()
+# problem_6()
+# problem_7()
 problem_8()
-problem_9()
-problem_10()
+# problem_9()
+# problem_10()

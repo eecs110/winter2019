@@ -38,6 +38,15 @@ nav_exclude: False
             <td>224.0B</td>
             <td>&nbsp;</td>
         </tr>
+        <tr>
+            <td valign="top">
+                <i class="fa fa-folder"></i>
+            </td>
+            <td><a href="project_02">project_02</a></td>
+            <td align="right">3/17/2019 6:59 PM</td>
+            <td>224.0B</td>
+            <td>&nbsp;</td>
+        </tr>
         <tr class="click-to-preview">
             <td class="first-column">
                     <i class="far fa-file-archive"></i>
@@ -45,7 +54,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="project_01.zip">project_01.zip</a>
             </td>
-            <td align="right">3/12/2019 4:06 PM</td>
+            <td align="right">3/17/2019 7:13 PM</td>
             <td>23.8MB</td>
             <td>
                 <!-- a href="project_01.zip"><i class="fas fa-download"></i></a -->
@@ -53,17 +62,15 @@ nav_exclude: False
         </tr>
         <tr class="click-to-preview">
             <td class="first-column">
-                    <i class="far fa-file"></i>
+                    <i class="far fa-file-archive"></i>
             </td>
             <td nowrap>
-                    <a href="project_02">
-                        Project_02
-                    </a>
+                    <a href="project_02.zip">project_02.zip</a>
             </td>
-            <td align="right">3/8/2019 10:49 PM</td>
-            <td>1.8KB</td>
+            <td align="right">3/17/2019 7:13 PM</td>
+            <td>75.8KB</td>
             <td>
-                <!-- a href="project_02.md"><i class="fas fa-download"></i></a -->
+                <!-- a href="project_02.zip"><i class="fas fa-download"></i></a -->
             </td>
         </tr>
     </tbody>

@@ -50,7 +50,7 @@ nav_exclude: True
                 <i class="fa fa-folder"></i>
             </td>
             <td><a href="logical_operators">logical_operators</a></td>
-            <td align="right">3/12/2019 11:27 AM</td>
+            <td align="right">3/17/2019 6:43 PM</td>
             <td>192.0B</td>
             <td>&nbsp;</td>
         </tr>
@@ -83,7 +83,7 @@ nav_exclude: True
             <td nowrap>
                     <a href="exam2_answers.py">exam2_answers.py</a>
             </td>
-            <td align="right">3/11/2019 9:26 PM</td>
+            <td align="right">3/12/2019 5:09 PM</td>
             <td>8.3KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/practice_exams/final/exam2_answers.py" 

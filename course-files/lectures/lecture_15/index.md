@@ -59,8 +59,8 @@ nav_exclude: True
                 <i class="fa fa-folder"></i>
             </td>
             <td><a href="results">results</a></td>
-            <td align="right">3/5/2019 1:31 PM</td>
-            <td>224.0B</td>
+            <td align="right">3/15/2019 11:32 AM</td>
+            <td>256.0B</td>
             <td>&nbsp;</td>
         </tr>
         <tr class="click-to-preview">
@@ -70,8 +70,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="01_spotify.py">01_spotify.py</a>
             </td>
-            <td align="right">2/28/2019 4:17 PM</td>
-            <td>468.0B</td>
+            <td align="right">3/15/2019 11:32 AM</td>
+            <td>467.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_15/01_spotify.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
@@ -115,8 +115,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="04_spotify_artists.py">04_spotify_artists.py</a>
             </td>
-            <td align="right">2/28/2019 2:56 PM</td>
-            <td>728.0B</td>
+            <td align="right">3/15/2019 10:47 AM</td>
+            <td>594.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_15/04_spotify_artists.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>

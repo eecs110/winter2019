@@ -8,7 +8,7 @@ EXCLUDED = [
     'drafts', 
     'solutions', 
     'cpd.db',
-    #'projects', 
+    # 'projects', 
     #'exams', 
     'build',
     '__pycache__',
