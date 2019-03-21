@@ -151,8 +151,8 @@ nav_exclude: False
                 <i class="fa fa-folder"></i>
             </td>
             <td><a href="lecture_15">lecture_15</a></td>
-            <td align="right">2/28/2019 3:24 PM</td>
-            <td>448.0B</td>
+            <td align="right">3/19/2019 1:36 PM</td>
+            <td>480.0B</td>
             <td>&nbsp;</td>
         </tr>
         <tr>
@@ -160,8 +160,8 @@ nav_exclude: False
                 <i class="fa fa-folder"></i>
             </td>
             <td><a href="lecture_16">lecture_16</a></td>
-            <td align="right">3/5/2019 3:14 PM</td>
-            <td>800.0B</td>
+            <td align="right">3/21/2019 12:58 PM</td>
+            <td>832.0B</td>
             <td>&nbsp;</td>
         </tr>
         <tr>
@@ -180,7 +180,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="lecture_01.zip">lecture_01.zip</a>
             </td>
-            <td align="right">3/17/2019 7:18 PM</td>
+            <td align="right">3/21/2019 1:00 PM</td>
             <td>139.8KB</td>
             <td>
                 <!-- a href="lecture_01.zip"><i class="fas fa-download"></i></a -->
@@ -193,7 +193,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="lecture_02.zip">lecture_02.zip</a>
             </td>
-            <td align="right">3/17/2019 7:18 PM</td>
+            <td align="right">3/21/2019 1:00 PM</td>
             <td>15.0KB</td>
             <td>
                 <!-- a href="lecture_02.zip"><i class="fas fa-download"></i></a -->
@@ -206,7 +206,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="lecture_03.zip">lecture_03.zip</a>
             </td>
-            <td align="right">3/17/2019 7:18 PM</td>
+            <td align="right">3/21/2019 1:00 PM</td>
             <td>6.8KB</td>
             <td>
                 <!-- a href="lecture_03.zip"><i class="fas fa-download"></i></a -->
@@ -219,7 +219,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="lecture_04.zip">lecture_04.zip</a>
             </td>
-            <td align="right">3/17/2019 7:18 PM</td>
+            <td align="right">3/21/2019 1:00 PM</td>
             <td>3.6KB</td>
             <td>
                 <!-- a href="lecture_04.zip"><i class="fas fa-download"></i></a -->
@@ -232,7 +232,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="lecture_05.zip">lecture_05.zip</a>
             </td>
-            <td align="right">3/17/2019 7:18 PM</td>
+            <td align="right">3/21/2019 1:00 PM</td>
             <td>8.1KB</td>
             <td>
                 <!-- a href="lecture_05.zip"><i class="fas fa-download"></i></a -->
@@ -245,7 +245,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="lecture_06.zip">lecture_06.zip</a>
             </td>
-            <td align="right">3/17/2019 7:18 PM</td>
+            <td align="right">3/21/2019 1:00 PM</td>
             <td>7.2KB</td>
             <td>
                 <!-- a href="lecture_06.zip"><i class="fas fa-download"></i></a -->
@@ -258,7 +258,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="lecture_07.zip">lecture_07.zip</a>
             </td>
-            <td align="right">3/17/2019 7:18 PM</td>
+            <td align="right">3/21/2019 1:00 PM</td>
             <td>10.1KB</td>
             <td>
                 <!-- a href="lecture_07.zip"><i class="fas fa-download"></i></a -->
@@ -271,7 +271,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="lecture_08.zip">lecture_08.zip</a>
             </td>
-            <td align="right">3/17/2019 7:18 PM</td>
+            <td align="right">3/21/2019 1:00 PM</td>
             <td>6.2KB</td>
             <td>
                 <!-- a href="lecture_08.zip"><i class="fas fa-download"></i></a -->
@@ -284,7 +284,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="lecture_10.zip">lecture_10.zip</a>
             </td>
-            <td align="right">3/17/2019 7:18 PM</td>
+            <td align="right">3/21/2019 1:00 PM</td>
             <td>485.0KB</td>
             <td>
                 <!-- a href="lecture_10.zip"><i class="fas fa-download"></i></a -->
@@ -297,7 +297,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="lecture_11.zip">lecture_11.zip</a>
             </td>
-            <td align="right">3/17/2019 7:18 PM</td>
+            <td align="right">3/21/2019 1:00 PM</td>
             <td>119.6KB</td>
             <td>
                 <!-- a href="lecture_11.zip"><i class="fas fa-download"></i></a -->
@@ -310,7 +310,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="lecture_12.zip">lecture_12.zip</a>
             </td>
-            <td align="right">3/17/2019 7:18 PM</td>
+            <td align="right">3/21/2019 1:00 PM</td>
             <td>117.6KB</td>
             <td>
                 <!-- a href="lecture_12.zip"><i class="fas fa-download"></i></a -->
@@ -323,7 +323,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="lecture_13.zip">lecture_13.zip</a>
             </td>
-            <td align="right">3/17/2019 7:18 PM</td>
+            <td align="right">3/21/2019 1:00 PM</td>
             <td>2.2MB</td>
             <td>
                 <!-- a href="lecture_13.zip"><i class="fas fa-download"></i></a -->
@@ -336,7 +336,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="lecture_14.zip">lecture_14.zip</a>
             </td>
-            <td align="right">3/17/2019 7:18 PM</td>
+            <td align="right">3/21/2019 1:00 PM</td>
             <td>4.8KB</td>
             <td>
                 <!-- a href="lecture_14.zip"><i class="fas fa-download"></i></a -->
@@ -349,8 +349,8 @@ nav_exclude: False
             <td nowrap>
                     <a href="lecture_15.zip">lecture_15.zip</a>
             </td>
-            <td align="right">3/17/2019 7:18 PM</td>
-            <td>20.5KB</td>
+            <td align="right">3/21/2019 1:00 PM</td>
+            <td>19.2KB</td>
             <td>
                 <!-- a href="lecture_15.zip"><i class="fas fa-download"></i></a -->
             </td>
@@ -362,8 +362,8 @@ nav_exclude: False
             <td nowrap>
                     <a href="lecture_16.zip">lecture_16.zip</a>
             </td>
-            <td align="right">3/17/2019 7:18 PM</td>
-            <td>44.5KB</td>
+            <td align="right">3/21/2019 1:00 PM</td>
+            <td>45.9KB</td>
             <td>
                 <!-- a href="lecture_16.zip"><i class="fas fa-download"></i></a -->
             </td>
@@ -375,7 +375,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="lecture_17.zip">lecture_17.zip</a>
             </td>
-            <td align="right">3/17/2019 7:18 PM</td>
+            <td align="right">3/21/2019 1:00 PM</td>
             <td>142.1KB</td>
             <td>
                 <!-- a href="lecture_17.zip"><i class="fas fa-download"></i></a -->

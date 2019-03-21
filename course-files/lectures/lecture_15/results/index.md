@@ -64,8 +64,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="spotify_artists.json">spotify_artists.json</a>
             </td>
-            <td align="right">3/15/2019 11:32 AM</td>
-            <td>55.5KB</td>
+            <td align="right">3/19/2019 1:38 PM</td>
+            <td>27.1KB</td>
             <td>
                 <!-- a href="spotify_artists.json"><i class="fas fa-download"></i></a -->
             </td>

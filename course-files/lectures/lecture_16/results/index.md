@@ -137,6 +137,21 @@ nav_exclude: True
                     <i class="far fa-file"></i>
             </td>
             <td nowrap>
+                    <a href="side_by_side_tables.html">side_by_side_tables.html</a>
+            </td>
+            <td align="right">3/21/2019 12:56 PM</td>
+            <td>1.3KB</td>
+            <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_16/results/side_by_side_tables.html" 
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
+                <!-- a href="side_by_side_tables.html"><i class="fas fa-download"></i></a -->
+            </td>
+        </tr>
+        <tr class="click-to-preview">
+            <td class="first-column">
+                    <i class="far fa-file"></i>
+            </td>
+            <td nowrap>
                     <a href="spotify_tracks.json">spotify_tracks.json</a>
             </td>
             <td align="right">3/5/2019 1:54 PM</td>

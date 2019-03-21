@@ -137,6 +137,21 @@ nav_exclude: True
                     <i class="far fa-file"></i>
             </td>
             <td nowrap>
+                    <a href="08_side_by_side_tables.html">08_side_by_side_tables.html</a>
+            </td>
+            <td align="right">3/21/2019 12:54 PM</td>
+            <td>1.1KB</td>
+            <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_16/sample_files/08_side_by_side_tables.html" 
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
+                <!-- a href="08_side_by_side_tables.html"><i class="fas fa-download"></i></a -->
+            </td>
+        </tr>
+        <tr class="click-to-preview">
+            <td class="first-column">
+                    <i class="far fa-file"></i>
+            </td>
+            <td nowrap>
                     <a href="kittens.jpg">kittens.jpg</a>
             </td>
             <td align="right">3/5/2019 11:22 AM</td>

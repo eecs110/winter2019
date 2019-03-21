@@ -108,7 +108,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="tutorial01.zip">tutorial01.zip</a>
             </td>
-            <td align="right">3/17/2019 7:18 PM</td>
+            <td align="right">3/21/2019 1:00 PM</td>
             <td>262.0B</td>
             <td>
                 <!-- a href="tutorial01.zip"><i class="fas fa-download"></i></a -->
@@ -121,7 +121,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="tutorial02.zip">tutorial02.zip</a>
             </td>
-            <td align="right">3/17/2019 7:18 PM</td>
+            <td align="right">3/21/2019 1:00 PM</td>
             <td>344.0B</td>
             <td>
                 <!-- a href="tutorial02.zip"><i class="fas fa-download"></i></a -->
@@ -134,7 +134,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="tutorial03.zip">tutorial03.zip</a>
             </td>
-            <td align="right">3/17/2019 7:18 PM</td>
+            <td align="right">3/21/2019 1:00 PM</td>
             <td>1.1KB</td>
             <td>
                 <!-- a href="tutorial03.zip"><i class="fas fa-download"></i></a -->
@@ -147,7 +147,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="tutorial04.zip">tutorial04.zip</a>
             </td>
-            <td align="right">3/17/2019 7:18 PM</td>
+            <td align="right">3/21/2019 1:00 PM</td>
             <td>6.6KB</td>
             <td>
                 <!-- a href="tutorial04.zip"><i class="fas fa-download"></i></a -->
@@ -160,7 +160,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="tutorial05.zip">tutorial05.zip</a>
             </td>
-            <td align="right">3/17/2019 7:18 PM</td>
+            <td align="right">3/21/2019 1:00 PM</td>
             <td>144.6KB</td>
             <td>
                 <!-- a href="tutorial05.zip"><i class="fas fa-download"></i></a -->
@@ -173,7 +173,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="tutorial06.zip">tutorial06.zip</a>
             </td>
-            <td align="right">3/17/2019 7:18 PM</td>
+            <td align="right">3/21/2019 1:00 PM</td>
             <td>329.2KB</td>
             <td>
                 <!-- a href="tutorial06.zip"><i class="fas fa-download"></i></a -->
@@ -186,7 +186,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="tutorial07.zip">tutorial07.zip</a>
             </td>
-            <td align="right">3/17/2019 7:18 PM</td>
+            <td align="right">3/21/2019 1:00 PM</td>
             <td>34.5KB</td>
             <td>
                 <!-- a href="tutorial07.zip"><i class="fas fa-download"></i></a -->
@@ -199,7 +199,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="tutorial08.zip">tutorial08.zip</a>
             </td>
-            <td align="right">3/17/2019 7:18 PM</td>
+            <td align="right">3/21/2019 1:00 PM</td>
             <td>6.9KB</td>
             <td>
                 <!-- a href="tutorial08.zip"><i class="fas fa-download"></i></a -->

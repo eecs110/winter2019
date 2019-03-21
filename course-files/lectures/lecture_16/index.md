@@ -41,8 +41,8 @@ nav_exclude: True
                 <i class="fa fa-folder"></i>
             </td>
             <td><a href="results">results</a></td>
-            <td align="right">3/5/2019 1:54 PM</td>
-            <td>352.0B</td>
+            <td align="right">3/21/2019 12:56 PM</td>
+            <td>384.0B</td>
             <td>&nbsp;</td>
         </tr>
         <tr>
@@ -50,8 +50,8 @@ nav_exclude: True
                 <i class="fa fa-folder"></i>
             </td>
             <td><a href="sample_files">sample_files</a></td>
-            <td align="right">3/5/2019 3:24 PM</td>
-            <td>384.0B</td>
+            <td align="right">3/21/2019 12:53 PM</td>
+            <td>416.0B</td>
             <td>&nbsp;</td>
         </tr>
         <tr class="click-to-preview">
@@ -241,12 +241,27 @@ nav_exclude: True
             <td nowrap>
                     <a href="13_string_format_lots_of_html_files.py">13_string_format_lots_of_html_files.py</a>
             </td>
-            <td align="right">3/6/2019 8:49 PM</td>
+            <td align="right">3/21/2019 12:57 PM</td>
             <td>1.4KB</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_16/13_string_format_lots_of_html_files.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>
                 <!-- a href="13_string_format_lots_of_html_files.py"><i class="fas fa-download"></i></a -->
+            </td>
+        </tr>
+        <tr class="click-to-preview">
+            <td class="first-column">
+                    <i class="fab fa-lg fa-python"></i>
+            </td>
+            <td nowrap>
+                    <a href="13b_string_format_side_by_side_tables.py">13b_string_format_side_by_side_tables.py</a>
+            </td>
+            <td align="right">3/21/2019 12:55 PM</td>
+            <td>1.4KB</td>
+            <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_16/13b_string_format_side_by_side_tables.py" 
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
+                <!-- a href="13b_string_format_side_by_side_tables.py"><i class="fas fa-download"></i></a -->
             </td>
         </tr>
         <tr class="click-to-preview">

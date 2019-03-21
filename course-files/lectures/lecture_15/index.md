@@ -68,6 +68,21 @@ nav_exclude: True
                     <i class="fab fa-lg fa-python"></i>
             </td>
             <td nowrap>
+                    <a href="01_artist_albums.py">01_artist_albums.py</a>
+            </td>
+            <td align="right">3/19/2019 1:38 PM</td>
+            <td>661.0B</td>
+            <td>
+                    <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_15/01_artist_albums.py" 
+                        target="_blank"><i class="fab fa-github fa-lg"></i></a>
+                <!-- a href="01_artist_albums.py"><i class="fas fa-download"></i></a -->
+            </td>
+        </tr>
+        <tr class="click-to-preview">
+            <td class="first-column">
+                    <i class="fab fa-lg fa-python"></i>
+            </td>
+            <td nowrap>
                     <a href="01_spotify.py">01_spotify.py</a>
             </td>
             <td align="right">3/15/2019 11:32 AM</td>
@@ -145,8 +160,8 @@ nav_exclude: True
             <td nowrap>
                     <a href="06_yelp_comments.py">06_yelp_comments.py</a>
             </td>
-            <td align="right">2/28/2019 3:46 PM</td>
-            <td>757.0B</td>
+            <td align="right">3/19/2019 1:33 PM</td>
+            <td>707.0B</td>
             <td>
                     <a href="https://github.com/eecs110/winter2019/blob/master/course-files/lectures/lecture_15/06_yelp_comments.py" 
                         target="_blank"><i class="fab fa-github fa-lg"></i></a>

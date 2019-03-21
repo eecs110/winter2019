@@ -43,7 +43,7 @@ nav_exclude: False
                 <i class="fa fa-folder"></i>
             </td>
             <td><a href="project_02">project_02</a></td>
-            <td align="right">3/17/2019 6:59 PM</td>
+            <td align="right">3/21/2019 12:59 PM</td>
             <td>224.0B</td>
             <td>&nbsp;</td>
         </tr>
@@ -54,7 +54,7 @@ nav_exclude: False
             <td nowrap>
                     <a href="project_01.zip">project_01.zip</a>
             </td>
-            <td align="right">3/17/2019 7:18 PM</td>
+            <td align="right">3/21/2019 1:00 PM</td>
             <td>23.8MB</td>
             <td>
                 <!-- a href="project_01.zip"><i class="fas fa-download"></i></a -->
@@ -67,8 +67,8 @@ nav_exclude: False
             <td nowrap>
                     <a href="project_02.zip">project_02.zip</a>
             </td>
-            <td align="right">3/17/2019 7:18 PM</td>
-            <td>50.2KB</td>
+            <td align="right">3/21/2019 1:00 PM</td>
+            <td>92.1KB</td>
             <td>
                 <!-- a href="project_02.zip"><i class="fas fa-download"></i></a -->
             </td>

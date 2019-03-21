@@ -100,8 +100,8 @@ nav_exclude: True
                         Guide
                     </a>
             </td>
-            <td align="right">3/12/2019 11:42 AM</td>
-            <td>1.5KB</td>
+            <td align="right">3/17/2019 11:07 PM</td>
+            <td>1.6KB</td>
             <td>
                 <!-- a href="guide.md"><i class="fas fa-download"></i></a -->
             </td>
