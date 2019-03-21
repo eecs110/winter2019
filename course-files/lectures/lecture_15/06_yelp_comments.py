@@ -18,9 +18,6 @@ def write_to_file(results):
     file_path = helpers.get_file_path('yelp.json', subdirectory='results')
     f = open(file_path, 'w')
     f.write(json.dumps(results))
-    f.close()
-
-yelp_api = YelpAPI(get_yelp_key())
 
 
 # Challenge: Figure out how to print all of the reviews for Tomate on Noyes.

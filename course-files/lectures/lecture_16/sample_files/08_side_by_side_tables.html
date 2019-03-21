@@ -1,0 +1,49 @@
+<html>
+    <head>
+        <title>Side by Side Tables</title>
+    </head>
+    <body>
+        <!-- Style Block -->
+        <style>
+            div {
+                display: inline-block;
+                width: 48%;
+            }
+            table {
+                width: 100%;
+                border-collapse: collapse;
+            }
+            th, td {
+                border: solid 1px #000;
+            }
+        </style>
+        
+        <!-- Table 1 (inside a div) -->
+        <div>
+            <table>
+            <tr>
+                <td>cell 1</td>
+                <td>cell 2</td>
+            </tr>
+            <tr>
+                <td>cell 3</td>
+                <td>cell 4</td>
+            </tr>
+            </table>
+        </div>
+        
+        <!-- Table 2 (also inside a div) -->
+        <div>
+            <table>
+            <tr>
+                <td>cell 5</td>
+                <td>cell 6</td>
+            </tr>
+            <tr>
+                <td>cell 7</td>
+                <td>cell 8</td>
+            </tr>
+            </table>
+        </div>
+    </body>
+</html>

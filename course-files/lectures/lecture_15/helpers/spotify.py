@@ -30,6 +30,10 @@ def get_track(track_id):
     url = 'https://api.spotify.com/v1/tracks/' + track_id
     return _retrieve_from_spotify(url)
 
+def get_albums(artist_id):
+    url = 'https://api.spotify.com/v1/artists/' + artist_id + '/albums'
+    return _retrieve_from_spotify(url)
+
 def get_audio_features(track_id):
     url = 'https://api.spotify.com/v1/audio-features/' + track_id
     return _retrieve_from_spotify(url)
